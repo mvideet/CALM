@@ -1,7 +1,7 @@
 # Experimental and research-specific directories
-src/probabilistic/
 src/AV_debug/
 src/num_shot_ablation/
+src/probabilistic/plots/
 SAV_results/
 
 # Conversion and utility scripts (internal use)
