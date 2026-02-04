@@ -1,0 +1,94 @@
+# External libraries (not part of this project)
+ltu/
+
+# Experimental outputs and results
+eval_res/
+SAV_results/
+SAVs/SAV_results/
+*.csv
+*.txt
+!README*.txt
+!requirements.txt
+
+# SLURM job outputs
+slurm/out/
+slurm/err/
+slurm/*.out
+slurm-*.out
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Python package build artifacts
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.safetensors
+
+# Large data files
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.cache
+logs/
+cache/
+
+# Results and output directories
+results/
+outputs/
+
+# Audio/video files (keep small examples)
+*.wav
+*.mp3
+*.flac
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Images (generated plots, etc.)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# JSON data files (keep small config examples)
+*.json
+!data/*.json

@@ -1,0 +1,59 @@
+[build-system]
+requires = ["setuptools>=42", "wheel", "torch>=2.0.0", "numpy>=1.26.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calm"
+version = "0.1.0"
+description = "CALM: Class-conditional Attention vectors for audio Language Models"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Chancharik Mitra", email = "cmitra@cs.cmu.edu" },
+    { name = "Brandon Huang", email = "zhaobin@berkeley.edu" },
+    { name = "Tianning (Ray) Chai", email = "raychai@berkeley.edu" }
+]
+keywords = ["deep learning", "audio", "language models", "few-shot learning", "classification"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3.10",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+dependencies = [
+    "torch>=2.0.1",
+    "torchaudio>=2.0.0",
+    "numpy>=1.26.0",
+    "pandas>=2.2.0",
+    "transformers>=4.40.0",
+    "scikit-learn>=1.5.0",
+    "matplotlib>=3.8.0",
+    "datasets>=2.19.0",
+    "filelock>=3.13.0",
+    "huggingface-hub>=0.23.0",
+    "scipy>=1.11.0",
+    "accelerate>=0.26.0",
+    "flash-attn",
+    "baukit @ git+https://github.com/davidbau/baukit",
+]
+requires-python = ">=3.10"
+
+[project.urls]
+homepage = "https://github.com/chancharikmitra/CALM"
+repository = "https://github.com/chancharikmitra/CALM"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.setuptools]
+package-dir = { "" = "." }
+
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+
+[tool.isort]
+profile = "black"

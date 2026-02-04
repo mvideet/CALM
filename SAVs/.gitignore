@@ -1,0 +1,80 @@
+# Experimental and research-specific directories
+src/probabilistic/
+src/AV_debug/
+src/num_shot_ablation/
+SAV_results/
+
+# Conversion and utility scripts (internal use)
+src/convert_dataset_*.py
+src/compute_vgg_embeddings.py
+src/generate_psuedolabel.py
+src/active_learning.py
+src/run_mcq_ans*.py
+
+# Shuffling scripts
+scripts/create_shuffled_datasets.py
+scripts/demo_shuffling.py
+scripts/shuffle_mcq_options.py
+scripts/README_shuffling.md
+
+# Results and outputs
+results/
+logs/
+cache/
+*.csv
+*.txt
+!README*.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Package build
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Large files
+*.npy
+*.npz
+*.pkl
+*.log
+
+# Media files
+*.wav
+*.mp3
+*.flac
+*.mp4
+*.png
+*.jpg
+*.pdf
+
+# Data files (keep example)
+data/*.json
+!data/example_format.json

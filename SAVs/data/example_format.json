@@ -1,0 +1,14 @@
+[
+  {
+    "wav": "/path/to/audio1.wav",
+    "question": "What sound is this?\nA. dog bark\nB. car horn\nC. music\nD. speech",
+    "answer": "A",
+    "mapped_label": "dog_bark"
+  },
+  {
+    "wav": "/path/to/audio2.wav",
+    "question": "What sound is this?\nA. dog bark\nB. car horn\nC. music\nD. speech",
+    "answer": "B",
+    "mapped_label": "car_horn"
+  }
+]
