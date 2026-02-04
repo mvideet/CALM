@@ -1,131 +1,183 @@
 # CALM: Class-conditional Attention vectors for audio Language Models
 
-CALM is a training-free method for extracting discriminative features from audio language models, enabling few-shot audio classification that outperforms fine-tuned baselines.
+A training-free method for few-shot audio classification using reliability-weighted attention head activations from audio language models.
 
 ## Overview
 
-Large audio language models excel at generative tasks but are not directly suited for discriminative tasks like classification. CALM extracts sparse attention head activations from these models and uses them as class-conditional features for classification.
+CALM extracts class-conditional attention vectors from audio language models (Qwen2-Audio, Qwen2.5-Omni) and uses them for few-shot classification without any fine-tuning. The method:
 
-**Key Features:**
-- Training-free: No model fine-tuning required
-- Few-shot: Works with just a handful of examples per class
-- Interpretable: Uses less than 1% of attention heads as features
-- Effective: Outperforms both few-shot and fine-tuned baselines
+1. Builds class prototype vectors from support samples
+2. Estimates per-head reliability scores on validation data
+3. Applies reliability-weighted voting for classification
 
 ## Installation
 
 ```bash
-git clone https://github.com/chancharikmitra/CALM.git
-cd CALM
-
-conda create -n calm python=3.10 -y
-conda activate calm
 pip install -e .
 ```
 
-## Quickstart
+### Requirements
 
-### Data Format
+- Python 3.8+
+- PyTorch 2.0+
+- transformers
+- torchaudio
+- baukit
+- scikit-learn
 
-Format your data as a JSON file with the following structure:
-
-```json
-[
-  {"wav": "/path/to/audio1.wav", "question": "What sound is this?", "mapped_label": "dog_bark"},
-  {"wav": "/path/to/audio2.wav", "question": "What sound is this?", "mapped_label": "car_horn"}
-]
-```
-
-### Classification
-
-```python
-from src.utils import load_model, mllm_encode, mllm_classify
-from src.preprocess import open_data
-
-# Load model
-model = load_model("qwen2-audio-instruct", "your_dataset")
-
-# Load data
-train_data = open_data("your_dataset", "/path/to/train.json")
-test_data = open_data("your_dataset", "/path/to/test.json")
-
-# Extract class-conditional attention vectors
-config = {"N_TRIALS": 1}
-class_embed = mllm_encode(model, train_data, num_head=20, config=config)
-
-# Classify
-for item in test_data:
-    prediction = mllm_classify(item, model, class_embed)
-    print(f"Predicted: {prediction}, Actual: {item['mapped_label']}")
-```
+## Quick Start
 
 ### Command Line
 
 ```bash
-python -m src.run_mcq_spoof \
+# Audio classification
+python -m src.run --task classify \
+    --model_name qwen2-audio-instruct \
+    --data_name vgg_sound_qa \
+    --train_path data/train.json \
+    --val_path data/val.json \
+    --test_path data/test.json
+
+# Spoofing detection
+python -m src.run --task spoof \
     --model_name qwen2-audio-instruct \
     --data_name LA_spoof \
-    --train_path /path/to/train.json \
-    --val_path /path/to/test.json
+    --train_path data/train.json \
+    --val_path data/val.json
+
+# Generate pseudolabels
+python -m src.run --task pseudolabel \
+    --model_name qwen2-audio-instruct \
+    --data_name audioset \
+    --train_path data/unlabeled.json \
+    --output_dir ./pseudolabels
 ```
+
+### Python API
+
+```python
+from src import (
+    load_model,
+    open_data,
+    calm_prepare_cache,
+    calm_compute_posteriors_from_cache,
+    calm_compute_reliability,
+    calm_build_weights_from_r,
+    calm_eval_from_posteriors,
+)
+
+# Load model and data
+model = load_model("qwen2-audio-instruct", "vgg_sound_qa")
+train_data = open_data("vgg_sound_qa", "train.json")
+val_data = open_data("vgg_sound_qa", "val.json")
+test_data = open_data("vgg_sound_qa", "test.json")
+
+# Build cache (extracts and caches activations)
+cache = calm_prepare_cache(
+    model,
+    support_data=train_data,
+    val_data=val_data,
+    test_data=test_data,
+    n_trials=20,
+    cache_dir="./cache"
+)
+
+# Compute per-head posteriors
+P_val = calm_compute_posteriors_from_cache(cache, tau=0.07, split="val")
+P_test = calm_compute_posteriors_from_cache(cache, tau=0.07, split="test")
+
+# Compute reliability weights
+r, counts = calm_compute_reliability(P_val, cache["val_labels_idx"], "margin_clamped")
+w = calm_build_weights_from_r(r, weight_scheme="margin_clamped", tau_w=1.0)
+
+# Evaluate
+accuracy = calm_eval_from_posteriors(P_test, w, test_labels_idx=cache["test_labels_idx"])
+print(f"Accuracy: {accuracy:.4f}")
+```
+
+## Hyperparameters
+
+| Parameter | Default | Description |
+|-----------|---------|-------------|
+| `tau` | 0.07 | Temperature for class posteriors (lower = sharper) |
+| `tau_w` | 1.0 | Temperature for head weighting |
+| `weight_scheme` | margin_clamped | Reliability estimation method |
+| `n_trials` | 20 | Number of trials for activation averaging |
+| `top_k` | None | Optional top-k head selection per class |
+| `last_n_tokens` | 1 | Number of tokens to average |
+
+### Weight Schemes
+
+- `margin_clamped`: Clamped margin between correct class and runner-up (recommended)
+- `margin_softmax`: Raw margin without clamping
+- `prob_softmax`: Mean probability for correct class
+- `brier_softmax`: Brier skill score
 
 ## Supported Models
 
-| Model | Identifier | Description |
-|-------|------------|-------------|
-| Qwen2-Audio-7B-Instruct | `qwen2-audio-instruct` | Audio-only language model |
-| Qwen2.5-Omni-7B | `qwen2.5_omni` | Audio-visual-language model |
+| Model | Identifier |
+|-------|------------|
+| Qwen2-Audio-7B-Instruct | `qwen2-audio-instruct` |
+| Qwen2.5-Omni-7B | `qwen2.5_omni` |
 
-## Supported Datasets
+## Data Format
 
-- VGGSound (`vgg_sound`, `vgg_sound_qa`)
-- ESC-50 (`esc_mcq`)
-- AudioSet (`audioset`)
-- ASVspoof/LA (`LA_spoof`)
-- MLAAD (`mlaad`)
+Input data should be JSON files with the following structure:
 
-## How It Works
+```json
+[
+  {
+    "wav": "/path/to/audio.wav",
+    "question": "What sound is this?",
+    "answer": "dog barking",
+    "label": "dog",
+    "mapped_label": "dog",
+    "options": ["cat", "dog", "bird", "car"]
+  }
+]
+```
 
-1. **Extract Activations**: For each training sample, extract attention head activations from the audio language model.
+Required fields:
+- `wav`: Path to audio file
+- `mapped_label`: Class label for the sample
 
-2. **Select Top Heads**: Evaluate each attention head's ability to discriminate between classes and select the top-k performing heads.
+Optional fields:
+- `question`, `answer`: For question-answering format
+- `options`: Multiple choice options
+- `label`: Original label (may differ from mapped_label)
 
-3. **Build Class Centroids**: Compute mean activations for each class using only the selected heads.
+## Project Structure
 
-4. **Classify**: For new inputs, extract activations for the selected heads and find the nearest class centroid using cosine similarity with majority voting.
-
-## API Reference
-
-### `load_model(model_name, cur_dataset)`
-Load a model and return its helper class.
-
-### `mllm_encode(model, train_data, num_head, config)`
-Extract class-conditional attention vectors from training data.
-
-Returns a dict with:
-- `activations`: Class centroids tensor
-- `top_heads`: Selected (layer, head) tuples
-- `int_to_str`: Class index to label mapping
-
-### `mllm_classify(inputs, model, class_embed)`
-Classify an input using the extracted embeddings.
-
-### `mllm_classify_spoof(inputs, model, class_embed)`
-Specialized classification for spoofing detection with confidence scores.
+```
+SAVs/
+├── src/
+│   ├── __init__.py      # Package exports
+│   ├── calm.py          # Core CALM algorithm
+│   ├── model.py         # Model helpers (Qwen2-Audio, Qwen2.5-Omni)
+│   ├── preprocess.py    # Data loading and formatting
+│   ├── pseudolabel.py   # Pseudolabel generation
+│   └── run.py           # Unified CLI entry point
+├── scripts/
+│   └── dataset_processing/  # Dataset preparation scripts
+├── data/
+│   └── example_format.json  # Example data format
+├── pyproject.toml
+├── LICENSE
+└── README.md
+```
 
 ## Citation
 
-If you find this work useful, please cite:
+If you use this code, please cite:
 
 ```bibtex
-@article{mitra2024sparse,
-  title={Sparse Attention Vectors: Generative Multimodal Model Features Are Discriminative Vision-Language Classifiers},
-  author={Mitra, Chancharik and Huang, Brandon and Chai, Tianning and Lin, Zhiqiu and Arbelle, Assaf and Feris, Rogerio and Karlinsky, Leonid and Darrell, Trevor and Ramanan, Deva and Herzig, Roei},
-  journal={arXiv preprint arXiv:2412.00142},
+@article{calm2024,
+  title={Class-conditional Attention Vectors for Audio Language Models},
+  author={...},
   year={2024}
 }
 ```
 
 ## License
 
-MIT License
+MIT License. See [LICENSE](LICENSE) for details.
