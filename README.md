@@ -2,13 +2,6 @@
 
 A training-free method for few-shot audio classification using reliability-weighted attention head activations from audio language models.
 
-## Overview
-
-CALM extracts class-conditional attention vectors from audio language models (Qwen2-Audio, Qwen2.5-Omni) and uses them for few-shot classification without any fine-tuning. The method:
-
-1. Builds class prototype vectors from support samples
-2. Estimates per-head reliability scores on validation data
-3. Applies reliability-weighted voting for classification
 
 ## Installation
 
