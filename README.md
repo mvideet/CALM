@@ -146,38 +146,7 @@ Optional fields:
 - `options`: Multiple choice options
 - `label`: Original label (may differ from mapped_label)
 
-## Project Structure
 
-```
-SAVs/
-├── src/
-│   ├── __init__.py      # Package exports
-│   ├── calm.py          # Core CALM algorithm
-│   ├── model.py         # Model helpers (Qwen2-Audio, Qwen2.5-Omni)
-│   ├── preprocess.py    # Data loading and formatting
-│   ├── pseudolabel.py   # Pseudolabel generation
-│   └── run.py           # Unified CLI entry point
-├── scripts/
-│   └── dataset_processing/  # Dataset preparation scripts
-├── data/
-│   └── example_format.json  # Example data format
-├── pyproject.toml
-├── LICENSE
-└── README.md
-```
-
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{calm2024,
-  title={Class-conditional Attention Vectors for Audio Language Models},
-  author={...},
-  year={2024}
-}
-```
-
-## License
+u## License
 
 MIT License. See [LICENSE](LICENSE) for details.
