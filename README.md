@@ -16,15 +16,6 @@ CALM extracts class-conditional attention vectors from audio language models (Qw
 pip install -e .
 ```
 
-### Requirements
-
-- Python 3.8+
-- PyTorch 2.0+
-- transformers
-- torchaudio
-- baukit
-- scikit-learn
-
 ## Quick Start
 
 ### Command Line
