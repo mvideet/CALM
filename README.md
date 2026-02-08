@@ -131,6 +131,6 @@ Optional fields:
 - `label`: Original label (may differ from mapped_label)
 
 
-u## License
+## License
 
 MIT License. See [LICENSE](LICENSE) for details.
