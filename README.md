@@ -79,23 +79,11 @@ accuracy = calm_eval_from_posteriors(P_test, w, test_labels_idx=cache["test_labe
 print(f"Accuracy: {accuracy:.4f}")
 ```
 
-## Hyperparameters
-
-| Parameter | Default | Description |
-|-----------|---------|-------------|
-| `tau` | 0.07 | Temperature for class posteriors (lower = sharper) |
-| `tau_w` | 1.0 | Temperature for head weighting |
-| `weight_scheme` | margin_clamped | Reliability estimation method |
-| `n_trials` | 20 | Number of trials for activation averaging |
-| `top_k` | None | Optional top-k head selection per class |
-| `last_n_tokens` | 1 | Number of tokens to average |
-
 ### Weight Schemes
 
 - `margin_clamped`: Clamped margin between correct class and runner-up (recommended)
 - `margin_softmax`: Raw margin without clamping
 - `prob_softmax`: Mean probability for correct class
-- `brier_softmax`: Brier skill score
 
 ## Supported Models
 
@@ -103,6 +91,8 @@ print(f"Accuracy: {accuracy:.4f}")
 |-------|------------|
 | Qwen2-Audio-7B-Instruct | `qwen2-audio-instruct` |
 | Qwen2.5-Omni-7B | `qwen2.5_omni` |
+
+Other and newer models should be quite simple to add.
 
 ## Data Format
 
