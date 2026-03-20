@@ -1,0 +1,122 @@
+[
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_8326861.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_4675650.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_2355486.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_3514252.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_2537113.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_5837486.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "bonafide",
+        "mapped_label": "bonafide"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_8078030.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_7550620.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_7415463.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_2335248.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_3962771.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_6708956.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "bonafide",
+        "mapped_label": "bonafide"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_6075750.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_1933449.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "bonafide",
+        "mapped_label": "bonafide"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_6278762.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_6017727.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_7463742.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_2362617.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_3704769.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    },
+    {
+        "wav": "/data/sls/scratch/mvideet/datasets/LA/ASVspoof2019_LA_train/flac/LA_T_5265433.flac",
+        "question": "Is this audio bonafide or spoofed? \n bonafide\n spoofed",
+        "answer": "spoof",
+        "mapped_label": "spoof"
+    }
+]

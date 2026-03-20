@@ -1,0 +1,2602 @@
+[
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-215449-A-47.wav",
+    "question": "What caption does the given audio belong to?\nA. siren B. airplane C. door_wood_knock D. sea_waves",
+    "answer": "B",
+    "label": "/m/07rwj47",
+    "mapped_label": "airplane",
+    "options": [
+      "siren",
+      "airplane",
+      "door_wood_knock",
+      "sea_waves"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-211527-B-20.wav",
+    "question": "What caption does the given audio belong to?\nA. crying_baby B. door_wood_creaks C. crickets D. mouse_click",
+    "answer": "A",
+    "label": "/m/07rwj20",
+    "mapped_label": "crying_baby",
+    "options": [
+      "crying_baby",
+      "door_wood_creaks",
+      "crickets",
+      "mouse_click"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-145487-A-24.wav",
+    "question": "What caption does the given audio belong to?\nA. cow B. hen C. coughing D. frog",
+    "answer": "C",
+    "label": "/m/07rwj24",
+    "mapped_label": "coughing",
+    "options": [
+      "cow",
+      "hen",
+      "coughing",
+      "frog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-158746-A-2.wav",
+    "question": "What caption does the given audio belong to?\nA. train B. water_drops C. coughing D. pig",
+    "answer": "D",
+    "label": "/m/07rwj02",
+    "mapped_label": "pig",
+    "options": [
+      "train",
+      "water_drops",
+      "coughing",
+      "pig"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-182369-A-12.wav",
+    "question": "What caption does the given audio belong to?\nA. frog B. door_wood_creaks C. coughing D. crackling_fire",
+    "answer": "D",
+    "label": "/m/07rwj12",
+    "mapped_label": "crackling_fire",
+    "options": [
+      "frog",
+      "door_wood_creaks",
+      "coughing",
+      "crackling_fire"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-40621-A-28.wav",
+    "question": "What caption does the given audio belong to?\nA. mouse_click B. brushing_teeth C. snoring D. frog",
+    "answer": "C",
+    "label": "/m/07rwj28",
+    "mapped_label": "snoring",
+    "options": [
+      "mouse_click",
+      "brushing_teeth",
+      "snoring",
+      "frog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-117615-D-48.wav",
+    "question": "What caption does the given audio belong to?\nA. fireworks B. crow C. sneezing D. frog",
+    "answer": "A",
+    "label": "/m/07rwj48",
+    "mapped_label": "fireworks",
+    "options": [
+      "fireworks",
+      "crow",
+      "sneezing",
+      "frog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-165801-A-48.wav",
+    "question": "What caption does the given audio belong to?\nA. can_opening B. fireworks C. rooster D. frog",
+    "answer": "B",
+    "label": "/m/07rwj48",
+    "mapped_label": "fireworks",
+    "options": [
+      "can_opening",
+      "fireworks",
+      "rooster",
+      "frog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-95258-B-1.wav",
+    "question": "What caption does the given audio belong to?\nA. rooster B. mouse_click C. sheep D. sneezing",
+    "answer": "A",
+    "label": "/m/07rwj01",
+    "mapped_label": "rooster",
+    "options": [
+      "rooster",
+      "mouse_click",
+      "sheep",
+      "sneezing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-103427-A-3.wav",
+    "question": "What caption does the given audio belong to?\nA. snoring B. cow C. dog D. airplane",
+    "answer": "B",
+    "label": "/m/07rwj03",
+    "mapped_label": "cow",
+    "options": [
+      "snoring",
+      "cow",
+      "dog",
+      "airplane"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-200329-C-8.wav",
+    "question": "What caption does the given audio belong to?\nA. pig B. sheep C. breathing D. footsteps",
+    "answer": "B",
+    "label": "/m/07rwj08",
+    "mapped_label": "sheep",
+    "options": [
+      "pig",
+      "sheep",
+      "breathing",
+      "footsteps"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-26176-A-43.wav",
+    "question": "What caption does the given audio belong to?\nA. car_horn B. church_bells C. coughing D. train",
+    "answer": "A",
+    "label": "/m/07rwj43",
+    "mapped_label": "car_horn",
+    "options": [
+      "car_horn",
+      "church_bells",
+      "coughing",
+      "train"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-144510-A-30.wav",
+    "question": "What caption does the given audio belong to?\nA. snoring B. glass_breaking C. washing_machine D. door_wood_knock",
+    "answer": "D",
+    "label": "/m/07rwj30",
+    "mapped_label": "door_wood_knock",
+    "options": [
+      "snoring",
+      "glass_breaking",
+      "washing_machine",
+      "door_wood_knock"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-170247-A-12.wav",
+    "question": "What caption does the given audio belong to?\nA. water_drops B. crackling_fire C. brushing_teeth D. chainsaw",
+    "answer": "B",
+    "label": "/m/07rwj12",
+    "mapped_label": "crackling_fire",
+    "options": [
+      "water_drops",
+      "crackling_fire",
+      "brushing_teeth",
+      "chainsaw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-173607-A-39.wav",
+    "question": "What caption does the given audio belong to?\nA. footsteps B. can_opening C. glass_breaking D. fireworks",
+    "answer": "C",
+    "label": "/m/07rwj39",
+    "mapped_label": "glass_breaking",
+    "options": [
+      "footsteps",
+      "can_opening",
+      "glass_breaking",
+      "fireworks"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-20861-A-8.wav",
+    "question": "What caption does the given audio belong to?\nA. vacuum_cleaner B. engine C. sheep D. breathing",
+    "answer": "C",
+    "label": "/m/07rwj08",
+    "mapped_label": "sheep",
+    "options": [
+      "vacuum_cleaner",
+      "engine",
+      "sheep",
+      "breathing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-98392-A-23.wav",
+    "question": "What caption does the given audio belong to?\nA. door_wood_creaks B. breathing C. crow D. wind",
+    "answer": "B",
+    "label": "/m/07rwj23",
+    "mapped_label": "breathing",
+    "options": [
+      "door_wood_creaks",
+      "breathing",
+      "crow",
+      "wind"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-65750-A-1.wav",
+    "question": "What caption does the given audio belong to?\nA. brushing_teeth B. helicopter C. sea_waves D. rooster",
+    "answer": "D",
+    "label": "/m/07rwj01",
+    "mapped_label": "rooster",
+    "options": [
+      "brushing_teeth",
+      "helicopter",
+      "sea_waves",
+      "rooster"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-164064-B-1.wav",
+    "question": "What caption does the given audio belong to?\nA. pouring_water B. rooster C. hand_saw D. airplane",
+    "answer": "B",
+    "label": "/m/07rwj01",
+    "mapped_label": "rooster",
+    "options": [
+      "pouring_water",
+      "rooster",
+      "hand_saw",
+      "airplane"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-146877-A-31.wav",
+    "question": "What caption does the given audio belong to?\nA. car_horn B. mouse_click C. chainsaw D. sea_waves",
+    "answer": "B",
+    "label": "/m/07rwj31",
+    "mapped_label": "mouse_click",
+    "options": [
+      "car_horn",
+      "mouse_click",
+      "chainsaw",
+      "sea_waves"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-118817-A-32.wav",
+    "question": "What caption does the given audio belong to?\nA. toilet_flush B. crackling_fire C. crying_baby D. keyboard_typing",
+    "answer": "D",
+    "label": "/m/07rwj32",
+    "mapped_label": "keyboard_typing",
+    "options": [
+      "toilet_flush",
+      "crackling_fire",
+      "crying_baby",
+      "keyboard_typing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-149042-A-24.wav",
+    "question": "What caption does the given audio belong to?\nA. coughing B. church_bells C. breathing D. sheep",
+    "answer": "A",
+    "label": "/m/07rwj24",
+    "mapped_label": "coughing",
+    "options": [
+      "coughing",
+      "church_bells",
+      "breathing",
+      "sheep"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-175845-A-43.wav",
+    "question": "What caption does the given audio belong to?\nA. footsteps B. vacuum_cleaner C. car_horn D. train",
+    "answer": "C",
+    "label": "/m/07rwj43",
+    "mapped_label": "car_horn",
+    "options": [
+      "footsteps",
+      "vacuum_cleaner",
+      "car_horn",
+      "train"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-263775-B-26.wav",
+    "question": "What caption does the given audio belong to?\nA. toilet_flush B. vacuum_cleaner C. water_drops D. laughing",
+    "answer": "D",
+    "label": "/m/07rwj26",
+    "mapped_label": "laughing",
+    "options": [
+      "toilet_flush",
+      "vacuum_cleaner",
+      "water_drops",
+      "laughing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-156844-A-21.wav",
+    "question": "What caption does the given audio belong to?\nA. sneezing B. church_bells C. snoring D. pouring_water",
+    "answer": "A",
+    "label": "/m/07rwj21",
+    "mapped_label": "sneezing",
+    "options": [
+      "sneezing",
+      "church_bells",
+      "snoring",
+      "pouring_water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-69131-A-5.wav",
+    "question": "What caption does the given audio belong to?\nA. cow B. door_wood_creaks C. breathing D. cat",
+    "answer": "D",
+    "label": "/m/07rwj05",
+    "mapped_label": "cat",
+    "options": [
+      "cow",
+      "door_wood_creaks",
+      "breathing",
+      "cat"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-200461-B-11.wav",
+    "question": "What caption does the given audio belong to?\nA. glass_breaking B. can_opening C. sea_waves D. mouse_click",
+    "answer": "C",
+    "label": "/m/07rwj11",
+    "mapped_label": "sea_waves",
+    "options": [
+      "glass_breaking",
+      "can_opening",
+      "sea_waves",
+      "mouse_click"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-88409-A-45.wav",
+    "question": "What caption does the given audio belong to?\nA. hand_saw B. pouring_water C. siren D. train",
+    "answer": "D",
+    "label": "/m/07rwj45",
+    "mapped_label": "train",
+    "options": [
+      "hand_saw",
+      "pouring_water",
+      "siren",
+      "train"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-108760-A-14.wav",
+    "question": "What caption does the given audio belong to?\nA. helicopter B. hand_saw C. drinking_sipping D. chirping_birds",
+    "answer": "D",
+    "label": "/m/07rwj14",
+    "mapped_label": "chirping_birds",
+    "options": [
+      "helicopter",
+      "hand_saw",
+      "drinking_sipping",
+      "chirping_birds"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-201172-A-46.wav",
+    "question": "What caption does the given audio belong to?\nA. footsteps B. pig C. chirping_birds D. church_bells",
+    "answer": "D",
+    "label": "/m/07rwj46",
+    "mapped_label": "church_bells",
+    "options": [
+      "footsteps",
+      "pig",
+      "chirping_birds",
+      "church_bells"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-259180-A-15.wav",
+    "question": "What caption does the given audio belong to?\nA. rooster B. water_drops C. airplane D. rain",
+    "answer": "B",
+    "label": "/m/07rwj15",
+    "mapped_label": "water_drops",
+    "options": [
+      "rooster",
+      "water_drops",
+      "airplane",
+      "rain"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-187769-A-14.wav",
+    "question": "What caption does the given audio belong to?\nA. sea_waves B. airplane C. chirping_birds D. mouse_click",
+    "answer": "C",
+    "label": "/m/07rwj14",
+    "mapped_label": "chirping_birds",
+    "options": [
+      "sea_waves",
+      "airplane",
+      "chirping_birds",
+      "mouse_click"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-7321-A-33.wav",
+    "question": "What caption does the given audio belong to?\nA. brushing_teeth B. door_wood_creaks C. train D. clapping",
+    "answer": "B",
+    "label": "/m/07rwj33",
+    "mapped_label": "door_wood_creaks",
+    "options": [
+      "brushing_teeth",
+      "door_wood_creaks",
+      "train",
+      "clapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-102414-A-17.wav",
+    "question": "What caption does the given audio belong to?\nA. chirping_birds B. can_opening C. pouring_water D. crickets",
+    "answer": "C",
+    "label": "/m/07rwj17",
+    "mapped_label": "pouring_water",
+    "options": [
+      "chirping_birds",
+      "can_opening",
+      "pouring_water",
+      "crickets"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-117250-A-2.wav",
+    "question": "What caption does the given audio belong to?\nA. crickets B. glass_breaking C. fireworks D. pig",
+    "answer": "D",
+    "label": "/m/07rwj02",
+    "mapped_label": "pig",
+    "options": [
+      "crickets",
+      "glass_breaking",
+      "fireworks",
+      "pig"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-193480-B-40.wav",
+    "question": "What caption does the given audio belong to?\nA. clock_tick B. toilet_flush C. helicopter D. clock_alarm",
+    "answer": "C",
+    "label": "/m/07rwj40",
+    "mapped_label": "helicopter",
+    "options": [
+      "clock_tick",
+      "toilet_flush",
+      "helicopter",
+      "clock_alarm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-31251-B-6.wav",
+    "question": "What caption does the given audio belong to?\nA. pouring_water B. chirping_birds C. hen D. helicopter",
+    "answer": "C",
+    "label": "/m/07rwj06",
+    "mapped_label": "hen",
+    "options": [
+      "pouring_water",
+      "chirping_birds",
+      "hen",
+      "helicopter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-80844-A-13.wav",
+    "question": "What caption does the given audio belong to?\nA. crickets B. snoring C. helicopter D. wind",
+    "answer": "A",
+    "label": "/m/07rwj13",
+    "mapped_label": "crickets",
+    "options": [
+      "crickets",
+      "snoring",
+      "helicopter",
+      "wind"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-114587-A-0.wav",
+    "question": "What caption does the given audio belong to?\nA. door_wood_knock B. footsteps C. dog D. rooster",
+    "answer": "C",
+    "label": "/m/07rwj00",
+    "mapped_label": "dog",
+    "options": [
+      "door_wood_knock",
+      "footsteps",
+      "dog",
+      "rooster"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-140199-A-8.wav",
+    "question": "What caption does the given audio belong to?\nA. toilet_flush B. crying_baby C. clapping D. sheep",
+    "answer": "D",
+    "label": "/m/07rwj08",
+    "mapped_label": "sheep",
+    "options": [
+      "toilet_flush",
+      "crying_baby",
+      "clapping",
+      "sheep"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-244526-A-26.wav",
+    "question": "What caption does the given audio belong to?\nA. laughing B. engine C. clock_alarm D. mouse_click",
+    "answer": "A",
+    "label": "/m/07rwj26",
+    "mapped_label": "laughing",
+    "options": [
+      "laughing",
+      "engine",
+      "clock_alarm",
+      "mouse_click"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-75190-A-8.wav",
+    "question": "What caption does the given audio belong to?\nA. frog B. can_opening C. sheep D. sea_waves",
+    "answer": "C",
+    "label": "/m/07rwj08",
+    "mapped_label": "sheep",
+    "options": [
+      "frog",
+      "can_opening",
+      "sheep",
+      "sea_waves"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-120644-A-12.wav",
+    "question": "What caption does the given audio belong to?\nA. crackling_fire B. rain C. cow D. hand_saw",
+    "answer": "A",
+    "label": "/m/07rwj12",
+    "mapped_label": "crackling_fire",
+    "options": [
+      "crackling_fire",
+      "rain",
+      "cow",
+      "hand_saw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-156026-C-4.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. frog C. drinking_sipping D. crickets",
+    "answer": "B",
+    "label": "/m/07rwj04",
+    "mapped_label": "frog",
+    "options": [
+      "clapping",
+      "frog",
+      "drinking_sipping",
+      "crickets"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-72970-A-10.wav",
+    "question": "What caption does the given audio belong to?\nA. rain B. fireworks C. sheep D. sea_waves",
+    "answer": "A",
+    "label": "/m/07rwj10",
+    "mapped_label": "rain",
+    "options": [
+      "rain",
+      "fireworks",
+      "sheep",
+      "sea_waves"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-19501-A-7.wav",
+    "question": "What caption does the given audio belong to?\nA. insects B. door_wood_creaks C. pig D. can_opening",
+    "answer": "A",
+    "label": "/m/07rwj07",
+    "mapped_label": "insects",
+    "options": [
+      "insects",
+      "door_wood_creaks",
+      "pig",
+      "can_opening"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-163697-A-13.wav",
+    "question": "What caption does the given audio belong to?\nA. cat B. insects C. crying_baby D. crickets",
+    "answer": "D",
+    "label": "/m/07rwj13",
+    "mapped_label": "crickets",
+    "options": [
+      "cat",
+      "insects",
+      "crying_baby",
+      "crickets"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-125070-A-19.wav",
+    "question": "What caption does the given audio belong to?\nA. keyboard_typing B. airplane C. dog D. thunderstorm",
+    "answer": "D",
+    "label": "/m/07rwj19",
+    "mapped_label": "thunderstorm",
+    "options": [
+      "keyboard_typing",
+      "airplane",
+      "dog",
+      "thunderstorm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-209989-A-22.wav",
+    "question": "What caption does the given audio belong to?\nA. sea_waves B. water_drops C. clapping D. toilet_flush",
+    "answer": "C",
+    "label": "/m/07rwj22",
+    "mapped_label": "clapping",
+    "options": [
+      "sea_waves",
+      "water_drops",
+      "clapping",
+      "toilet_flush"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-151255-A-28.wav",
+    "question": "What caption does the given audio belong to?\nA. snoring B. mouse_click C. pig D. chirping_birds",
+    "answer": "A",
+    "label": "/m/07rwj28",
+    "mapped_label": "snoring",
+    "options": [
+      "snoring",
+      "mouse_click",
+      "pig",
+      "chirping_birds"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-108791-A-18.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. pig C. toilet_flush D. insects",
+    "answer": "C",
+    "label": "/m/07rwj18",
+    "mapped_label": "toilet_flush",
+    "options": [
+      "clapping",
+      "pig",
+      "toilet_flush",
+      "insects"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-142593-A-38.wav",
+    "question": "What caption does the given audio belong to?\nA. fireworks B. door_wood_knock C. clock_tick D. can_opening",
+    "answer": "C",
+    "label": "/m/07rwj38",
+    "mapped_label": "clock_tick",
+    "options": [
+      "fireworks",
+      "door_wood_knock",
+      "clock_tick",
+      "can_opening"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-72195-B-37.wav",
+    "question": "What caption does the given audio belong to?\nA. pig B. footsteps C. church_bells D. clock_alarm",
+    "answer": "D",
+    "label": "/m/07rwj37",
+    "mapped_label": "clock_alarm",
+    "options": [
+      "pig",
+      "footsteps",
+      "church_bells",
+      "clock_alarm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-182034-A-30.wav",
+    "question": "What caption does the given audio belong to?\nA. breathing B. rooster C. wind D. door_wood_knock",
+    "answer": "D",
+    "label": "/m/07rwj30",
+    "mapped_label": "door_wood_knock",
+    "options": [
+      "breathing",
+      "rooster",
+      "wind",
+      "door_wood_knock"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-139748-B-15.wav",
+    "question": "What caption does the given audio belong to?\nA. water_drops B. fireworks C. coughing D. thunderstorm",
+    "answer": "A",
+    "label": "/m/07rwj15",
+    "mapped_label": "water_drops",
+    "options": [
+      "water_drops",
+      "fireworks",
+      "coughing",
+      "thunderstorm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-82367-A-10.wav",
+    "question": "What caption does the given audio belong to?\nA. insects B. cat C. toilet_flush D. rain",
+    "answer": "D",
+    "label": "/m/07rwj10",
+    "mapped_label": "rain",
+    "options": [
+      "insects",
+      "cat",
+      "toilet_flush",
+      "rain"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-175025-A-34.wav",
+    "question": "What caption does the given audio belong to?\nA. thunderstorm B. cow C. can_opening D. sea_waves",
+    "answer": "C",
+    "label": "/m/07rwj34",
+    "mapped_label": "can_opening",
+    "options": [
+      "thunderstorm",
+      "cow",
+      "can_opening",
+      "sea_waves"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-51170-A-18.wav",
+    "question": "What caption does the given audio belong to?\nA. snoring B. hand_saw C. toilet_flush D. sea_waves",
+    "answer": "C",
+    "label": "/m/07rwj18",
+    "mapped_label": "toilet_flush",
+    "options": [
+      "snoring",
+      "hand_saw",
+      "toilet_flush",
+      "sea_waves"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-204123-A-39.wav",
+    "question": "What caption does the given audio belong to?\nA. chainsaw B. door_wood_knock C. glass_breaking D. siren",
+    "answer": "C",
+    "label": "/m/07rwj39",
+    "mapped_label": "glass_breaking",
+    "options": [
+      "chainsaw",
+      "door_wood_knock",
+      "glass_breaking",
+      "siren"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-19026-A-43.wav",
+    "question": "What caption does the given audio belong to?\nA. crackling_fire B. airplane C. car_horn D. sheep",
+    "answer": "C",
+    "label": "/m/07rwj43",
+    "mapped_label": "car_horn",
+    "options": [
+      "crackling_fire",
+      "airplane",
+      "car_horn",
+      "sheep"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-171652-A-44.wav",
+    "question": "What caption does the given audio belong to?\nA. crying_baby B. wind C. engine D. glass_breaking",
+    "answer": "C",
+    "label": "/m/07rwj44",
+    "mapped_label": "engine",
+    "options": [
+      "crying_baby",
+      "wind",
+      "engine",
+      "glass_breaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-120218-B-30.wav",
+    "question": "What caption does the given audio belong to?\nA. crow B. pouring_water C. door_wood_knock D. clock_tick",
+    "answer": "C",
+    "label": "/m/07rwj30",
+    "mapped_label": "door_wood_knock",
+    "options": [
+      "crow",
+      "pouring_water",
+      "door_wood_knock",
+      "clock_tick"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-146964-A-5.wav",
+    "question": "What caption does the given audio belong to?\nA. crackling_fire B. sea_waves C. dog D. cat",
+    "answer": "D",
+    "label": "/m/07rwj05",
+    "mapped_label": "cat",
+    "options": [
+      "crackling_fire",
+      "sea_waves",
+      "dog",
+      "cat"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-151273-A-35.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. rain C. washing_machine D. fireworks",
+    "answer": "C",
+    "label": "/m/07rwj35",
+    "mapped_label": "washing_machine",
+    "options": [
+      "clapping",
+      "rain",
+      "washing_machine",
+      "fireworks"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-205090-A-32.wav",
+    "question": "What caption does the given audio belong to?\nA. washing_machine B. cow C. keyboard_typing D. sneezing",
+    "answer": "C",
+    "label": "/m/07rwj32",
+    "mapped_label": "keyboard_typing",
+    "options": [
+      "washing_machine",
+      "cow",
+      "keyboard_typing",
+      "sneezing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-159445-B-45.wav",
+    "question": "What caption does the given audio belong to?\nA. train B. rain C. pouring_water D. cow",
+    "answer": "A",
+    "label": "/m/07rwj45",
+    "mapped_label": "train",
+    "options": [
+      "train",
+      "rain",
+      "pouring_water",
+      "cow"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-123680-A-18.wav",
+    "question": "What caption does the given audio belong to?\nA. cat B. helicopter C. siren D. toilet_flush",
+    "answer": "D",
+    "label": "/m/07rwj18",
+    "mapped_label": "toilet_flush",
+    "options": [
+      "cat",
+      "helicopter",
+      "siren",
+      "toilet_flush"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-69165-A-34.wav",
+    "question": "What caption does the given audio belong to?\nA. frog B. clock_tick C. helicopter D. can_opening",
+    "answer": "D",
+    "label": "/m/07rwj34",
+    "mapped_label": "can_opening",
+    "options": [
+      "frog",
+      "clock_tick",
+      "helicopter",
+      "can_opening"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-245040-A-35.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. rain C. washing_machine D. church_bells",
+    "answer": "C",
+    "label": "/m/07rwj35",
+    "mapped_label": "washing_machine",
+    "options": [
+      "clapping",
+      "rain",
+      "washing_machine",
+      "church_bells"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-155858-C-25.wav",
+    "question": "What caption does the given audio belong to?\nA. breathing B. footsteps C. laughing D. chainsaw",
+    "answer": "B",
+    "label": "/m/07rwj25",
+    "mapped_label": "footsteps",
+    "options": [
+      "breathing",
+      "footsteps",
+      "laughing",
+      "chainsaw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-54752-A-18.wav",
+    "question": "What caption does the given audio belong to?\nA. footsteps B. toilet_flush C. washing_machine D. chainsaw",
+    "answer": "B",
+    "label": "/m/07rwj18",
+    "mapped_label": "toilet_flush",
+    "options": [
+      "footsteps",
+      "toilet_flush",
+      "washing_machine",
+      "chainsaw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-85123-A-31.wav",
+    "question": "What caption does the given audio belong to?\nA. cat B. train C. crickets D. mouse_click",
+    "answer": "D",
+    "label": "/m/07rwj31",
+    "mapped_label": "mouse_click",
+    "options": [
+      "cat",
+      "train",
+      "crickets",
+      "mouse_click"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-198965-A-38.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. dog C. car_horn D. clock_tick",
+    "answer": "D",
+    "label": "/m/07rwj38",
+    "mapped_label": "clock_tick",
+    "options": [
+      "clapping",
+      "dog",
+      "car_horn",
+      "clock_tick"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-217186-C-16.wav",
+    "question": "What caption does the given audio belong to?\nA. wind B. fireworks C. toilet_flush D. snoring",
+    "answer": "A",
+    "label": "/m/07rwj16",
+    "mapped_label": "wind",
+    "options": [
+      "wind",
+      "fireworks",
+      "toilet_flush",
+      "snoring"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-237499-A-4.wav",
+    "question": "What caption does the given audio belong to?\nA. cat B. vacuum_cleaner C. frog D. airplane",
+    "answer": "C",
+    "label": "/m/07rwj04",
+    "mapped_label": "frog",
+    "options": [
+      "cat",
+      "vacuum_cleaner",
+      "frog",
+      "airplane"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-103298-A-9.wav",
+    "question": "What caption does the given audio belong to?\nA. thunderstorm B. brushing_teeth C. crow D. water_drops",
+    "answer": "C",
+    "label": "/m/07rwj09",
+    "mapped_label": "crow",
+    "options": [
+      "thunderstorm",
+      "brushing_teeth",
+      "crow",
+      "water_drops"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-141682-B-36.wav",
+    "question": "What caption does the given audio belong to?\nA. laughing B. crying_baby C. vacuum_cleaner D. helicopter",
+    "answer": "C",
+    "label": "/m/07rwj36",
+    "mapped_label": "vacuum_cleaner",
+    "options": [
+      "laughing",
+      "crying_baby",
+      "vacuum_cleaner",
+      "helicopter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-178096-A-6.wav",
+    "question": "What caption does the given audio belong to?\nA. vacuum_cleaner B. water_drops C. hen D. clock_alarm",
+    "answer": "C",
+    "label": "/m/07rwj06",
+    "mapped_label": "hen",
+    "options": [
+      "vacuum_cleaner",
+      "water_drops",
+      "hen",
+      "clock_alarm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-176914-A-23.wav",
+    "question": "What caption does the given audio belong to?\nA. breathing B. snoring C. sheep D. keyboard_typing",
+    "answer": "A",
+    "label": "/m/07rwj23",
+    "mapped_label": "breathing",
+    "options": [
+      "breathing",
+      "snoring",
+      "sheep",
+      "keyboard_typing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-12653-A-15.wav",
+    "question": "What caption does the given audio belong to?\nA. crickets B. mouse_click C. water_drops D. chainsaw",
+    "answer": "C",
+    "label": "/m/07rwj15",
+    "mapped_label": "water_drops",
+    "options": [
+      "crickets",
+      "mouse_click",
+      "water_drops",
+      "chainsaw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-37806-C-40.wav",
+    "question": "What caption does the given audio belong to?\nA. thunderstorm B. fireworks C. car_horn D. helicopter",
+    "answer": "D",
+    "label": "/m/07rwj40",
+    "mapped_label": "helicopter",
+    "options": [
+      "thunderstorm",
+      "fireworks",
+      "car_horn",
+      "helicopter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-203128-B-0.wav",
+    "question": "What caption does the given audio belong to?\nA. insects B. door_wood_creaks C. coughing D. dog",
+    "answer": "D",
+    "label": "/m/07rwj00",
+    "mapped_label": "dog",
+    "options": [
+      "insects",
+      "door_wood_creaks",
+      "coughing",
+      "dog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-123896-A-24.wav",
+    "question": "What caption does the given audio belong to?\nA. coughing B. train C. crackling_fire D. drinking_sipping",
+    "answer": "A",
+    "label": "/m/07rwj24",
+    "mapped_label": "coughing",
+    "options": [
+      "coughing",
+      "train",
+      "crackling_fire",
+      "drinking_sipping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-182007-A-36.wav",
+    "question": "What caption does the given audio belong to?\nA. vacuum_cleaner B. door_wood_knock C. rain D. washing_machine",
+    "answer": "A",
+    "label": "/m/07rwj36",
+    "mapped_label": "vacuum_cleaner",
+    "options": [
+      "vacuum_cleaner",
+      "door_wood_knock",
+      "rain",
+      "washing_machine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-130584-A-4.wav",
+    "question": "What caption does the given audio belong to?\nA. sea_waves B. crickets C. frog D. dog",
+    "answer": "C",
+    "label": "/m/07rwj04",
+    "mapped_label": "frog",
+    "options": [
+      "sea_waves",
+      "crickets",
+      "frog",
+      "dog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-70344-A-33.wav",
+    "question": "What caption does the given audio belong to?\nA. hand_saw B. door_wood_creaks C. train D. pouring_water",
+    "answer": "B",
+    "label": "/m/07rwj33",
+    "mapped_label": "door_wood_creaks",
+    "options": [
+      "hand_saw",
+      "door_wood_creaks",
+      "train",
+      "pouring_water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-119455-A-44.wav",
+    "question": "What caption does the given audio belong to?\nA. keyboard_typing B. engine C. crickets D. sheep",
+    "answer": "B",
+    "label": "/m/07rwj44",
+    "mapped_label": "engine",
+    "options": [
+      "keyboard_typing",
+      "engine",
+      "crickets",
+      "sheep"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-30043-A-26.wav",
+    "question": "What caption does the given audio belong to?\nA. laughing B. breathing C. frog D. coughing",
+    "answer": "A",
+    "label": "/m/07rwj26",
+    "mapped_label": "laughing",
+    "options": [
+      "laughing",
+      "breathing",
+      "frog",
+      "coughing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-127109-A-6.wav",
+    "question": "What caption does the given audio belong to?\nA. chirping_birds B. sneezing C. clock_alarm D. hen",
+    "answer": "D",
+    "label": "/m/07rwj06",
+    "mapped_label": "hen",
+    "options": [
+      "chirping_birds",
+      "sneezing",
+      "clock_alarm",
+      "hen"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-117795-A-3.wav",
+    "question": "What caption does the given audio belong to?\nA. cow B. glass_breaking C. wind D. sea_waves",
+    "answer": "A",
+    "label": "/m/07rwj03",
+    "mapped_label": "cow",
+    "options": [
+      "cow",
+      "glass_breaking",
+      "wind",
+      "sea_waves"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-51805-A-33.wav",
+    "question": "What caption does the given audio belong to?\nA. door_wood_creaks B. chirping_birds C. thunderstorm D. clock_tick",
+    "answer": "A",
+    "label": "/m/07rwj33",
+    "mapped_label": "door_wood_creaks",
+    "options": [
+      "door_wood_creaks",
+      "chirping_birds",
+      "thunderstorm",
+      "clock_tick"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-54065-A-45.wav",
+    "question": "What caption does the given audio belong to?\nA. car_horn B. breathing C. crackling_fire D. train",
+    "answer": "D",
+    "label": "/m/07rwj45",
+    "mapped_label": "train",
+    "options": [
+      "car_horn",
+      "breathing",
+      "crackling_fire",
+      "train"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-151206-A-23.wav",
+    "question": "What caption does the given audio belong to?\nA. breathing B. vacuum_cleaner C. train D. washing_machine",
+    "answer": "A",
+    "label": "/m/07rwj23",
+    "mapped_label": "breathing",
+    "options": [
+      "breathing",
+      "vacuum_cleaner",
+      "train",
+      "washing_machine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-209472-A-25.wav",
+    "question": "What caption does the given audio belong to?\nA. church_bells B. footsteps C. chainsaw D. engine",
+    "answer": "B",
+    "label": "/m/07rwj25",
+    "mapped_label": "footsteps",
+    "options": [
+      "church_bells",
+      "footsteps",
+      "chainsaw",
+      "engine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-97392-A-0.wav",
+    "question": "What caption does the given audio belong to?\nA. hand_saw B. insects C. siren D. dog",
+    "answer": "D",
+    "label": "/m/07rwj00",
+    "mapped_label": "dog",
+    "options": [
+      "hand_saw",
+      "insects",
+      "siren",
+      "dog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-47819-B-5.wav",
+    "question": "What caption does the given audio belong to?\nA. coughing B. rain C. cat D. pig",
+    "answer": "C",
+    "label": "/m/07rwj05",
+    "mapped_label": "cat",
+    "options": [
+      "coughing",
+      "rain",
+      "cat",
+      "pig"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-144891-B-19.wav",
+    "question": "What caption does the given audio belong to?\nA. crickets B. thunderstorm C. crackling_fire D. fireworks",
+    "answer": "B",
+    "label": "/m/07rwj19",
+    "mapped_label": "thunderstorm",
+    "options": [
+      "crickets",
+      "thunderstorm",
+      "crackling_fire",
+      "fireworks"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-170002-A-34.wav",
+    "question": "What caption does the given audio belong to?\nA. engine B. sneezing C. can_opening D. chirping_birds",
+    "answer": "C",
+    "label": "/m/07rwj34",
+    "mapped_label": "can_opening",
+    "options": [
+      "engine",
+      "sneezing",
+      "can_opening",
+      "chirping_birds"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-177957-A-40.wav",
+    "question": "What caption does the given audio belong to?\nA. airplane B. helicopter C. pig D. train",
+    "answer": "B",
+    "label": "/m/07rwj40",
+    "mapped_label": "helicopter",
+    "options": [
+      "airplane",
+      "helicopter",
+      "pig",
+      "train"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-125966-A-11.wav",
+    "question": "What caption does the given audio belong to?\nA. crow B. sea_waves C. chainsaw D. footsteps",
+    "answer": "B",
+    "label": "/m/07rwj11",
+    "mapped_label": "sea_waves",
+    "options": [
+      "crow",
+      "sea_waves",
+      "chainsaw",
+      "footsteps"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-99958-A-31.wav",
+    "question": "What caption does the given audio belong to?\nA. crickets B. car_horn C. fireworks D. mouse_click",
+    "answer": "D",
+    "label": "/m/07rwj31",
+    "mapped_label": "mouse_click",
+    "options": [
+      "crickets",
+      "car_horn",
+      "fireworks",
+      "mouse_click"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-121978-A-29.wav",
+    "question": "What caption does the given audio belong to?\nA. insects B. crying_baby C. dog D. drinking_sipping",
+    "answer": "D",
+    "label": "/m/07rwj29",
+    "mapped_label": "drinking_sipping",
+    "options": [
+      "insects",
+      "crying_baby",
+      "dog",
+      "drinking_sipping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-104761-B-7.wav",
+    "question": "What caption does the given audio belong to?\nA. church_bells B. insects C. toilet_flush D. crickets",
+    "answer": "B",
+    "label": "/m/07rwj07",
+    "mapped_label": "insects",
+    "options": [
+      "church_bells",
+      "insects",
+      "toilet_flush",
+      "crickets"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-121348-A-9.wav",
+    "question": "What caption does the given audio belong to?\nA. breathing B. crow C. snoring D. brushing_teeth",
+    "answer": "B",
+    "label": "/m/07rwj09",
+    "mapped_label": "crow",
+    "options": [
+      "breathing",
+      "crow",
+      "snoring",
+      "brushing_teeth"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-118625-A-30.wav",
+    "question": "What caption does the given audio belong to?\nA. coughing B. wind C. door_wood_knock D. thunderstorm",
+    "answer": "C",
+    "label": "/m/07rwj30",
+    "mapped_label": "door_wood_knock",
+    "options": [
+      "coughing",
+      "wind",
+      "door_wood_knock",
+      "thunderstorm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-130891-A-7.wav",
+    "question": "What caption does the given audio belong to?\nA. insects B. sneezing C. crickets D. door_wood_knock",
+    "answer": "A",
+    "label": "/m/07rwj07",
+    "mapped_label": "insects",
+    "options": [
+      "insects",
+      "sneezing",
+      "crickets",
+      "door_wood_knock"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-171519-A-21.wav",
+    "question": "What caption does the given audio belong to?\nA. sneezing B. sheep C. laughing D. can_opening",
+    "answer": "A",
+    "label": "/m/07rwj21",
+    "mapped_label": "sneezing",
+    "options": [
+      "sneezing",
+      "sheep",
+      "laughing",
+      "can_opening"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-234263-A-25.wav",
+    "question": "What caption does the given audio belong to?\nA. vacuum_cleaner B. footsteps C. crying_baby D. keyboard_typing",
+    "answer": "B",
+    "label": "/m/07rwj25",
+    "mapped_label": "footsteps",
+    "options": [
+      "vacuum_cleaner",
+      "footsteps",
+      "crying_baby",
+      "keyboard_typing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-218196-B-27.wav",
+    "question": "What caption does the given audio belong to?\nA. brushing_teeth B. church_bells C. crying_baby D. thunderstorm",
+    "answer": "A",
+    "label": "/m/07rwj27",
+    "mapped_label": "brushing_teeth",
+    "options": [
+      "brushing_teeth",
+      "church_bells",
+      "crying_baby",
+      "thunderstorm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-22804-A-46.wav",
+    "question": "What caption does the given audio belong to?\nA. brushing_teeth B. rooster C. church_bells D. snoring",
+    "answer": "C",
+    "label": "/m/07rwj46",
+    "mapped_label": "church_bells",
+    "options": [
+      "brushing_teeth",
+      "rooster",
+      "church_bells",
+      "snoring"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-172366-A-37.wav",
+    "question": "What caption does the given audio belong to?\nA. clock_alarm B. breathing C. footsteps D. rooster",
+    "answer": "A",
+    "label": "/m/07rwj37",
+    "mapped_label": "clock_alarm",
+    "options": [
+      "clock_alarm",
+      "breathing",
+      "footsteps",
+      "rooster"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-154443-A-24.wav",
+    "question": "What caption does the given audio belong to?\nA. keyboard_typing B. coughing C. helicopter D. hen",
+    "answer": "B",
+    "label": "/m/07rwj24",
+    "mapped_label": "coughing",
+    "options": [
+      "keyboard_typing",
+      "coughing",
+      "helicopter",
+      "hen"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-19898-B-41.wav",
+    "question": "What caption does the given audio belong to?\nA. snoring B. thunderstorm C. engine D. chainsaw",
+    "answer": "D",
+    "label": "/m/07rwj41",
+    "mapped_label": "chainsaw",
+    "options": [
+      "snoring",
+      "thunderstorm",
+      "engine",
+      "chainsaw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-174866-A-29.wav",
+    "question": "What caption does the given audio belong to?\nA. drinking_sipping B. coughing C. keyboard_typing D. snoring",
+    "answer": "A",
+    "label": "/m/07rwj29",
+    "mapped_label": "drinking_sipping",
+    "options": [
+      "drinking_sipping",
+      "coughing",
+      "keyboard_typing",
+      "snoring"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-43807-A-47.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. airplane C. mouse_click D. helicopter",
+    "answer": "B",
+    "label": "/m/07rwj47",
+    "mapped_label": "airplane",
+    "options": [
+      "clapping",
+      "airplane",
+      "mouse_click",
+      "helicopter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-120333-A-32.wav",
+    "question": "What caption does the given audio belong to?\nA. keyboard_typing B. car_horn C. hen D. washing_machine",
+    "answer": "A",
+    "label": "/m/07rwj32",
+    "mapped_label": "keyboard_typing",
+    "options": [
+      "keyboard_typing",
+      "car_horn",
+      "hen",
+      "washing_machine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-117504-A-16.wav",
+    "question": "What caption does the given audio belong to?\nA. train B. sea_waves C. wind D. clock_tick",
+    "answer": "C",
+    "label": "/m/07rwj16",
+    "mapped_label": "wind",
+    "options": [
+      "train",
+      "sea_waves",
+      "wind",
+      "clock_tick"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-7974-B-49.wav",
+    "question": "What caption does the given audio belong to?\nA. cow B. washing_machine C. can_opening D. hand_saw",
+    "answer": "D",
+    "label": "/m/07rwj49",
+    "mapped_label": "hand_saw",
+    "options": [
+      "cow",
+      "washing_machine",
+      "can_opening",
+      "hand_saw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-70962-C-4.wav",
+    "question": "What caption does the given audio belong to?\nA. frog B. airplane C. helicopter D. can_opening",
+    "answer": "A",
+    "label": "/m/07rwj04",
+    "mapped_label": "frog",
+    "options": [
+      "frog",
+      "airplane",
+      "helicopter",
+      "can_opening"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-223103-A-31.wav",
+    "question": "What caption does the given audio belong to?\nA. pig B. toilet_flush C. mouse_click D. frog",
+    "answer": "C",
+    "label": "/m/07rwj31",
+    "mapped_label": "mouse_click",
+    "options": [
+      "pig",
+      "toilet_flush",
+      "mouse_click",
+      "frog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-207781-A-17.wav",
+    "question": "What caption does the given audio belong to?\nA. coughing B. pouring_water C. rooster D. chainsaw",
+    "answer": "B",
+    "label": "/m/07rwj17",
+    "mapped_label": "pouring_water",
+    "options": [
+      "coughing",
+      "pouring_water",
+      "rooster",
+      "chainsaw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-135728-A-38.wav",
+    "question": "What caption does the given audio belong to?\nA. toilet_flush B. clock_tick C. cow D. clock_alarm",
+    "answer": "B",
+    "label": "/m/07rwj38",
+    "mapped_label": "clock_tick",
+    "options": [
+      "toilet_flush",
+      "clock_tick",
+      "cow",
+      "clock_alarm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-18766-B-12.wav",
+    "question": "What caption does the given audio belong to?\nA. airplane B. snoring C. crackling_fire D. clock_alarm",
+    "answer": "C",
+    "label": "/m/07rwj12",
+    "mapped_label": "crackling_fire",
+    "options": [
+      "airplane",
+      "snoring",
+      "crackling_fire",
+      "clock_alarm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-171281-A-6.wav",
+    "question": "What caption does the given audio belong to?\nA. insects B. hen C. dog D. rooster",
+    "answer": "B",
+    "label": "/m/07rwj06",
+    "mapped_label": "hen",
+    "options": [
+      "insects",
+      "hen",
+      "dog",
+      "rooster"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-163264-A-10.wav",
+    "question": "What caption does the given audio belong to?\nA. rooster B. clock_alarm C. insects D. rain",
+    "answer": "D",
+    "label": "/m/07rwj10",
+    "mapped_label": "rain",
+    "options": [
+      "rooster",
+      "clock_alarm",
+      "insects",
+      "rain"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-118658-A-41.wav",
+    "question": "What caption does the given audio belong to?\nA. brushing_teeth B. chainsaw C. dog D. toilet_flush",
+    "answer": "B",
+    "label": "/m/07rwj41",
+    "mapped_label": "chainsaw",
+    "options": [
+      "brushing_teeth",
+      "chainsaw",
+      "dog",
+      "toilet_flush"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-128631-A-21.wav",
+    "question": "What caption does the given audio belong to?\nA. sneezing B. mouse_click C. clapping D. engine",
+    "answer": "A",
+    "label": "/m/07rwj21",
+    "mapped_label": "sneezing",
+    "options": [
+      "sneezing",
+      "mouse_click",
+      "clapping",
+      "engine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-7973-A-7.wav",
+    "question": "What caption does the given audio belong to?\nA. chirping_birds B. cow C. hand_saw D. insects",
+    "answer": "D",
+    "label": "/m/07rwj07",
+    "mapped_label": "insects",
+    "options": [
+      "chirping_birds",
+      "cow",
+      "hand_saw",
+      "insects"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-160551-A-42.wav",
+    "question": "What caption does the given audio belong to?\nA. siren B. glass_breaking C. insects D. drinking_sipping",
+    "answer": "A",
+    "label": "/m/07rwj42",
+    "mapped_label": "siren",
+    "options": [
+      "siren",
+      "glass_breaking",
+      "insects",
+      "drinking_sipping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-243025-A-25.wav",
+    "question": "What caption does the given audio belong to?\nA. brushing_teeth B. cat C. clock_alarm D. footsteps",
+    "answer": "D",
+    "label": "/m/07rwj25",
+    "mapped_label": "footsteps",
+    "options": [
+      "brushing_teeth",
+      "cat",
+      "clock_alarm",
+      "footsteps"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-47709-A-16.wav",
+    "question": "What caption does the given audio belong to?\nA. brushing_teeth B. thunderstorm C. wind D. hand_saw",
+    "answer": "C",
+    "label": "/m/07rwj16",
+    "mapped_label": "wind",
+    "options": [
+      "brushing_teeth",
+      "thunderstorm",
+      "wind",
+      "hand_saw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-233645-A-37.wav",
+    "question": "What caption does the given audio belong to?\nA. clock_alarm B. frog C. crickets D. toilet_flush",
+    "answer": "A",
+    "label": "/m/07rwj37",
+    "mapped_label": "clock_alarm",
+    "options": [
+      "clock_alarm",
+      "frog",
+      "crickets",
+      "toilet_flush"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-198411-A-20.wav",
+    "question": "What caption does the given audio belong to?\nA. crying_baby B. rain C. train D. door_wood_knock",
+    "answer": "A",
+    "label": "/m/07rwj20",
+    "mapped_label": "crying_baby",
+    "options": [
+      "crying_baby",
+      "rain",
+      "train",
+      "door_wood_knock"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-143929-A-10.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. insects C. crow D. rain",
+    "answer": "D",
+    "label": "/m/07rwj10",
+    "mapped_label": "rain",
+    "options": [
+      "clapping",
+      "insects",
+      "crow",
+      "rain"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-103415-A-2.wav",
+    "question": "What caption does the given audio belong to?\nA. toilet_flush B. brushing_teeth C. pig D. breathing",
+    "answer": "C",
+    "label": "/m/07rwj02",
+    "mapped_label": "pig",
+    "options": [
+      "toilet_flush",
+      "brushing_teeth",
+      "pig",
+      "breathing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-39441-A-19.wav",
+    "question": "What caption does the given audio belong to?\nA. wind B. snoring C. pig D. thunderstorm",
+    "answer": "D",
+    "label": "/m/07rwj19",
+    "mapped_label": "thunderstorm",
+    "options": [
+      "wind",
+      "snoring",
+      "pig",
+      "thunderstorm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-72688-A-42.wav",
+    "question": "What caption does the given audio belong to?\nA. engine B. door_wood_knock C. siren D. chirping_birds",
+    "answer": "C",
+    "label": "/m/07rwj42",
+    "mapped_label": "siren",
+    "options": [
+      "engine",
+      "door_wood_knock",
+      "siren",
+      "chirping_birds"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-66205-A-23.wav",
+    "question": "What caption does the given audio belong to?\nA. washing_machine B. breathing C. cow D. engine",
+    "answer": "B",
+    "label": "/m/07rwj23",
+    "mapped_label": "breathing",
+    "options": [
+      "washing_machine",
+      "breathing",
+      "cow",
+      "engine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-221529-A-39.wav",
+    "question": "What caption does the given audio belong to?\nA. mouse_click B. insects C. glass_breaking D. rooster",
+    "answer": "C",
+    "label": "/m/07rwj39",
+    "mapped_label": "glass_breaking",
+    "options": [
+      "mouse_click",
+      "insects",
+      "glass_breaking",
+      "rooster"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-181865-A-38.wav",
+    "question": "What caption does the given audio belong to?\nA. airplane B. washing_machine C. sneezing D. clock_tick",
+    "answer": "D",
+    "label": "/m/07rwj38",
+    "mapped_label": "clock_tick",
+    "options": [
+      "airplane",
+      "washing_machine",
+      "sneezing",
+      "clock_tick"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-235893-A-28.wav",
+    "question": "What caption does the given audio belong to?\nA. clock_alarm B. laughing C. hand_saw D. snoring",
+    "answer": "D",
+    "label": "/m/07rwj28",
+    "mapped_label": "snoring",
+    "options": [
+      "clock_alarm",
+      "laughing",
+      "hand_saw",
+      "snoring"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-171823-A-13.wav",
+    "question": "What caption does the given audio belong to?\nA. siren B. thunderstorm C. crickets D. cow",
+    "answer": "C",
+    "label": "/m/07rwj13",
+    "mapped_label": "crickets",
+    "options": [
+      "siren",
+      "thunderstorm",
+      "crickets",
+      "cow"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-262641-A-15.wav",
+    "question": "What caption does the given audio belong to?\nA. airplane B. water_drops C. rooster D. wind",
+    "answer": "B",
+    "label": "/m/07rwj15",
+    "mapped_label": "water_drops",
+    "options": [
+      "airplane",
+      "water_drops",
+      "rooster",
+      "wind"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-173559-A-39.wav",
+    "question": "What caption does the given audio belong to?\nA. cow B. car_horn C. airplane D. glass_breaking",
+    "answer": "D",
+    "label": "/m/07rwj39",
+    "mapped_label": "glass_breaking",
+    "options": [
+      "cow",
+      "car_horn",
+      "airplane",
+      "glass_breaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-156558-A-21.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. airplane C. sneezing D. door_wood_knock",
+    "answer": "C",
+    "label": "/m/07rwj21",
+    "mapped_label": "sneezing",
+    "options": [
+      "clapping",
+      "airplane",
+      "sneezing",
+      "door_wood_knock"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-62565-A-44.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. engine C. crickets D. pouring_water",
+    "answer": "B",
+    "label": "/m/07rwj44",
+    "mapped_label": "engine",
+    "options": [
+      "clapping",
+      "engine",
+      "crickets",
+      "pouring_water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-50667-A-41.wav",
+    "question": "What caption does the given audio belong to?\nA. rooster B. crackling_fire C. crickets D. chainsaw",
+    "answer": "D",
+    "label": "/m/07rwj41",
+    "mapped_label": "chainsaw",
+    "options": [
+      "rooster",
+      "crackling_fire",
+      "crickets",
+      "chainsaw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-125875-A-13.wav",
+    "question": "What caption does the given audio belong to?\nA. siren B. crickets C. breathing D. clapping",
+    "answer": "B",
+    "label": "/m/07rwj13",
+    "mapped_label": "crickets",
+    "options": [
+      "siren",
+      "crickets",
+      "breathing",
+      "clapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-181977-A-35.wav",
+    "question": "What caption does the given audio belong to?\nA. washing_machine B. glass_breaking C. crow D. clock_tick",
+    "answer": "A",
+    "label": "/m/07rwj35",
+    "mapped_label": "washing_machine",
+    "options": [
+      "washing_machine",
+      "glass_breaking",
+      "crow",
+      "clock_tick"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-50455-A-44.wav",
+    "question": "What caption does the given audio belong to?\nA. clock_alarm B. toilet_flush C. engine D. hand_saw",
+    "answer": "C",
+    "label": "/m/07rwj44",
+    "mapped_label": "engine",
+    "options": [
+      "clock_alarm",
+      "toilet_flush",
+      "engine",
+      "hand_saw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-133863-A-11.wav",
+    "question": "What caption does the given audio belong to?\nA. sea_waves B. wind C. footsteps D. mouse_click",
+    "answer": "A",
+    "label": "/m/07rwj11",
+    "mapped_label": "sea_waves",
+    "options": [
+      "sea_waves",
+      "wind",
+      "footsteps",
+      "mouse_click"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-115545-B-48.wav",
+    "question": "What caption does the given audio belong to?\nA. fireworks B. car_horn C. siren D. wind",
+    "answer": "A",
+    "label": "/m/07rwj48",
+    "mapped_label": "fireworks",
+    "options": [
+      "fireworks",
+      "car_horn",
+      "siren",
+      "wind"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-108352-A-33.wav",
+    "question": "What caption does the given audio belong to?\nA. door_wood_creaks B. chainsaw C. crackling_fire D. mouse_click",
+    "answer": "A",
+    "label": "/m/07rwj33",
+    "mapped_label": "door_wood_creaks",
+    "options": [
+      "door_wood_creaks",
+      "chainsaw",
+      "crackling_fire",
+      "mouse_click"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-67432-A-27.wav",
+    "question": "What caption does the given audio belong to?\nA. door_wood_knock B. breathing C. toilet_flush D. brushing_teeth",
+    "answer": "D",
+    "label": "/m/07rwj27",
+    "mapped_label": "brushing_teeth",
+    "options": [
+      "door_wood_knock",
+      "breathing",
+      "toilet_flush",
+      "brushing_teeth"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-87936-A-46.wav",
+    "question": "What caption does the given audio belong to?\nA. church_bells B. water_drops C. thunderstorm D. insects",
+    "answer": "A",
+    "label": "/m/07rwj46",
+    "mapped_label": "church_bells",
+    "options": [
+      "church_bells",
+      "water_drops",
+      "thunderstorm",
+      "insects"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-253094-A-49.wav",
+    "question": "What caption does the given audio belong to?\nA. crickets B. laughing C. door_wood_creaks D. hand_saw",
+    "answer": "D",
+    "label": "/m/07rwj49",
+    "mapped_label": "hand_saw",
+    "options": [
+      "crickets",
+      "laughing",
+      "door_wood_creaks",
+      "hand_saw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-94036-A-22.wav",
+    "question": "What caption does the given audio belong to?\nA. rooster B. keyboard_typing C. insects D. clapping",
+    "answer": "D",
+    "label": "/m/07rwj22",
+    "mapped_label": "clapping",
+    "options": [
+      "rooster",
+      "keyboard_typing",
+      "insects",
+      "clapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-123086-A-28.wav",
+    "question": "What caption does the given audio belong to?\nA. helicopter B. snoring C. washing_machine D. frog",
+    "answer": "B",
+    "label": "/m/07rwj28",
+    "mapped_label": "snoring",
+    "options": [
+      "helicopter",
+      "snoring",
+      "washing_machine",
+      "frog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-43382-A-1.wav",
+    "question": "What caption does the given audio belong to?\nA. laughing B. rain C. can_opening D. rooster",
+    "answer": "D",
+    "label": "/m/07rwj01",
+    "mapped_label": "rooster",
+    "options": [
+      "laughing",
+      "rain",
+      "can_opening",
+      "rooster"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-160614-C-48.wav",
+    "question": "What caption does the given audio belong to?\nA. fireworks B. dog C. helicopter D. engine",
+    "answer": "A",
+    "label": "/m/07rwj48",
+    "mapped_label": "fireworks",
+    "options": [
+      "fireworks",
+      "dog",
+      "helicopter",
+      "engine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-218196-A-27.wav",
+    "question": "What caption does the given audio belong to?\nA. brushing_teeth B. drinking_sipping C. clock_alarm D. siren",
+    "answer": "A",
+    "label": "/m/07rwj27",
+    "mapped_label": "brushing_teeth",
+    "options": [
+      "brushing_teeth",
+      "drinking_sipping",
+      "clock_alarm",
+      "siren"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-253084-B-2.wav",
+    "question": "What caption does the given audio belong to?\nA. drinking_sipping B. clock_alarm C. pig D. sea_waves",
+    "answer": "C",
+    "label": "/m/07rwj02",
+    "mapped_label": "pig",
+    "options": [
+      "drinking_sipping",
+      "clock_alarm",
+      "pig",
+      "sea_waves"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-25293-A-22.wav",
+    "question": "What caption does the given audio belong to?\nA. clapping B. sea_waves C. breathing D. glass_breaking",
+    "answer": "A",
+    "label": "/m/07rwj22",
+    "mapped_label": "clapping",
+    "options": [
+      "clapping",
+      "sea_waves",
+      "breathing",
+      "glass_breaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-180156-A-43.wav",
+    "question": "What caption does the given audio belong to?\nA. car_horn B. hen C. cat D. frog",
+    "answer": "A",
+    "label": "/m/07rwj43",
+    "mapped_label": "car_horn",
+    "options": [
+      "car_horn",
+      "hen",
+      "cat",
+      "frog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-216211-A-14.wav",
+    "question": "What caption does the given audio belong to?\nA. thunderstorm B. chirping_birds C. church_bells D. drinking_sipping",
+    "answer": "B",
+    "label": "/m/07rwj14",
+    "mapped_label": "chirping_birds",
+    "options": [
+      "thunderstorm",
+      "chirping_birds",
+      "church_bells",
+      "drinking_sipping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-115387-B-47.wav",
+    "question": "What caption does the given audio belong to?\nA. footsteps B. coughing C. clock_tick D. airplane",
+    "answer": "D",
+    "label": "/m/07rwj47",
+    "mapped_label": "airplane",
+    "options": [
+      "footsteps",
+      "coughing",
+      "clock_tick",
+      "airplane"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-172377-A-17.wav",
+    "question": "What caption does the given audio belong to?\nA. pig B. vacuum_cleaner C. door_wood_knock D. pouring_water",
+    "answer": "D",
+    "label": "/m/07rwj17",
+    "mapped_label": "pouring_water",
+    "options": [
+      "pig",
+      "vacuum_cleaner",
+      "door_wood_knock",
+      "pouring_water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-251645-A-49.wav",
+    "question": "What caption does the given audio belong to?\nA. hand_saw B. wind C. breathing D. crow",
+    "answer": "A",
+    "label": "/m/07rwj49",
+    "mapped_label": "hand_saw",
+    "options": [
+      "hand_saw",
+      "wind",
+      "breathing",
+      "crow"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-134699-B-16.wav",
+    "question": "What caption does the given audio belong to?\nA. wind B. train C. mouse_click D. rain",
+    "answer": "A",
+    "label": "/m/07rwj16",
+    "mapped_label": "wind",
+    "options": [
+      "wind",
+      "train",
+      "mouse_click",
+      "rain"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-154926-A-40.wav",
+    "question": "What caption does the given audio belong to?\nA. chirping_birds B. engine C. helicopter D. dog",
+    "answer": "C",
+    "label": "/m/07rwj40",
+    "mapped_label": "helicopter",
+    "options": [
+      "chirping_birds",
+      "engine",
+      "helicopter",
+      "dog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-148297-A-37.wav",
+    "question": "What caption does the given audio belong to?\nA. cat B. fireworks C. crickets D. clock_alarm",
+    "answer": "D",
+    "label": "/m/07rwj37",
+    "mapped_label": "clock_alarm",
+    "options": [
+      "cat",
+      "fireworks",
+      "crickets",
+      "clock_alarm"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-182010-A-36.wav",
+    "question": "What caption does the given audio belong to?\nA. washing_machine B. vacuum_cleaner C. crackling_fire D. toilet_flush",
+    "answer": "B",
+    "label": "/m/07rwj36",
+    "mapped_label": "vacuum_cleaner",
+    "options": [
+      "washing_machine",
+      "vacuum_cleaner",
+      "crackling_fire",
+      "toilet_flush"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-76831-A-42.wav",
+    "question": "What caption does the given audio belong to?\nA. siren B. crow C. wind D. car_horn",
+    "answer": "A",
+    "label": "/m/07rwj42",
+    "mapped_label": "siren",
+    "options": [
+      "siren",
+      "crow",
+      "wind",
+      "car_horn"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-201170-A-46.wav",
+    "question": "What caption does the given audio belong to?\nA. clock_alarm B. sneezing C. church_bells D. cow",
+    "answer": "C",
+    "label": "/m/07rwj46",
+    "mapped_label": "church_bells",
+    "options": [
+      "clock_alarm",
+      "sneezing",
+      "church_bells",
+      "cow"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-94807-A-29.wav",
+    "question": "What caption does the given audio belong to?\nA. cow B. drinking_sipping C. chainsaw D. sneezing",
+    "answer": "B",
+    "label": "/m/07rwj29",
+    "mapped_label": "drinking_sipping",
+    "options": [
+      "cow",
+      "drinking_sipping",
+      "chainsaw",
+      "sneezing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-251963-A-47.wav",
+    "question": "What caption does the given audio belong to?\nA. drinking_sipping B. train C. airplane D. siren",
+    "answer": "C",
+    "label": "/m/07rwj47",
+    "mapped_label": "airplane",
+    "options": [
+      "drinking_sipping",
+      "train",
+      "airplane",
+      "siren"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-172500-B-27.wav",
+    "question": "What caption does the given audio belong to?\nA. chirping_birds B. brushing_teeth C. car_horn D. siren",
+    "answer": "B",
+    "label": "/m/07rwj27",
+    "mapped_label": "brushing_teeth",
+    "options": [
+      "chirping_birds",
+      "brushing_teeth",
+      "car_horn",
+      "siren"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-198411-D-20.wav",
+    "question": "What caption does the given audio belong to?\nA. crying_baby B. keyboard_typing C. chirping_birds D. rooster",
+    "answer": "A",
+    "label": "/m/07rwj20",
+    "mapped_label": "crying_baby",
+    "options": [
+      "crying_baby",
+      "keyboard_typing",
+      "chirping_birds",
+      "rooster"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-102583-C-49.wav",
+    "question": "What caption does the given audio belong to?\nA. hand_saw B. train C. brushing_teeth D. clapping",
+    "answer": "A",
+    "label": "/m/07rwj49",
+    "mapped_label": "hand_saw",
+    "options": [
+      "hand_saw",
+      "train",
+      "brushing_teeth",
+      "clapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-122820-A-36.wav",
+    "question": "What caption does the given audio belong to?\nA. vacuum_cleaner B. keyboard_typing C. car_horn D. clapping",
+    "answer": "A",
+    "label": "/m/07rwj36",
+    "mapped_label": "vacuum_cleaner",
+    "options": [
+      "vacuum_cleaner",
+      "keyboard_typing",
+      "car_horn",
+      "clapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-172639-A-5.wav",
+    "question": "What caption does the given audio belong to?\nA. cat B. rain C. hen D. clock_tick",
+    "answer": "A",
+    "label": "/m/07rwj05",
+    "mapped_label": "cat",
+    "options": [
+      "cat",
+      "rain",
+      "hen",
+      "clock_tick"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-43764-A-34.wav",
+    "question": "What caption does the given audio belong to?\nA. cat B. can_opening C. frog D. keyboard_typing",
+    "answer": "B",
+    "label": "/m/07rwj34",
+    "mapped_label": "can_opening",
+    "options": [
+      "cat",
+      "can_opening",
+      "frog",
+      "keyboard_typing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/3-127890-B-9.wav",
+    "question": "What caption does the given audio belong to?\nA. clock_tick B. fireworks C. crow D. dog",
+    "answer": "C",
+    "label": "/m/07rwj09",
+    "mapped_label": "crow",
+    "options": [
+      "clock_tick",
+      "fireworks",
+      "crow",
+      "dog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-137-A-32.wav",
+    "question": "What caption does the given audio belong to?\nA. frog B. cow C. snoring D. keyboard_typing",
+    "answer": "D",
+    "label": "/m/07rwj32",
+    "mapped_label": "keyboard_typing",
+    "options": [
+      "frog",
+      "cow",
+      "snoring",
+      "keyboard_typing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-72695-A-26.wav",
+    "question": "What caption does the given audio belong to?\nA. laughing B. insects C. pig D. toilet_flush",
+    "answer": "A",
+    "label": "/m/07rwj26",
+    "mapped_label": "laughing",
+    "options": [
+      "laughing",
+      "insects",
+      "pig",
+      "toilet_flush"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-96950-A-9.wav",
+    "question": "What caption does the given audio belong to?\nA. crow B. frog C. footsteps D. breathing",
+    "answer": "A",
+    "label": "/m/07rwj09",
+    "mapped_label": "crow",
+    "options": [
+      "crow",
+      "frog",
+      "footsteps",
+      "breathing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-117120-A-42.wav",
+    "question": "What caption does the given audio belong to?\nA. cow B. frog C. siren D. chainsaw",
+    "answer": "C",
+    "label": "/m/07rwj42",
+    "mapped_label": "siren",
+    "options": [
+      "cow",
+      "frog",
+      "siren",
+      "chainsaw"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-188495-A-19.wav",
+    "question": "What caption does the given audio belong to?\nA. helicopter B. crackling_fire C. thunderstorm D. fireworks",
+    "answer": "C",
+    "label": "/m/07rwj19",
+    "mapped_label": "thunderstorm",
+    "options": [
+      "helicopter",
+      "crackling_fire",
+      "thunderstorm",
+      "fireworks"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-174860-B-3.wav",
+    "question": "What caption does the given audio belong to?\nA. mouse_click B. cow C. hen D. sneezing",
+    "answer": "B",
+    "label": "/m/07rwj03",
+    "mapped_label": "cow",
+    "options": [
+      "mouse_click",
+      "cow",
+      "hen",
+      "sneezing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-85909-A-29.wav",
+    "question": "What caption does the given audio belong to?\nA. glass_breaking B. washing_machine C. train D. drinking_sipping",
+    "answer": "D",
+    "label": "/m/07rwj29",
+    "mapped_label": "drinking_sipping",
+    "options": [
+      "glass_breaking",
+      "washing_machine",
+      "train",
+      "drinking_sipping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-122067-B-45.wav",
+    "question": "What caption does the given audio belong to?\nA. clock_tick B. church_bells C. train D. helicopter",
+    "answer": "C",
+    "label": "/m/07rwj45",
+    "mapped_label": "train",
+    "options": [
+      "clock_tick",
+      "church_bells",
+      "train",
+      "helicopter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/2-103426-A-3.wav",
+    "question": "What caption does the given audio belong to?\nA. siren B. sneezing C. cow D. insects",
+    "answer": "C",
+    "label": "/m/07rwj03",
+    "mapped_label": "cow",
+    "options": [
+      "siren",
+      "sneezing",
+      "cow",
+      "insects"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-208810-A-11.wav",
+    "question": "What caption does the given audio belong to?\nA. sea_waves B. coughing C. rain D. washing_machine",
+    "answer": "A",
+    "label": "/m/07rwj11",
+    "mapped_label": "sea_waves",
+    "options": [
+      "sea_waves",
+      "coughing",
+      "rain",
+      "washing_machine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-194754-A-0.wav",
+    "question": "What caption does the given audio belong to?\nA. rain B. mouse_click C. hand_saw D. dog",
+    "answer": "D",
+    "label": "/m/07rwj00",
+    "mapped_label": "dog",
+    "options": [
+      "rain",
+      "mouse_click",
+      "hand_saw",
+      "dog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/1-211527-C-20.wav",
+    "question": "What caption does the given audio belong to?\nA. breathing B. crackling_fire C. crying_baby D. frog",
+    "answer": "C",
+    "label": "/m/07rwj20",
+    "mapped_label": "crying_baby",
+    "options": [
+      "breathing",
+      "crackling_fire",
+      "crying_baby",
+      "frog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-189832-B-22.wav",
+    "question": "What caption does the given audio belong to?\nA. hen B. clock_alarm C. mouse_click D. clapping",
+    "answer": "D",
+    "label": "/m/07rwj22",
+    "mapped_label": "clapping",
+    "options": [
+      "hen",
+      "clock_alarm",
+      "mouse_click",
+      "clapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-186693-A-17.wav",
+    "question": "What caption does the given audio belong to?\nA. snoring B. pouring_water C. fireworks D. engine",
+    "answer": "B",
+    "label": "/m/07rwj17",
+    "mapped_label": "pouring_water",
+    "options": [
+      "snoring",
+      "pouring_water",
+      "fireworks",
+      "engine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/5-207811-A-35.wav",
+    "question": "What caption does the given audio belong to?\nA. coughing B. washing_machine C. chirping_birds D. dog",
+    "answer": "B",
+    "label": "/m/07rwj35",
+    "mapped_label": "washing_machine",
+    "options": [
+      "coughing",
+      "washing_machine",
+      "chirping_birds",
+      "dog"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-149294-A-41.wav",
+    "question": "What caption does the given audio belong to?\nA. chainsaw B. frog C. vacuum_cleaner D. clapping",
+    "answer": "A",
+    "label": "/m/07rwj41",
+    "mapped_label": "chainsaw",
+    "options": [
+      "chainsaw",
+      "frog",
+      "vacuum_cleaner",
+      "clapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/sbhati/SSM/VMamba-ast/egs/esc50/data/ESC-50-master/audio_16k/4-182795-A-14.wav",
+    "question": "What caption does the given audio belong to?\nA. laughing B. coughing C. chirping_birds D. hen",
+    "answer": "C",
+    "label": "/m/07rwj14",
+    "mapped_label": "chirping_birds",
+    "options": [
+      "laughing",
+      "coughing",
+      "chirping_birds",
+      "hen"
+    ]
+  }
+]

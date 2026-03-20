@@ -1,126 +1,42 @@
-# CALM: Class-conditional Attention vectors for audio Language Models
+# CALM: Class-conditional Attention vectors for Language Models
 
-A training-free method for few-shot audio classification using reliability-weighted attention head activations from audio language models.
+A training-free method for few-shot classification using reliability-weighted attention head activations from multimodal language models.
 
-
-## Installation
-
-```bash
-pip install -e .
-```
+See [`SAVs/README.md`](SAVs/README.md) for full documentation, usage instructions, and API reference.
 
 ## Quick Start
 
-### Command Line
-
 ```bash
-# Audio classification
+cd SAVs
+pip install -e .
+
+# Zero-shot inference
+python -m src.run --task classify --zero_shot_only \
+    --model_name qwen2.5_omni --data_name eurosat \
+    --test_path data/eurosat/eurosat_test_6k.json
+
+# CALM few-shot classification
 python -m src.run --task classify \
-    --model_name qwen2-audio-instruct \
-    --data_name vgg_sound_qa \
-    --train_path data/train.json \
-    --val_path data/val.json \
-    --test_path data/test.json
-
-# Spoofing detection
-python -m src.run --task spoof \
-    --model_name qwen2-audio-instruct \
-    --data_name LA_spoof \
-    --train_path data/train.json \
-    --val_path data/val.json
-
-# Generate pseudolabels
-python -m src.run --task pseudolabel \
-    --model_name qwen2-audio-instruct \
-    --data_name audioset \
-    --train_path data/unlabeled.json \
-    --output_dir ./pseudolabels
+    --model_name qwen2-audio-instruct --data_name vgg_sound_qa \
+    --train_path data/vggsound/vggsound_mcq_train_40shot.json \
+    --val_path data/vggsound/vggsound_mcq_val_40shot.json \
+    --test_path data/vggsound/vggsound_mcq_test.json \
+    --tau 0.01 0.03 0.07 0.1 0.3 \
+    --tau_w 0.1 0.3 0.5 1.0 2.0
 ```
 
-### Python API
+## Repository Structure
 
-```python
-from src import (
-    load_model,
-    open_data,
-    calm_prepare_cache,
-    calm_compute_posteriors_from_cache,
-    calm_compute_reliability,
-    calm_build_weights_from_r,
-    calm_eval_from_posteriors,
-)
-
-# Load model and data
-model = load_model("qwen2-audio-instruct", "vgg_sound_qa")
-train_data = open_data("vgg_sound_qa", "train.json")
-val_data = open_data("vgg_sound_qa", "val.json")
-test_data = open_data("vgg_sound_qa", "test.json")
-
-# Build cache (extracts and caches activations)
-cache = calm_prepare_cache(
-    model,
-    support_data=train_data,
-    val_data=val_data,
-    test_data=test_data,
-    n_trials=20,
-    cache_dir="./cache"
-)
-
-# Compute per-head posteriors
-P_val = calm_compute_posteriors_from_cache(cache, tau=0.07, split="val")
-P_test = calm_compute_posteriors_from_cache(cache, tau=0.07, split="test")
-
-# Compute reliability weights
-r, counts = calm_compute_reliability(P_val, cache["val_labels_idx"], "margin_clamped")
-w = calm_build_weights_from_r(r, weight_scheme="margin_clamped", tau_w=1.0)
-
-# Evaluate
-accuracy = calm_eval_from_posteriors(P_test, w, test_labels_idx=cache["test_labels_idx"])
-print(f"Accuracy: {accuracy:.4f}")
 ```
-
-### Weight Schemes
-
-- `margin_clamped`: Clamped margin between correct class and runner-up (recommended)
-- `margin_softmax`: Raw margin without clamping
-- `prob_softmax`: Mean probability for correct class
-
-## Supported Models
-
-| Model | Identifier |
-|-------|------------|
-| Qwen2-Audio-7B-Instruct | `qwen2-audio-instruct` |
-| Qwen2.5-Omni-7B | `qwen2.5_omni` |
-
-Other and newer models should be quite simple to add.
-
-## Data Format
-
-Input data should be JSON files with the following structure:
-
-```json
-[
-  {
-    "wav": "/path/to/audio.wav",
-    "question": "What sound is this?",
-    "answer": "dog barking",
-    "label": "dog",
-    "mapped_label": "dog",
-    "options": ["cat", "dog", "bird", "car"]
-  }
-]
+SAVs/                       # Main package (source, scripts, data)
+slurm/                      # SLURM experiment scripts
+├── vggsound/               #   VGGSound experiments
+├── esc50/                  #   ESC-50 experiments
+├── audioset/               #   AudioSet experiments
+├── la_spoof/               #   LA Spoof experiments
+├── eurosat/                #   EuroSAT experiments
+├── pets/                   #   Oxford Pets experiments
+├── baselines/              #   CLAP KNN, linear probing
+├── analysis/               #   Pseudolabel analysis
+└── legacy/                 #   Deprecated scripts
 ```
-
-Required fields:
-- `wav`: Path to audio file
-- `mapped_label`: Class label for the sample
-
-Optional fields:
-- `question`, `answer`: For question-answering format
-- `options`: Multiple choice options
-- `label`: Original label (may differ from mapped_label)
-
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.

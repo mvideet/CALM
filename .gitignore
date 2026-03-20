@@ -1,45 +1,41 @@
-# External libraries (not part of this project)
+# ── External / legacy ──────────────────────────────────────────────
 ltu/
+dataset_processing/
 
-# Experimental outputs and results
+# ── Experimental outputs ──────────────────────────────────────────
 eval_res/
 SAV_results/
 SAVs/SAV_results/
-*.csv
-*.txt
-!README*.txt
-!requirements.txt
+results/
+outputs/
 
-# SLURM job outputs
+# ── SLURM ─────────────────────────────────────────────────────────
 slurm/out/
 slurm/err/
 slurm/*.out
 slurm-*.out
 
-# Python cache
+# ── Python ────────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-
-# Python package build artifacts
 *.egg-info/
 dist/
 build/
 *.egg
 
-# Jupyter Notebook checkpoints
+# ── Notebooks ─────────────────────────────────────────────────────
 .ipynb_checkpoints/
 
-# Virtual environments
+# ── Environments ──────────────────────────────────────────────────
 .env
 .venv
 env/
 venv/
-ENV/
 
-# IDE and editor files
+# ── IDE ───────────────────────────────────────────────────────────
 .vscode/
 .idea/
 *.swp
@@ -47,7 +43,7 @@ ENV/
 *~
 .DS_Store
 
-# Model weights and checkpoints
+# ── Model weights ─────────────────────────────────────────────────
 *.pt
 *.pth
 *.ckpt
@@ -55,13 +51,11 @@ ENV/
 *.hdf5
 *.safetensors
 
-# Large data files
+# ── Large binary / data ──────────────────────────────────────────
 *.npy
 *.npz
 *.pkl
 *.pickle
-
-# Logs and temporary files
 *.log
 *.tmp
 *.bak
@@ -69,11 +63,7 @@ ENV/
 logs/
 cache/
 
-# Results and output directories
-results/
-outputs/
-
-# Audio/video files (keep small examples)
+# ── Media (keep small examples if needed) ────────────────────────
 *.wav
 *.mp3
 *.flac
@@ -81,14 +71,24 @@ outputs/
 *.avi
 *.mov
 *.mkv
-
-# Images (generated plots, etc.)
 *.png
 *.jpg
 *.jpeg
 *.gif
 *.pdf
+*.csv
+*.txt
+!README*.txt
+!requirements.txt
 
-# JSON data files (keep small config examples)
+# ── JSON data files (allow dataset configs under SAVs/data/) ─────
 *.json
-!data/*.json
+!SAVs/data/**/*.json
+!SAVs/data/example_format.json
+
+# Allow EuroSAT images tracked in data/
+!SAVs/data/EuroSAT_RGB/**/*.jpg
+
+# Exclude oversized files (>100 MB)
+SAVs/data/audioset/audioset_test_mcq.json
+SAVs/data/audioset/audioset_train_mcq.json

@@ -20,7 +20,7 @@ import torch.nn.functional as F
 from baukit import TraceDict
 from tqdm import tqdm
 
-from .model import Qwen2AudioHelper, Qwen2OmniHelper
+from .model import Phi4MultimodalHelper, Qwen2AudioHelper, Qwen2OmniHelper, Qwen2VLHelper
 
 
 def load_model(model_name: str, cur_dataset: str):
@@ -61,10 +61,47 @@ def load_model(model_name: str, cur_dataset: str):
         processor = Qwen2_5OmniProcessor.from_pretrained("Qwen/Qwen2.5-Omni-7B")
         return Qwen2OmniHelper(model, processor, cur_dataset)
 
+    elif model_name == "qwen2-vl-instruct":
+        from transformers import AutoProcessor, Qwen2VLForConditionalGeneration
+        model = Qwen2VLForConditionalGeneration.from_pretrained(
+            "Qwen/Qwen2-VL-7B-Instruct",
+            torch_dtype="auto",
+            device_map="auto",
+        )
+        model.eval()
+        model.requires_grad_(False)
+        processor = AutoProcessor.from_pretrained("Qwen/Qwen2-VL-7B-Instruct")
+        return Qwen2VLHelper(model, processor, cur_dataset)
+
+    elif model_name == "phi4-multimodal":
+        from transformers import AutoModelForCausalLM, AutoProcessor, GenerationConfig
+        model_path = "Lexius/Phi-4-multimodal-instruct"
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        processor = AutoProcessor.from_pretrained(model_path, trust_remote_code=True)
+
+        try:
+            import flash_attn  # noqa: F401
+            attn_impl = "flash_attention_2"
+        except ImportError:
+            print("flash_attn not installed, using eager attention")
+            attn_impl = "eager"
+
+        model = AutoModelForCausalLM.from_pretrained(
+            model_path,
+            device_map="cuda",
+            torch_dtype="auto",
+            trust_remote_code=True,
+            _attn_implementation=attn_impl,
+        )
+        model.eval()
+        model.requires_grad_(False)
+        generation_config = GenerationConfig.from_pretrained(model_path)
+        return Phi4MultimodalHelper(model, processor, generation_config, cur_dataset)
+
     else:
         raise ValueError(
             f"Unsupported model '{model_name}'. "
-            f"Use 'qwen2-audio-instruct' or 'qwen2.5_omni'."
+            f"Use 'qwen2-audio-instruct', 'qwen2.5_omni', 'qwen2-vl-instruct', or 'phi4-multimodal'."
         )
 
 
@@ -607,7 +644,9 @@ def calm_build_weights_from_r(
     r_hat: torch.Tensor,
     weight_scheme: str,
     tau_w: float,
-    top_k: int = None
+    top_k: int = None,
+    random_topk: bool = False,
+    random_head_seed: int = None,
 ):
     """
     Convert reliability scores to normalized head weights.
@@ -617,17 +656,29 @@ def calm_build_weights_from_r(
         weight_scheme: Weighting scheme
         tau_w: Temperature for weight softmax
         top_k: Optional top-k head selection per class
+        random_topk: If True, replace reliability with random scores (head selection and weights both random)
+        random_head_seed: Seed for random reliability (for reproducibility)
 
     Returns:
         Weight matrix (K, C) summing to 1 per class
     """
     K, C = r_hat.shape
 
+    if random_topk:
+        gen = torch.Generator(device=r_hat.device)
+        seed = random_head_seed if random_head_seed is not None else 0
+        gen.manual_seed(seed)
+        r_hat = torch.rand(K, C, generator=gen, device=r_hat.device, dtype=r_hat.dtype)
+
+    def _select_topk_indices(k):
+        """Return (k, C) index tensor: top-k by reliability (or random reliability when random_topk)."""
+        return torch.topk(r_hat, k=k, dim=0).indices
+
     if weight_scheme in ("margin_softmax", "prob_softmax", "brier_softmax"):
         logits = r_hat / max(float(tau_w), 1e-8)
 
         if isinstance(top_k, int) and 0 < top_k < K:
-            top_idx = torch.topk(r_hat, k=top_k, dim=0).indices
+            top_idx = _select_topk_indices(top_k)
             mask = torch.zeros_like(logits, dtype=torch.bool)
             mask.scatter_(0, top_idx, True)
             min_val = torch.finfo(logits.dtype).min
@@ -640,14 +691,14 @@ def calm_build_weights_from_r(
         mask = None
 
         if isinstance(top_k, int) and 0 < top_k < K:
-            top_idx = torch.topk(r, k=top_k, dim=0).indices
+            top_idx = _select_topk_indices(top_k)
             mask = torch.zeros_like(r, dtype=torch.bool)
             mask.scatter_(0, top_idx, True)
             r = r.masked_fill(~mask, 0.0)
 
         tw = float(tau_w)
         if tw != 1.0:
-            eps = torch.finfo(r.dtype).tiny
+            eps = torch.finfo(r.dtype).tiny # finfo is a class that contains the smallest positive number that can be represented in the given dtype
             gamma = 1.0 / max(tw, 1e-8)
             r = torch.pow(r + eps, gamma)
 

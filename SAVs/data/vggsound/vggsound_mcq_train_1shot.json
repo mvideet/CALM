@@ -1,0 +1,4019 @@
+[
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/pa_rQmtn1XE_000023.flac",
+    "question": "What caption does the given audio belong to?\nA. reversing beeps B. electric grinder grinding C. metronome D. scuba diving",
+    "answer": "D",
+    "label": "vgg_76",
+    "mapped_label": "scuba diving",
+    "options": [
+      "reversing beeps",
+      "electric grinder grinding",
+      "metronome",
+      "scuba diving"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/VTCYW-JEnp8_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. cricket chirping B. car engine knocking C. dog bow-wow D. stream burbling",
+    "answer": "C",
+    "label": "vgg_152",
+    "mapped_label": "dog bow-wow",
+    "options": [
+      "cricket chirping",
+      "car engine knocking",
+      "dog bow-wow",
+      "stream burbling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/L9_u4Sw4KiU_000108.flac",
+    "question": "What caption does the given audio belong to?\nA. eletric blender running B. dog whimpering C. playing electronic organ D. yodelling",
+    "answer": "D",
+    "label": "vgg_77",
+    "mapped_label": "yodelling",
+    "options": [
+      "eletric blender running",
+      "dog whimpering",
+      "playing electronic organ",
+      "yodelling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/1iMUlCcLCJQ_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. pigeon_ dove cooing B. playing bongo C. alligators_ crocodiles hissing D. basketball bounce",
+    "answer": "B",
+    "label": "vgg_86",
+    "mapped_label": "playing bongo",
+    "options": [
+      "pigeon_ dove cooing",
+      "playing bongo",
+      "alligators_ crocodiles hissing",
+      "basketball bounce"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/9_mO1CmElHg_000001.flac",
+    "question": "What caption does the given audio belong to?\nA. playing double bass B. cattle_ bovinae cowbell C. people battle cry D. playing hockey",
+    "answer": "A",
+    "label": "vgg_118",
+    "mapped_label": "playing double bass",
+    "options": [
+      "playing double bass",
+      "cattle_ bovinae cowbell",
+      "people battle cry",
+      "playing hockey"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/H4Az7V-qCLk_000188.flac",
+    "question": "What caption does the given audio belong to?\nA. playing synthesizer B. orchestra C. sliding door D. playing harp",
+    "answer": "A",
+    "label": "vgg_88",
+    "mapped_label": "playing synthesizer",
+    "options": [
+      "playing synthesizer",
+      "orchestra",
+      "sliding door",
+      "playing harp"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/nal-U7S8BME_000070.flac",
+    "question": "What caption does the given audio belong to?\nA. typing on typewriter B. foghorn C. baltimore oriole calling D. people screaming",
+    "answer": "D",
+    "label": "vgg_133",
+    "mapped_label": "people screaming",
+    "options": [
+      "typing on typewriter",
+      "foghorn",
+      "baltimore oriole calling",
+      "people screaming"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/U1W7upUID3I_000101.flac",
+    "question": "What caption does the given audio belong to?\nA. playing piano B. wood thrush calling C. playing table tennis D. rope skipping",
+    "answer": "B",
+    "label": "vgg_140",
+    "mapped_label": "wood thrush calling",
+    "options": [
+      "playing piano",
+      "wood thrush calling",
+      "playing table tennis",
+      "rope skipping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/JTszP4AI83E_000006.flac",
+    "question": "What caption does the given audio belong to?\nA. playing harp B. car passing by C. pheasant crowing D. fire crackling",
+    "answer": "D",
+    "label": "vgg_190",
+    "mapped_label": "fire crackling",
+    "options": [
+      "playing harp",
+      "car passing by",
+      "pheasant crowing",
+      "fire crackling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/NE1zAn2NU2w_000060.flac",
+    "question": "What caption does the given audio belong to?\nA. toilet flushing B. playing bass drum C. heart sounds_ heartbeat D. air horn",
+    "answer": "A",
+    "label": "vgg_43",
+    "mapped_label": "toilet flushing",
+    "options": [
+      "toilet flushing",
+      "playing bass drum",
+      "heart sounds_ heartbeat",
+      "air horn"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/YUnPXGiIGf8_000120.flac",
+    "question": "What caption does the given audio belong to?\nA. civil defense siren B. horse neighing C. singing bowl D. chainsawing trees",
+    "answer": "D",
+    "label": "vgg_3",
+    "mapped_label": "chainsawing trees",
+    "options": [
+      "civil defense siren",
+      "horse neighing",
+      "singing bowl",
+      "chainsawing trees"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/PpccpglnNf0_000051.flac",
+    "question": "What caption does the given audio belong to?\nA. rapping B. subway_ metro_ underground C. people screaming D. sheep bleating",
+    "answer": "D",
+    "label": "vgg_186",
+    "mapped_label": "sheep bleating",
+    "options": [
+      "rapping",
+      "subway_ metro_ underground",
+      "people screaming",
+      "sheep bleating"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/bOEDxadIgi0_000215.flac",
+    "question": "What caption does the given audio belong to?\nA. people crowd B. playing marimba_ xylophone C. opening or closing car electric windows D. singing choir",
+    "answer": "C",
+    "label": "vgg_287",
+    "mapped_label": "opening or closing car electric windows",
+    "options": [
+      "people crowd",
+      "playing marimba_ xylophone",
+      "opening or closing car electric windows",
+      "singing choir"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/gE09GeK2spk_000036.flac",
+    "question": "What caption does the given audio belong to?\nA. horse neighing B. swimming C. bathroom ventilation fan running D. mouse squeaking",
+    "answer": "D",
+    "label": "vgg_272",
+    "mapped_label": "mouse squeaking",
+    "options": [
+      "horse neighing",
+      "swimming",
+      "bathroom ventilation fan running",
+      "mouse squeaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Du6E7s46qfo_000039.flac",
+    "question": "What caption does the given audio belong to?\nA. barn swallow calling B. chicken clucking C. playing steel guitar_ slide guitar D. playing timpani",
+    "answer": "D",
+    "label": "vgg_151",
+    "mapped_label": "playing timpani",
+    "options": [
+      "barn swallow calling",
+      "chicken clucking",
+      "playing steel guitar_ slide guitar",
+      "playing timpani"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/yWPZPeuiI6Y_000020.flac",
+    "question": "What caption does the given audio belong to?\nA. bird wings flapping B. vehicle horn_ car horn_ honking C. playing electric guitar D. car passing by",
+    "answer": "C",
+    "label": "vgg_29",
+    "mapped_label": "playing electric guitar",
+    "options": [
+      "bird wings flapping",
+      "vehicle horn_ car horn_ honking",
+      "playing electric guitar",
+      "car passing by"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/LzzMQ6wR-30_000110.flac",
+    "question": "What caption does the given audio belong to?\nA. orchestra B. playing congas C. playing bugle D. squishing water",
+    "answer": "A",
+    "label": "vgg_16",
+    "mapped_label": "orchestra",
+    "options": [
+      "orchestra",
+      "playing congas",
+      "playing bugle",
+      "squishing water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/dDu-JjRpVpg_000064.flac",
+    "question": "What caption does the given audio belong to?\nA. eletric blender running B. magpie calling C. car engine starting D. people nose blowing",
+    "answer": "A",
+    "label": "vgg_283",
+    "mapped_label": "eletric blender running",
+    "options": [
+      "eletric blender running",
+      "magpie calling",
+      "car engine starting",
+      "people nose blowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ABT_TGG6t1s_000310.flac",
+    "question": "What caption does the given audio belong to?\nA. people belly laughing B. striking pool C. playing bass drum D. car engine knocking",
+    "answer": "C",
+    "label": "vgg_103",
+    "mapped_label": "playing bass drum",
+    "options": [
+      "people belly laughing",
+      "striking pool",
+      "playing bass drum",
+      "car engine knocking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/J_gyuXWlLig_000024.flac",
+    "question": "What caption does the given audio belong to?\nA. rowboat_ canoe_ kayak rowing B. cuckoo bird calling C. pheasant crowing D. people booing",
+    "answer": "D",
+    "label": "vgg_17",
+    "mapped_label": "people booing",
+    "options": [
+      "rowboat_ canoe_ kayak rowing",
+      "cuckoo bird calling",
+      "pheasant crowing",
+      "people booing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/wrBVHJLDeb8_000056.flac",
+    "question": "What caption does the given audio belong to?\nA. hedge trimmer running B. penguins braying C. dog growling D. heart sounds_ heartbeat",
+    "answer": "D",
+    "label": "vgg_127",
+    "mapped_label": "heart sounds_ heartbeat",
+    "options": [
+      "hedge trimmer running",
+      "penguins braying",
+      "dog growling",
+      "heart sounds_ heartbeat"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/KklteVT6C48_000200.flac",
+    "question": "What caption does the given audio belong to?\nA. basketball bounce B. bird wings flapping C. mouse pattering D. alligators_ crocodiles hissing",
+    "answer": "C",
+    "label": "vgg_211",
+    "mapped_label": "mouse pattering",
+    "options": [
+      "basketball bounce",
+      "bird wings flapping",
+      "mouse pattering",
+      "alligators_ crocodiles hissing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/O_YifwkfmTY_000011.flac",
+    "question": "What caption does the given audio belong to?\nA. lathe spinning B. skiing C. fireworks banging D. playing mandolin",
+    "answer": "B",
+    "label": "vgg_67",
+    "mapped_label": "skiing",
+    "options": [
+      "lathe spinning",
+      "skiing",
+      "fireworks banging",
+      "playing mandolin"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/sdD5oAhOgfs_000109.flac",
+    "question": "What caption does the given audio belong to?\nA. playing steelpan B. playing harpsichord C. skateboarding D. heart sounds_ heartbeat",
+    "answer": "B",
+    "label": "vgg_52",
+    "mapped_label": "playing harpsichord",
+    "options": [
+      "playing steelpan",
+      "playing harpsichord",
+      "skateboarding",
+      "heart sounds_ heartbeat"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/XvwbFE8-PEs_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. smoke detector beeping B. people whistling C. playing darts D. people marching",
+    "answer": "B",
+    "label": "vgg_98",
+    "mapped_label": "people whistling",
+    "options": [
+      "smoke detector beeping",
+      "people whistling",
+      "playing darts",
+      "people marching"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/x6ulhPmYm3g_000090.flac",
+    "question": "What caption does the given audio belong to?\nA. ice cream truck_ ice cream van B. running electric fan C. people whispering D. playing tabla",
+    "answer": "C",
+    "label": "vgg_129",
+    "mapped_label": "people whispering",
+    "options": [
+      "ice cream truck_ ice cream van",
+      "running electric fan",
+      "people whispering",
+      "playing tabla"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/G5Y-yV9JqRo_000445.flac",
+    "question": "What caption does the given audio belong to?\nA. coyote howling B. cat meowing C. playing erhu D. child speech_ kid speaking",
+    "answer": "C",
+    "label": "vgg_70",
+    "mapped_label": "playing erhu",
+    "options": [
+      "coyote howling",
+      "cat meowing",
+      "playing erhu",
+      "child speech_ kid speaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/2ZEP6Np0bus_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. cap gun shooting B. male singing C. people slapping D. people shuffling",
+    "answer": "B",
+    "label": "vgg_13",
+    "mapped_label": "male singing",
+    "options": [
+      "cap gun shooting",
+      "male singing",
+      "people slapping",
+      "people shuffling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/1RwX8oJezuY_000009.flac",
+    "question": "What caption does the given audio belong to?\nA. baltimore oriole calling B. splashing water C. horse neighing D. children shouting",
+    "answer": "C",
+    "label": "vgg_166",
+    "mapped_label": "horse neighing",
+    "options": [
+      "baltimore oriole calling",
+      "splashing water",
+      "horse neighing",
+      "children shouting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/C3lajQQjN98_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. playing french horn B. whale calling C. playing badminton D. people clapping",
+    "answer": "D",
+    "label": "vgg_93",
+    "mapped_label": "people clapping",
+    "options": [
+      "playing french horn",
+      "whale calling",
+      "playing badminton",
+      "people clapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/JEqkR2b6-QA_000050.flac",
+    "question": "What caption does the given audio belong to?\nA. dog bow-wow B. hail C. using sewing machines D. lawn mowing",
+    "answer": "B",
+    "label": "vgg_134",
+    "mapped_label": "hail",
+    "options": [
+      "dog bow-wow",
+      "hail",
+      "using sewing machines",
+      "lawn mowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/vq_tCjFmVzI_000257.flac",
+    "question": "What caption does the given audio belong to?\nA. playing bass drum B. fly_ housefly buzzing C. lighting firecrackers D. alligators_ crocodiles hissing",
+    "answer": "C",
+    "label": "vgg_108",
+    "mapped_label": "lighting firecrackers",
+    "options": [
+      "playing bass drum",
+      "fly_ housefly buzzing",
+      "lighting firecrackers",
+      "alligators_ crocodiles hissing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/qj1TNITKpNc_000002.flac",
+    "question": "What caption does the given audio belong to?\nA. horse clip-clop B. people hiccup C. ice cracking D. cat meowing",
+    "answer": "D",
+    "label": "vgg_165",
+    "mapped_label": "cat meowing",
+    "options": [
+      "horse clip-clop",
+      "people hiccup",
+      "ice cracking",
+      "cat meowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/CtUZ9HljxMQ_000001.flac",
+    "question": "What caption does the given audio belong to?\nA. subway_ metro_ underground B. people nose blowing C. police radio chatter D. dog growling",
+    "answer": "D",
+    "label": "vgg_112",
+    "mapped_label": "dog growling",
+    "options": [
+      "subway_ metro_ underground",
+      "people nose blowing",
+      "police radio chatter",
+      "dog growling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/e-xSxcYa0gE_000245.flac",
+    "question": "What caption does the given audio belong to?\nA. francolin calling B. playing bassoon C. rapping D. toilet flushing",
+    "answer": "B",
+    "label": "vgg_24",
+    "mapped_label": "playing bassoon",
+    "options": [
+      "francolin calling",
+      "playing bassoon",
+      "rapping",
+      "toilet flushing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/IYzE-9Ng2oE_000656.flac",
+    "question": "What caption does the given audio belong to?\nA. basketball bounce B. rapping C. underwater bubbling D. playing hammond organ",
+    "answer": "B",
+    "label": "vgg_149",
+    "mapped_label": "rapping",
+    "options": [
+      "basketball bounce",
+      "rapping",
+      "underwater bubbling",
+      "playing hammond organ"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/JqwQIAL9L_A_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. slot machine B. ice cracking C. chinchilla barking D. car engine knocking",
+    "answer": "D",
+    "label": "vgg_63",
+    "mapped_label": "car engine knocking",
+    "options": [
+      "slot machine",
+      "ice cracking",
+      "chinchilla barking",
+      "car engine knocking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/wJ5gVJJ9R3s_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. playing steel guitar_ slide guitar B. playing zither C. blowtorch igniting D. people crowd",
+    "answer": "A",
+    "label": "vgg_84",
+    "mapped_label": "playing steel guitar_ slide guitar",
+    "options": [
+      "playing steel guitar_ slide guitar",
+      "playing zither",
+      "blowtorch igniting",
+      "people crowd"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/55KJ785kSbY_000050.flac",
+    "question": "What caption does the given audio belong to?\nA. male singing B. mouse clicking C. squishing water D. eating with cutlery",
+    "answer": "B",
+    "label": "vgg_145",
+    "mapped_label": "mouse clicking",
+    "options": [
+      "male singing",
+      "mouse clicking",
+      "squishing water",
+      "eating with cutlery"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/e0x7N9kntRk_000006.flac",
+    "question": "What caption does the given audio belong to?\nA. playing french horn B. elk bugling C. alarm clock ringing D. airplane",
+    "answer": "D",
+    "label": "vgg_188",
+    "mapped_label": "airplane",
+    "options": [
+      "playing french horn",
+      "elk bugling",
+      "alarm clock ringing",
+      "airplane"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/t3OLkzWjQkg_000198.flac",
+    "question": "What caption does the given audio belong to?\nA. elk bugling B. bouncing on trampoline C. tornado roaring D. tapping guitar",
+    "answer": "A",
+    "label": "vgg_176",
+    "mapped_label": "elk bugling",
+    "options": [
+      "elk bugling",
+      "bouncing on trampoline",
+      "tornado roaring",
+      "tapping guitar"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/8q33uXmn1LQ_000002.flac",
+    "question": "What caption does the given audio belong to?\nA. splashing water B. firing muskets C. smoke detector beeping D. playing hammond organ",
+    "answer": "B",
+    "label": "vgg_218",
+    "mapped_label": "firing muskets",
+    "options": [
+      "splashing water",
+      "firing muskets",
+      "smoke detector beeping",
+      "playing hammond organ"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ZZ0R1t47mMc_000035.flac",
+    "question": "What caption does the given audio belong to?\nA. forging swords B. playing glockenspiel C. tapping guitar D. playing bassoon",
+    "answer": "B",
+    "label": "vgg_51",
+    "mapped_label": "playing glockenspiel",
+    "options": [
+      "forging swords",
+      "playing glockenspiel",
+      "tapping guitar",
+      "playing bassoon"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/s3sm1JHm5Uo_000136.flac",
+    "question": "What caption does the given audio belong to?\nA. using sewing machines B. electric shaver_ electric razor shaving C. gibbon howling D. woodpecker pecking tree",
+    "answer": "B",
+    "label": "vgg_89",
+    "mapped_label": "electric shaver_ electric razor shaving",
+    "options": [
+      "using sewing machines",
+      "electric shaver_ electric razor shaving",
+      "gibbon howling",
+      "woodpecker pecking tree"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/-Vvs_Dq9E98_000324.flac",
+    "question": "What caption does the given audio belong to?\nA. male speech_ man speaking B. playing darts C. playing badminton D. dog barking",
+    "answer": "C",
+    "label": "vgg_56",
+    "mapped_label": "playing badminton",
+    "options": [
+      "male speech_ man speaking",
+      "playing darts",
+      "playing badminton",
+      "dog barking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/0EuL0XXx26w_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. bouncing on trampoline B. train whistling C. printer printing D. playing snare drum",
+    "answer": "C",
+    "label": "vgg_101",
+    "mapped_label": "printer printing",
+    "options": [
+      "bouncing on trampoline",
+      "train whistling",
+      "printer printing",
+      "playing snare drum"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/TsPHFHH9jcQ_000071.flac",
+    "question": "What caption does the given audio belong to?\nA. fireworks banging B. train wheels squealing C. playing tambourine D. skidding",
+    "answer": "C",
+    "label": "vgg_117",
+    "mapped_label": "playing tambourine",
+    "options": [
+      "fireworks banging",
+      "train wheels squealing",
+      "playing tambourine",
+      "skidding"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/fwm7Ir2R8Z8_000021.flac",
+    "question": "What caption does the given audio belong to?\nA. crow cawing B. subway_ metro_ underground C. turkey gobbling D. reversing beeps",
+    "answer": "A",
+    "label": "vgg_61",
+    "mapped_label": "crow cawing",
+    "options": [
+      "crow cawing",
+      "subway_ metro_ underground",
+      "turkey gobbling",
+      "reversing beeps"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/rNhpHsoBuO0_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. parrot talking B. playing banjo C. chinchilla barking D. skateboarding",
+    "answer": "D",
+    "label": "vgg_87",
+    "mapped_label": "skateboarding",
+    "options": [
+      "parrot talking",
+      "playing banjo",
+      "chinchilla barking",
+      "skateboarding"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6ri3coZWpv8_000008.flac",
+    "question": "What caption does the given audio belong to?\nA. lathe spinning B. splashing water C. playing volleyball D. chicken clucking",
+    "answer": "C",
+    "label": "vgg_62",
+    "mapped_label": "playing volleyball",
+    "options": [
+      "lathe spinning",
+      "splashing water",
+      "playing volleyball",
+      "chicken clucking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/a8M9OLN7IuY_000012.flac",
+    "question": "What caption does the given audio belong to?\nA. people finger snapping B. printer printing C. wind noise D. magpie calling",
+    "answer": "A",
+    "label": "vgg_297",
+    "mapped_label": "people finger snapping",
+    "options": [
+      "people finger snapping",
+      "printer printing",
+      "wind noise",
+      "magpie calling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/yO6ZMvRrcqA_000189.flac",
+    "question": "What caption does the given audio belong to?\nA. church bell ringing B. dinosaurs bellowing C. francolin calling D. rope skipping",
+    "answer": "D",
+    "label": "vgg_73",
+    "mapped_label": "rope skipping",
+    "options": [
+      "church bell ringing",
+      "dinosaurs bellowing",
+      "francolin calling",
+      "rope skipping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/p8JeMfwkNws_000036.flac",
+    "question": "What caption does the given audio belong to?\nA. snake hissing B. swimming C. hammering nails D. people marching",
+    "answer": "C",
+    "label": "vgg_156",
+    "mapped_label": "hammering nails",
+    "options": [
+      "snake hissing",
+      "swimming",
+      "hammering nails",
+      "people marching"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/3_5OLTGlhZg_000028.flac",
+    "question": "What caption does the given audio belong to?\nA. playing volleyball B. airplane flyby C. playing guiro D. running electric fan",
+    "answer": "C",
+    "label": "vgg_195",
+    "mapped_label": "playing guiro",
+    "options": [
+      "playing volleyball",
+      "airplane flyby",
+      "playing guiro",
+      "running electric fan"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/h8W_sGYAQlc_000058.flac",
+    "question": "What caption does the given audio belong to?\nA. people farting B. lathe spinning C. volcano explosion D. chimpanzee pant-hooting",
+    "answer": "C",
+    "label": "vgg_109",
+    "mapped_label": "volcano explosion",
+    "options": [
+      "people farting",
+      "lathe spinning",
+      "volcano explosion",
+      "chimpanzee pant-hooting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/bc6fHUzXgUA_000001.flac",
+    "question": "What caption does the given audio belong to?\nA. cattle_ bovinae cowbell B. eletric blender running C. goose honking D. playing volleyball",
+    "answer": "C",
+    "label": "vgg_121",
+    "mapped_label": "goose honking",
+    "options": [
+      "cattle_ bovinae cowbell",
+      "eletric blender running",
+      "goose honking",
+      "playing volleyball"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/OSOzwOFk2as_000250.flac",
+    "question": "What caption does the given audio belong to?\nA. playing harmonica B. thunder C. planing timber D. tapping guitar",
+    "answer": "A",
+    "label": "vgg_113",
+    "mapped_label": "playing harmonica",
+    "options": [
+      "playing harmonica",
+      "thunder",
+      "planing timber",
+      "tapping guitar"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/F8d_HhbUFqg_000044.flac",
+    "question": "What caption does the given audio belong to?\nA. mynah bird singing B. sea waves C. playing trombone D. spraying water",
+    "answer": "C",
+    "label": "vgg_35",
+    "mapped_label": "playing trombone",
+    "options": [
+      "mynah bird singing",
+      "sea waves",
+      "playing trombone",
+      "spraying water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/3nBeX4lKPWI_000173.flac",
+    "question": "What caption does the given audio belong to?\nA. vehicle horn_ car horn_ honking B. baby laughter C. playing vibraphone D. playing hammond organ",
+    "answer": "C",
+    "label": "vgg_96",
+    "mapped_label": "playing vibraphone",
+    "options": [
+      "vehicle horn_ car horn_ honking",
+      "baby laughter",
+      "playing vibraphone",
+      "playing hammond organ"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/BDp-Hlo89Qo_000110.flac",
+    "question": "What caption does the given audio belong to?\nA. people sniggering B. sloshing water C. golf driving D. black capped chickadee calling",
+    "answer": "A",
+    "label": "vgg_95",
+    "mapped_label": "people sniggering",
+    "options": [
+      "people sniggering",
+      "sloshing water",
+      "golf driving",
+      "black capped chickadee calling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/HPQzJFAXiLc_001185.flac",
+    "question": "What caption does the given audio belong to?\nA. race car_ auto racing B. subway_ metro_ underground C. telephone bell ringing D. singing bowl",
+    "answer": "D",
+    "label": "vgg_41",
+    "mapped_label": "singing bowl",
+    "options": [
+      "race car_ auto racing",
+      "subway_ metro_ underground",
+      "telephone bell ringing",
+      "singing bowl"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/yUdLlcLbzHA_000288.flac",
+    "question": "What caption does the given audio belong to?\nA. tapping guitar B. bird chirping_ tweeting C. snake hissing D. skateboarding",
+    "answer": "A",
+    "label": "vgg_122",
+    "mapped_label": "tapping guitar",
+    "options": [
+      "tapping guitar",
+      "bird chirping_ tweeting",
+      "snake hissing",
+      "skateboarding"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6-0Q_X4fljE_000071.flac",
+    "question": "What caption does the given audio belong to?\nA. playing bagpipes B. chimpanzee pant-hooting C. gibbon howling D. hammering nails",
+    "answer": "B",
+    "label": "vgg_196",
+    "mapped_label": "chimpanzee pant-hooting",
+    "options": [
+      "playing bagpipes",
+      "chimpanzee pant-hooting",
+      "gibbon howling",
+      "hammering nails"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Zn4UNt-S0Tw_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. playing electric guitar B. railroad car_ train wagon C. zebra braying D. smoke detector beeping",
+    "answer": "B",
+    "label": "vgg_39",
+    "mapped_label": "railroad car_ train wagon",
+    "options": [
+      "playing electric guitar",
+      "railroad car_ train wagon",
+      "zebra braying",
+      "smoke detector beeping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/A7PmjaZQg7k_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. playing french horn B. playing hockey C. driving buses D. sheep bleating",
+    "answer": "A",
+    "label": "vgg_102",
+    "mapped_label": "playing french horn",
+    "options": [
+      "playing french horn",
+      "playing hockey",
+      "driving buses",
+      "sheep bleating"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/vydb9vevdxI_000216.flac",
+    "question": "What caption does the given audio belong to?\nA. airplane B. ambulance siren C. playing tabla D. missile launch",
+    "answer": "C",
+    "label": "vgg_50",
+    "mapped_label": "playing tabla",
+    "options": [
+      "airplane",
+      "ambulance siren",
+      "playing tabla",
+      "missile launch"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ABEhxfTSs9Q_000049.flac",
+    "question": "What caption does the given audio belong to?\nA. cell phone buzzing B. train wheels squealing C. playing oboe D. opening or closing car electric windows",
+    "answer": "C",
+    "label": "vgg_181",
+    "mapped_label": "playing oboe",
+    "options": [
+      "cell phone buzzing",
+      "train wheels squealing",
+      "playing oboe",
+      "opening or closing car electric windows"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/sJgwRO42fmo_000310.flac",
+    "question": "What caption does the given audio belong to?\nA. foghorn B. railroad car_ train wagon C. child speech_ kid speaking D. playing volleyball",
+    "answer": "C",
+    "label": "vgg_5",
+    "mapped_label": "child speech_ kid speaking",
+    "options": [
+      "foghorn",
+      "railroad car_ train wagon",
+      "child speech_ kid speaking",
+      "playing volleyball"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/CGvlXd-WhHI_000260.flac",
+    "question": "What caption does the given audio belong to?\nA. playing piano B. whale calling C. playing trombone D. ocean burbling",
+    "answer": "A",
+    "label": "vgg_33",
+    "mapped_label": "playing piano",
+    "options": [
+      "playing piano",
+      "whale calling",
+      "playing trombone",
+      "ocean burbling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/QYziHh98AC8_000061.flac",
+    "question": "What caption does the given audio belong to?\nA. playing flute B. playing didgeridoo C. woodpecker pecking tree D. pig oinking",
+    "answer": "B",
+    "label": "vgg_27",
+    "mapped_label": "playing didgeridoo",
+    "options": [
+      "playing flute",
+      "playing didgeridoo",
+      "woodpecker pecking tree",
+      "pig oinking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Qwxa7ZCEBQs_000006.flac",
+    "question": "What caption does the given audio belong to?\nA. cricket chirping B. playing clarinet C. playing table tennis D. dinosaurs bellowing",
+    "answer": "A",
+    "label": "vgg_137",
+    "mapped_label": "cricket chirping",
+    "options": [
+      "cricket chirping",
+      "playing clarinet",
+      "playing table tennis",
+      "dinosaurs bellowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/4Ci0IsllOJk_000041.flac",
+    "question": "What caption does the given audio belong to?\nA. missile launch B. typing on computer keyboard C. playing hockey D. bull bellowing",
+    "answer": "A",
+    "label": "vgg_69",
+    "mapped_label": "missile launch",
+    "options": [
+      "missile launch",
+      "typing on computer keyboard",
+      "playing hockey",
+      "bull bellowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/P5V9zJFKaHc_000060.flac",
+    "question": "What caption does the given audio belong to?\nA. fireworks banging B. black capped chickadee calling C. male speech_ man speaking D. people gargling",
+    "answer": "C",
+    "label": "vgg_14",
+    "mapped_label": "male speech_ man speaking",
+    "options": [
+      "fireworks banging",
+      "black capped chickadee calling",
+      "male speech_ man speaking",
+      "people gargling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/9LDdYvmbnD8_000160.flac",
+    "question": "What caption does the given audio belong to?\nA. playing glockenspiel B. helicopter C. ripping paper D. skateboarding",
+    "answer": "B",
+    "label": "vgg_12",
+    "mapped_label": "helicopter",
+    "options": [
+      "playing glockenspiel",
+      "helicopter",
+      "ripping paper",
+      "skateboarding"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/EywwGE5pbH4_000025.flac",
+    "question": "What caption does the given audio belong to?\nA. playing cymbal B. dog howling C. lip smacking D. elephant trumpeting",
+    "answer": "A",
+    "label": "vgg_26",
+    "mapped_label": "playing cymbal",
+    "options": [
+      "playing cymbal",
+      "dog howling",
+      "lip smacking",
+      "elephant trumpeting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/U49MVsGrzyY_000041.flac",
+    "question": "What caption does the given audio belong to?\nA. sliding door B. strike lighter C. people whistling D. playing clarinet",
+    "answer": "A",
+    "label": "vgg_169",
+    "mapped_label": "sliding door",
+    "options": [
+      "sliding door",
+      "strike lighter",
+      "people whistling",
+      "playing clarinet"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Co3kiI3uQ6Q_000106.flac",
+    "question": "What caption does the given audio belong to?\nA. airplane flyby B. popping popcorn C. disc scratching D. warbler chirping",
+    "answer": "C",
+    "label": "vgg_293",
+    "mapped_label": "disc scratching",
+    "options": [
+      "airplane flyby",
+      "popping popcorn",
+      "disc scratching",
+      "warbler chirping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/CVOSvaWIajQ_000150.flac",
+    "question": "What caption does the given audio belong to?\nA. running electric fan B. motorboat_ speedboat acceleration C. playing tambourine D. warbler chirping",
+    "answer": "B",
+    "label": "vgg_15",
+    "mapped_label": "motorboat_ speedboat acceleration",
+    "options": [
+      "running electric fan",
+      "motorboat_ speedboat acceleration",
+      "playing tambourine",
+      "warbler chirping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/oL2GmhbMufY_000026.flac",
+    "question": "What caption does the given audio belong to?\nA. playing tympani B. people sniggering C. air conditioning noise D. playing snare drum",
+    "answer": "D",
+    "label": "vgg_64",
+    "mapped_label": "playing snare drum",
+    "options": [
+      "playing tympani",
+      "people sniggering",
+      "air conditioning noise",
+      "playing snare drum"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/3Csg7FL6wn4_000015.flac",
+    "question": "What caption does the given audio belong to?\nA. fire truck siren B. dog bow-wow C. playing bongo D. wind chime",
+    "answer": "D",
+    "label": "vgg_226",
+    "mapped_label": "wind chime",
+    "options": [
+      "fire truck siren",
+      "dog bow-wow",
+      "playing bongo",
+      "wind chime"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/wAYpUwUb3CA_000038.flac",
+    "question": "What caption does the given audio belong to?\nA. tap dancing B. machine gun shooting C. rapping D. bird wings flapping",
+    "answer": "A",
+    "label": "vgg_42",
+    "mapped_label": "tap dancing",
+    "options": [
+      "tap dancing",
+      "machine gun shooting",
+      "rapping",
+      "bird wings flapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/IVSVTVzhFWg_000088.flac",
+    "question": "What caption does the given audio belong to?\nA. cheetah chirrup B. hair dryer drying C. vehicle horn_ car horn_ honking D. child speech_ kid speaking",
+    "answer": "A",
+    "label": "vgg_220",
+    "mapped_label": "cheetah chirrup",
+    "options": [
+      "cheetah chirrup",
+      "hair dryer drying",
+      "vehicle horn_ car horn_ honking",
+      "child speech_ kid speaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/hde9o_Jq2Bs_000004.flac",
+    "question": "What caption does the given audio belong to?\nA. missile launch B. playing tympani C. people slurping D. opening or closing car electric windows",
+    "answer": "B",
+    "label": "vgg_199",
+    "mapped_label": "playing tympani",
+    "options": [
+      "missile launch",
+      "playing tympani",
+      "people slurping",
+      "opening or closing car electric windows"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/UR_vY1uNF44_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. people slapping B. bird wings flapping C. dinosaurs bellowing D. train whistling",
+    "answer": "D",
+    "label": "vgg_157",
+    "mapped_label": "train whistling",
+    "options": [
+      "people slapping",
+      "bird wings flapping",
+      "dinosaurs bellowing",
+      "train whistling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ilPZORsv9dk_000028.flac",
+    "question": "What caption does the given audio belong to?\nA. wind chime B. people coughing C. cat caterwauling D. people humming",
+    "answer": "D",
+    "label": "vgg_224",
+    "mapped_label": "people humming",
+    "options": [
+      "wind chime",
+      "people coughing",
+      "cat caterwauling",
+      "people humming"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/U7fTiUlPwAY_000006.flac",
+    "question": "What caption does the given audio belong to?\nA. cow lowing B. underwater bubbling C. playing squash D. playing darts",
+    "answer": "C",
+    "label": "vgg_48",
+    "mapped_label": "playing squash",
+    "options": [
+      "cow lowing",
+      "underwater bubbling",
+      "playing squash",
+      "playing darts"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/pBG4sk77hqs_000035.flac",
+    "question": "What caption does the given audio belong to?\nA. electric grinder grinding B. francolin calling C. people sniggering D. air conditioning noise",
+    "answer": "A",
+    "label": "vgg_214",
+    "mapped_label": "electric grinder grinding",
+    "options": [
+      "electric grinder grinding",
+      "francolin calling",
+      "people sniggering",
+      "air conditioning noise"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/LzCYqfI90T0_000070.flac",
+    "question": "What caption does the given audio belong to?\nA. machine gun shooting B. pumping water C. female singing D. fireworks banging",
+    "answer": "D",
+    "label": "vgg_11",
+    "mapped_label": "fireworks banging",
+    "options": [
+      "machine gun shooting",
+      "pumping water",
+      "female singing",
+      "fireworks banging"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/a-XziQFqXSc_000250.flac",
+    "question": "What caption does the given audio belong to?\nA. opening or closing car doors B. wind noise C. playing cymbal D. playing bassoon",
+    "answer": "B",
+    "label": "vgg_85",
+    "mapped_label": "wind noise",
+    "options": [
+      "opening or closing car doors",
+      "wind noise",
+      "playing cymbal",
+      "playing bassoon"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/kDkIdk0qVZ0_000050.flac",
+    "question": "What caption does the given audio belong to?\nA. driving motorcycle B. train wheels squealing C. missile launch D. people belly laughing",
+    "answer": "A",
+    "label": "vgg_7",
+    "mapped_label": "driving motorcycle",
+    "options": [
+      "driving motorcycle",
+      "train wheels squealing",
+      "missile launch",
+      "people belly laughing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/2WnPwsQ1Ku4_000131.flac",
+    "question": "What caption does the given audio belong to?\nA. pig oinking B. sharpen knife C. otter growling D. female singing",
+    "answer": "B",
+    "label": "vgg_123",
+    "mapped_label": "sharpen knife",
+    "options": [
+      "pig oinking",
+      "sharpen knife",
+      "otter growling",
+      "female singing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Nwwld2DW870_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. playing drum kit B. machine gun shooting C. playing erhu D. parrot talking",
+    "answer": "B",
+    "label": "vgg_65",
+    "mapped_label": "machine gun shooting",
+    "options": [
+      "playing drum kit",
+      "machine gun shooting",
+      "playing erhu",
+      "parrot talking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/sw_KWYAvAJg_000294.flac",
+    "question": "What caption does the given audio belong to?\nA. underwater bubbling B. people screaming C. playing electronic organ D. skiing",
+    "answer": "C",
+    "label": "vgg_110",
+    "mapped_label": "playing electronic organ",
+    "options": [
+      "underwater bubbling",
+      "people screaming",
+      "playing electronic organ",
+      "skiing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/FhCku5dBhzU_000148.flac",
+    "question": "What caption does the given audio belong to?\nA. playing hammond organ B. playing mandolin C. cat hissing D. race car_ auto racing",
+    "answer": "B",
+    "label": "vgg_114",
+    "mapped_label": "playing mandolin",
+    "options": [
+      "playing hammond organ",
+      "playing mandolin",
+      "cat hissing",
+      "race car_ auto racing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ROootH-mtEI_000130.flac",
+    "question": "What caption does the given audio belong to?\nA. lathe spinning B. barn swallow calling C. skiing D. stream burbling",
+    "answer": "D",
+    "label": "vgg_138",
+    "mapped_label": "stream burbling",
+    "options": [
+      "lathe spinning",
+      "barn swallow calling",
+      "skiing",
+      "stream burbling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/4ZvSgfUinBo_000159.flac",
+    "question": "What caption does the given audio belong to?\nA. cat meowing B. metronome C. train whistling D. playing badminton",
+    "answer": "B",
+    "label": "vgg_296",
+    "mapped_label": "metronome",
+    "options": [
+      "cat meowing",
+      "metronome",
+      "train whistling",
+      "playing badminton"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/HXEHPv6s0Q0_000011.flac",
+    "question": "What caption does the given audio belong to?\nA. mouse pattering B. driving buses C. cat purring D. playing darts",
+    "answer": "B",
+    "label": "vgg_6",
+    "mapped_label": "driving buses",
+    "options": [
+      "mouse pattering",
+      "driving buses",
+      "cat purring",
+      "playing darts"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Llsf3bV2ls0_000059.flac",
+    "question": "What caption does the given audio belong to?\nA. baby babbling B. eating with cutlery C. stream burbling D. people belly laughing",
+    "answer": "D",
+    "label": "vgg_185",
+    "mapped_label": "people belly laughing",
+    "options": [
+      "baby babbling",
+      "eating with cutlery",
+      "stream burbling",
+      "people belly laughing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/CUFBalzotgk_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. playing drum kit B. smoke detector beeping C. people crowd D. playing flute",
+    "answer": "C",
+    "label": "vgg_18",
+    "mapped_label": "people crowd",
+    "options": [
+      "playing drum kit",
+      "smoke detector beeping",
+      "people crowd",
+      "playing flute"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Ul0-TOsrYwE_000038.flac",
+    "question": "What caption does the given audio belong to?\nA. magpie calling B. orchestra C. playing piano D. footsteps on snow",
+    "answer": "D",
+    "label": "vgg_266",
+    "mapped_label": "footsteps on snow",
+    "options": [
+      "magpie calling",
+      "orchestra",
+      "playing piano",
+      "footsteps on snow"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/w29WzQJWSjk_000071.flac",
+    "question": "What caption does the given audio belong to?\nA. bathroom ventilation fan running B. sliding door C. playing hockey D. telephone bell ringing",
+    "answer": "A",
+    "label": "vgg_290",
+    "mapped_label": "bathroom ventilation fan running",
+    "options": [
+      "bathroom ventilation fan running",
+      "sliding door",
+      "playing hockey",
+      "telephone bell ringing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/sX200pZVR3M_000040.flac",
+    "question": "What caption does the given audio belong to?\nA. playing tambourine B. male speech_ man speaking C. hammering nails D. playing flute",
+    "answer": "D",
+    "label": "vgg_30",
+    "mapped_label": "playing flute",
+    "options": [
+      "playing tambourine",
+      "male speech_ man speaking",
+      "hammering nails",
+      "playing flute"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Mz6fz2Sc17w_000151.flac",
+    "question": "What caption does the given audio belong to?\nA. people sniggering B. playing tabla C. playing violin_ fiddle D. playing castanets",
+    "answer": "D",
+    "label": "vgg_304",
+    "mapped_label": "playing castanets",
+    "options": [
+      "people sniggering",
+      "playing tabla",
+      "playing violin_ fiddle",
+      "playing castanets"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6TAVSMDb4Dc_000017.flac",
+    "question": "What caption does the given audio belong to?\nA. toilet flushing B. bird wings flapping C. cap gun shooting D. lions growling",
+    "answer": "D",
+    "label": "vgg_160",
+    "mapped_label": "lions growling",
+    "options": [
+      "toilet flushing",
+      "bird wings flapping",
+      "cap gun shooting",
+      "lions growling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/HyAjkpidb54_000237.flac",
+    "question": "What caption does the given audio belong to?\nA. firing cannon B. dog whimpering C. missile launch D. ripping paper",
+    "answer": "B",
+    "label": "vgg_200",
+    "mapped_label": "dog whimpering",
+    "options": [
+      "firing cannon",
+      "dog whimpering",
+      "missile launch",
+      "ripping paper"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/0KsRafprQgQ_000018.flac",
+    "question": "What caption does the given audio belong to?\nA. slot machine B. hammering nails C. cat purring D. cattle_ bovinae cowbell",
+    "answer": "D",
+    "label": "vgg_148",
+    "mapped_label": "cattle_ bovinae cowbell",
+    "options": [
+      "slot machine",
+      "hammering nails",
+      "cat purring",
+      "cattle_ bovinae cowbell"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/nV1OqO4J59k_000050.flac",
+    "question": "What caption does the given audio belong to?\nA. playing washboard B. beat boxing C. forging swords D. people cheering",
+    "answer": "B",
+    "label": "vgg_59",
+    "mapped_label": "beat boxing",
+    "options": [
+      "playing washboard",
+      "beat boxing",
+      "forging swords",
+      "people cheering"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/fbLUTEA0IbY_000004.flac",
+    "question": "What caption does the given audio belong to?\nA. fly_ housefly buzzing B. bird wings flapping C. tractor digging D. mouse squeaking",
+    "answer": "A",
+    "label": "vgg_295",
+    "mapped_label": "fly_ housefly buzzing",
+    "options": [
+      "fly_ housefly buzzing",
+      "bird wings flapping",
+      "tractor digging",
+      "mouse squeaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/a09MQelj30Y_000013.flac",
+    "question": "What caption does the given audio belong to?\nA. playing ukulele B. ice cracking C. playing cornet D. penguins braying",
+    "answer": "B",
+    "label": "vgg_229",
+    "mapped_label": "ice cracking",
+    "options": [
+      "playing ukulele",
+      "ice cracking",
+      "playing cornet",
+      "penguins braying"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/HAjcTGd-OUM_000060.flac",
+    "question": "What caption does the given audio belong to?\nA. pheasant crowing B. splashing water C. people humming D. smoke detector beeping",
+    "answer": "B",
+    "label": "vgg_155",
+    "mapped_label": "splashing water",
+    "options": [
+      "pheasant crowing",
+      "splashing water",
+      "people humming",
+      "smoke detector beeping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/aRYncGVvTPY_000393.flac",
+    "question": "What caption does the given audio belong to?\nA. bowling impact B. playing shofar C. airplane flyby D. playing tuning fork",
+    "answer": "A",
+    "label": "vgg_72",
+    "mapped_label": "bowling impact",
+    "options": [
+      "bowling impact",
+      "playing shofar",
+      "airplane flyby",
+      "playing tuning fork"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/3yPAq5zb4YQ_000130.flac",
+    "question": "What caption does the given audio belong to?\nA. male singing B. waterfall burbling C. people babbling D. playing bagpipes",
+    "answer": "D",
+    "label": "vgg_78",
+    "mapped_label": "playing bagpipes",
+    "options": [
+      "male singing",
+      "waterfall burbling",
+      "people babbling",
+      "playing bagpipes"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/mlkpn5A2bNA_000460.flac",
+    "question": "What caption does the given audio belong to?\nA. spraying water B. people whistling C. barn swallow calling D. elk bugling",
+    "answer": "A",
+    "label": "vgg_253",
+    "mapped_label": "spraying water",
+    "options": [
+      "spraying water",
+      "people whistling",
+      "barn swallow calling",
+      "elk bugling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ZYRZpMooVpE_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. forging swords B. using sewing machines C. elk bugling D. disc scratching",
+    "answer": "B",
+    "label": "vgg_153",
+    "mapped_label": "using sewing machines",
+    "options": [
+      "forging swords",
+      "using sewing machines",
+      "elk bugling",
+      "disc scratching"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/EysWpBCNwHI_000004.flac",
+    "question": "What caption does the given audio belong to?\nA. skateboarding B. playing bass guitar C. playing hockey D. writing on blackboard with chalk",
+    "answer": "D",
+    "label": "vgg_252",
+    "mapped_label": "writing on blackboard with chalk",
+    "options": [
+      "skateboarding",
+      "playing bass guitar",
+      "playing hockey",
+      "writing on blackboard with chalk"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/lAADJx3dokQ_000004.flac",
+    "question": "What caption does the given audio belong to?\nA. cricket chirping B. playing gong C. forging swords D. playing bass guitar",
+    "answer": "B",
+    "label": "vgg_177",
+    "mapped_label": "playing gong",
+    "options": [
+      "cricket chirping",
+      "playing gong",
+      "forging swords",
+      "playing bass guitar"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/CQDxBt3Remo_000004.flac",
+    "question": "What caption does the given audio belong to?\nA. playing tuning fork B. dog baying C. magpie calling D. popping popcorn",
+    "answer": "C",
+    "label": "vgg_213",
+    "mapped_label": "magpie calling",
+    "options": [
+      "playing tuning fork",
+      "dog baying",
+      "magpie calling",
+      "popping popcorn"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/JOBrHKux5_Y_000003.flac",
+    "question": "What caption does the given audio belong to?\nA. people screaming B. car engine starting C. dog baying D. people sobbing",
+    "answer": "C",
+    "label": "vgg_219",
+    "mapped_label": "dog baying",
+    "options": [
+      "people screaming",
+      "car engine starting",
+      "dog baying",
+      "people sobbing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/nkIAYQTQpx0_000016.flac",
+    "question": "What caption does the given audio belong to?\nA. ambulance siren B. playing bass drum C. printer printing D. people gargling",
+    "answer": "A",
+    "label": "vgg_0",
+    "mapped_label": "ambulance siren",
+    "options": [
+      "ambulance siren",
+      "playing bass drum",
+      "printer printing",
+      "people gargling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/kTnQq68yQno_000025.flac",
+    "question": "What caption does the given audio belong to?\nA. cattle mooing B. playing steel guitar_ slide guitar C. playing electric guitar D. penguins braying",
+    "answer": "A",
+    "label": "vgg_132",
+    "mapped_label": "cattle mooing",
+    "options": [
+      "cattle mooing",
+      "playing steel guitar_ slide guitar",
+      "playing electric guitar",
+      "penguins braying"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/wxdfRjoU0Bc_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. mosquito buzzing B. pigeon_ dove cooing C. playing badminton D. child speech_ kid speaking",
+    "answer": "B",
+    "label": "vgg_19",
+    "mapped_label": "pigeon_ dove cooing",
+    "options": [
+      "mosquito buzzing",
+      "pigeon_ dove cooing",
+      "playing badminton",
+      "child speech_ kid speaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/kbDMo6MJ2oE_000040.flac",
+    "question": "What caption does the given audio belong to?\nA. playing bass guitar B. playing bass drum C. barn swallow calling D. race car_ auto racing",
+    "answer": "D",
+    "label": "vgg_38",
+    "mapped_label": "race car_ auto racing",
+    "options": [
+      "playing bass guitar",
+      "playing bass drum",
+      "barn swallow calling",
+      "race car_ auto racing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/qjgyClKLKaA_000048.flac",
+    "question": "What caption does the given audio belong to?\nA. chicken crowing B. hair dryer drying C. splashing water D. playing mandolin",
+    "answer": "A",
+    "label": "vgg_4",
+    "mapped_label": "chicken crowing",
+    "options": [
+      "chicken crowing",
+      "hair dryer drying",
+      "splashing water",
+      "playing mandolin"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/7UT7gEAXeMk_000351.flac",
+    "question": "What caption does the given audio belong to?\nA. people eating noodle B. people burping C. turkey gobbling D. francolin calling",
+    "answer": "A",
+    "label": "vgg_174",
+    "mapped_label": "people eating noodle",
+    "options": [
+      "people eating noodle",
+      "people burping",
+      "turkey gobbling",
+      "francolin calling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/e1fFAfVS9wM_000080.flac",
+    "question": "What caption does the given audio belong to?\nA. swimming B. playing banjo C. wind noise D. lip smacking",
+    "answer": "B",
+    "label": "vgg_22",
+    "mapped_label": "playing banjo",
+    "options": [
+      "swimming",
+      "playing banjo",
+      "wind noise",
+      "lip smacking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/lFnmnYPn3Mg_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. cat hissing B. underwater bubbling C. chopping wood D. hail",
+    "answer": "A",
+    "label": "vgg_244",
+    "mapped_label": "cat hissing",
+    "options": [
+      "cat hissing",
+      "underwater bubbling",
+      "chopping wood",
+      "hail"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/QEY_MM8QtEo_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. vehicle horn_ car horn_ honking B. cat hissing C. playing drum kit D. playing gong",
+    "answer": "C",
+    "label": "vgg_28",
+    "mapped_label": "playing drum kit",
+    "options": [
+      "vehicle horn_ car horn_ honking",
+      "cat hissing",
+      "playing drum kit",
+      "playing gong"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/xeS25F6uHic_000162.flac",
+    "question": "What caption does the given audio belong to?\nA. machine gun shooting B. playing tabla C. car engine idling D. airplane flyby",
+    "answer": "D",
+    "label": "vgg_74",
+    "mapped_label": "airplane flyby",
+    "options": [
+      "machine gun shooting",
+      "playing tabla",
+      "car engine idling",
+      "airplane flyby"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/lTp1IzZe6BY_000013.flac",
+    "question": "What caption does the given audio belong to?\nA. lawn mowing B. playing badminton C. basketball bounce D. playing tennis",
+    "answer": "C",
+    "label": "vgg_1",
+    "mapped_label": "basketball bounce",
+    "options": [
+      "lawn mowing",
+      "playing badminton",
+      "basketball bounce",
+      "playing tennis"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/3ygoHdMxOIw_000087.flac",
+    "question": "What caption does the given audio belong to?\nA. wind rustling leaves B. dog baying C. cutting hair with electric trimmers D. dog howling",
+    "answer": "D",
+    "label": "vgg_83",
+    "mapped_label": "dog howling",
+    "options": [
+      "wind rustling leaves",
+      "dog baying",
+      "cutting hair with electric trimmers",
+      "dog howling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/CXVXMdU84G4_000299.flac",
+    "question": "What caption does the given audio belong to?\nA. people whispering B. train horning C. bird wings flapping D. cow lowing",
+    "answer": "B",
+    "label": "vgg_124",
+    "mapped_label": "train horning",
+    "options": [
+      "people whispering",
+      "train horning",
+      "bird wings flapping",
+      "cow lowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/PR6blkQnH7Q_000080.flac",
+    "question": "What caption does the given audio belong to?\nA. tap dancing B. playing guiro C. playing trumpet D. playing double bass",
+    "answer": "C",
+    "label": "vgg_111",
+    "mapped_label": "playing trumpet",
+    "options": [
+      "tap dancing",
+      "playing guiro",
+      "playing trumpet",
+      "playing double bass"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/fqTh8oC8Xgw_000146.flac",
+    "question": "What caption does the given audio belong to?\nA. playing lacrosse B. wind chime C. people clapping D. playing harp",
+    "answer": "A",
+    "label": "vgg_251",
+    "mapped_label": "playing lacrosse",
+    "options": [
+      "playing lacrosse",
+      "wind chime",
+      "people clapping",
+      "playing harp"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/1OrG_Up0lHw_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. eating with cutlery B. playing bass guitar C. fire crackling D. playing tambourine",
+    "answer": "B",
+    "label": "vgg_23",
+    "mapped_label": "playing bass guitar",
+    "options": [
+      "eating with cutlery",
+      "playing bass guitar",
+      "fire crackling",
+      "playing tambourine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/gG1Q0-lGxY0_000009.flac",
+    "question": "What caption does the given audio belong to?\nA. vehicle horn_ car horn_ honking B. cattle mooing C. rowboat_ canoe_ kayak rowing D. parrot talking",
+    "answer": "A",
+    "label": "vgg_44",
+    "mapped_label": "vehicle horn_ car horn_ honking",
+    "options": [
+      "vehicle horn_ car horn_ honking",
+      "cattle mooing",
+      "rowboat_ canoe_ kayak rowing",
+      "parrot talking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/5wEED19iRfc_000001.flac",
+    "question": "What caption does the given audio belong to?\nA. playing harpsichord B. ocean burbling C. train whistling D. lathe spinning",
+    "answer": "B",
+    "label": "vgg_66",
+    "mapped_label": "ocean burbling",
+    "options": [
+      "playing harpsichord",
+      "ocean burbling",
+      "train whistling",
+      "lathe spinning"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/8OQ3vFDgYFk_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. sea waves B. civil defense siren C. cattle_ bovinae cowbell D. chipmunk chirping",
+    "answer": "B",
+    "label": "vgg_68",
+    "mapped_label": "civil defense siren",
+    "options": [
+      "sea waves",
+      "civil defense siren",
+      "cattle_ bovinae cowbell",
+      "chipmunk chirping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/jrYkjQSufSs_000020.flac",
+    "question": "What caption does the given audio belong to?\nA. sailing B. toilet flushing C. machine gun shooting D. playing bugle",
+    "answer": "A",
+    "label": "vgg_164",
+    "mapped_label": "sailing",
+    "options": [
+      "sailing",
+      "toilet flushing",
+      "machine gun shooting",
+      "playing bugle"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/WaJpvl3nM-8_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. ice cream truck_ ice cream van B. rowboat_ canoe_ kayak rowing C. hammering nails D. ripping paper",
+    "answer": "B",
+    "label": "vgg_40",
+    "mapped_label": "rowboat_ canoe_ kayak rowing",
+    "options": [
+      "ice cream truck_ ice cream van",
+      "rowboat_ canoe_ kayak rowing",
+      "hammering nails",
+      "ripping paper"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/eKhCUr7O0-8_000080.flac",
+    "question": "What caption does the given audio belong to?\nA. splashing water B. dog baying C. alarm clock ringing D. tractor digging",
+    "answer": "C",
+    "label": "vgg_239",
+    "mapped_label": "alarm clock ringing",
+    "options": [
+      "splashing water",
+      "dog baying",
+      "alarm clock ringing",
+      "tractor digging"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/AfkdeLK90zI_000007.flac",
+    "question": "What caption does the given audio belong to?\nA. people finger snapping B. vehicle horn_ car horn_ honking C. people sobbing D. elephant trumpeting",
+    "answer": "C",
+    "label": "vgg_194",
+    "mapped_label": "people sobbing",
+    "options": [
+      "people finger snapping",
+      "vehicle horn_ car horn_ honking",
+      "people sobbing",
+      "elephant trumpeting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/01xKbbgMwFg_000033.flac",
+    "question": "What caption does the given audio belong to?\nA. duck quacking B. footsteps on snow C. playing harp D. people screaming",
+    "answer": "A",
+    "label": "vgg_159",
+    "mapped_label": "duck quacking",
+    "options": [
+      "duck quacking",
+      "footsteps on snow",
+      "playing harp",
+      "people screaming"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/TIDv5aljI7g_000140.flac",
+    "question": "What caption does the given audio belong to?\nA. chopping food B. civil defense siren C. swimming D. railroad car_ train wagon",
+    "answer": "C",
+    "label": "vgg_170",
+    "mapped_label": "swimming",
+    "options": [
+      "chopping food",
+      "civil defense siren",
+      "swimming",
+      "railroad car_ train wagon"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/QoEpMGRrqk0_000013.flac",
+    "question": "What caption does the given audio belong to?\nA. metronome B. vacuum cleaner cleaning floors C. playing hockey D. sheep bleating",
+    "answer": "B",
+    "label": "vgg_54",
+    "mapped_label": "vacuum cleaner cleaning floors",
+    "options": [
+      "metronome",
+      "vacuum cleaner cleaning floors",
+      "playing hockey",
+      "sheep bleating"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/xoQp3ugII1M_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. playing squash B. cat caterwauling C. snake rattling D. gibbon howling",
+    "answer": "D",
+    "label": "vgg_120",
+    "mapped_label": "gibbon howling",
+    "options": [
+      "playing squash",
+      "cat caterwauling",
+      "snake rattling",
+      "gibbon howling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/daNMqcqD1aQ_000004.flac",
+    "question": "What caption does the given audio belong to?\nA. ripping paper B. chicken crowing C. chopping food D. people burping",
+    "answer": "D",
+    "label": "vgg_45",
+    "mapped_label": "people burping",
+    "options": [
+      "ripping paper",
+      "chicken crowing",
+      "chopping food",
+      "people burping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/XfLnPYOy5ms_000106.flac",
+    "question": "What caption does the given audio belong to?\nA. lathe spinning B. cutting hair with electric trimmers C. skateboarding D. cheetah chirrup",
+    "answer": "A",
+    "label": "vgg_106",
+    "mapped_label": "lathe spinning",
+    "options": [
+      "lathe spinning",
+      "cutting hair with electric trimmers",
+      "skateboarding",
+      "cheetah chirrup"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/HBneeR4xR98_000254.flac",
+    "question": "What caption does the given audio belong to?\nA. playing tabla B. playing castanets C. playing hammond organ D. air horn",
+    "answer": "C",
+    "label": "vgg_47",
+    "mapped_label": "playing hammond organ",
+    "options": [
+      "playing tabla",
+      "playing castanets",
+      "playing hammond organ",
+      "air horn"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Lz1snRkaO_Y_000190.flac",
+    "question": "What caption does the given audio belong to?\nA. foghorn B. cat caterwauling C. playing snare drum D. playing ukulele",
+    "answer": "D",
+    "label": "vgg_90",
+    "mapped_label": "playing ukulele",
+    "options": [
+      "foghorn",
+      "cat caterwauling",
+      "playing snare drum",
+      "playing ukulele"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/zYad9Sq82tM_000159.flac",
+    "question": "What caption does the given audio belong to?\nA. basketball bounce B. roller coaster running C. people babbling D. bouncing on trampoline",
+    "answer": "D",
+    "label": "vgg_184",
+    "mapped_label": "bouncing on trampoline",
+    "options": [
+      "basketball bounce",
+      "roller coaster running",
+      "people babbling",
+      "bouncing on trampoline"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/nJMJVcxsJB4_000040.flac",
+    "question": "What caption does the given audio belong to?\nA. playing hammond organ B. cell phone buzzing C. bouncing on trampoline D. people sneezing",
+    "answer": "D",
+    "label": "vgg_139",
+    "mapped_label": "people sneezing",
+    "options": [
+      "playing hammond organ",
+      "cell phone buzzing",
+      "bouncing on trampoline",
+      "people sneezing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/KEtet34gu4c_000040.flac",
+    "question": "What caption does the given audio belong to?\nA. dog barking B. baby babbling C. playing glockenspiel D. people slurping",
+    "answer": "A",
+    "label": "vgg_125",
+    "mapped_label": "dog barking",
+    "options": [
+      "dog barking",
+      "baby babbling",
+      "playing glockenspiel",
+      "people slurping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Oo_kVoi7eOA_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. playing mandolin B. train wheels squealing C. dog howling D. vacuum cleaner cleaning floors",
+    "answer": "B",
+    "label": "vgg_238",
+    "mapped_label": "train wheels squealing",
+    "options": [
+      "playing mandolin",
+      "train wheels squealing",
+      "dog howling",
+      "vacuum cleaner cleaning floors"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/DdSg0E8z8Fk_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. goose honking B. engine accelerating_ revving_ vroom C. playing clarinet D. typing on typewriter",
+    "answer": "B",
+    "label": "vgg_8",
+    "mapped_label": "engine accelerating_ revving_ vroom",
+    "options": [
+      "goose honking",
+      "engine accelerating_ revving_ vroom",
+      "playing clarinet",
+      "typing on typewriter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/TUyh5qGymgg_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. playing harmonica B. singing choir C. tornado roaring D. warbler chirping",
+    "answer": "B",
+    "label": "vgg_126",
+    "mapped_label": "singing choir",
+    "options": [
+      "playing harmonica",
+      "singing choir",
+      "tornado roaring",
+      "warbler chirping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/hIk_XJskIFk_000080.flac",
+    "question": "What caption does the given audio belong to?\nA. playing accordion B. volcano explosion C. playing djembe D. playing double bass",
+    "answer": "A",
+    "label": "vgg_20",
+    "mapped_label": "playing accordion",
+    "options": [
+      "playing accordion",
+      "volcano explosion",
+      "playing djembe",
+      "playing double bass"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/3jFPHxInqSA_000006.flac",
+    "question": "What caption does the given audio belong to?\nA. playing harpsichord B. playing electronic organ C. underwater bubbling D. swimming",
+    "answer": "C",
+    "label": "vgg_217",
+    "mapped_label": "underwater bubbling",
+    "options": [
+      "playing harpsichord",
+      "playing electronic organ",
+      "underwater bubbling",
+      "swimming"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/7Zo6XNy071I_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. wind rustling leaves B. francolin calling C. church bell ringing D. canary calling",
+    "answer": "A",
+    "label": "vgg_171",
+    "mapped_label": "wind rustling leaves",
+    "options": [
+      "wind rustling leaves",
+      "francolin calling",
+      "church bell ringing",
+      "canary calling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/CRgVfjvTVa4_000044.flac",
+    "question": "What caption does the given audio belong to?\nA. cap gun shooting B. chinchilla barking C. playing steelpan D. lip smacking",
+    "answer": "B",
+    "label": "vgg_284",
+    "mapped_label": "chinchilla barking",
+    "options": [
+      "cap gun shooting",
+      "chinchilla barking",
+      "playing steelpan",
+      "lip smacking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/MxIC3-VrjRs_000425.flac",
+    "question": "What caption does the given audio belong to?\nA. dog barking B. people eating C. fox barking D. engine accelerating_ revving_ vroom",
+    "answer": "C",
+    "label": "vgg_232",
+    "mapped_label": "fox barking",
+    "options": [
+      "dog barking",
+      "people eating",
+      "fox barking",
+      "engine accelerating_ revving_ vroom"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/1XZHJgCwJ3w_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. planing timber B. female speech_ woman speaking C. singing bowl D. snake rattling",
+    "answer": "B",
+    "label": "vgg_10",
+    "mapped_label": "female speech_ woman speaking",
+    "options": [
+      "planing timber",
+      "female speech_ woman speaking",
+      "singing bowl",
+      "snake rattling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/bA03kg6rc24_000050.flac",
+    "question": "What caption does the given audio belong to?\nA. fire crackling B. skidding C. singing bowl D. dog whimpering",
+    "answer": "B",
+    "label": "vgg_91",
+    "mapped_label": "skidding",
+    "options": [
+      "fire crackling",
+      "skidding",
+      "singing bowl",
+      "dog whimpering"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/bfZZdTPYmos_000019.flac",
+    "question": "What caption does the given audio belong to?\nA. electric grinder grinding B. bathroom ventilation fan running C. lawn mowing D. playing congas",
+    "answer": "D",
+    "label": "vgg_198",
+    "mapped_label": "playing congas",
+    "options": [
+      "electric grinder grinding",
+      "bathroom ventilation fan running",
+      "lawn mowing",
+      "playing congas"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/UZLK25_-clk_000024.flac",
+    "question": "What caption does the given audio belong to?\nA. people gargling B. mouse pattering C. singing bowl D. playing cornet",
+    "answer": "D",
+    "label": "vgg_94",
+    "mapped_label": "playing cornet",
+    "options": [
+      "people gargling",
+      "mouse pattering",
+      "singing bowl",
+      "playing cornet"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/kKAZcaGBkUY_000050.flac",
+    "question": "What caption does the given audio belong to?\nA. playing harp B. police radio chatter C. playing erhu D. lawn mowing",
+    "answer": "A",
+    "label": "vgg_31",
+    "mapped_label": "playing harp",
+    "options": [
+      "playing harp",
+      "police radio chatter",
+      "playing erhu",
+      "lawn mowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6EAXozy2ie8_000061.flac",
+    "question": "What caption does the given audio belong to?\nA. bathroom ventilation fan running B. fire crackling C. warbler chirping D. child speech_ kid speaking",
+    "answer": "C",
+    "label": "vgg_260",
+    "mapped_label": "warbler chirping",
+    "options": [
+      "bathroom ventilation fan running",
+      "fire crackling",
+      "warbler chirping",
+      "child speech_ kid speaking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/o6tvjcF2RA0_000545.flac",
+    "question": "What caption does the given audio belong to?\nA. squishing water B. metronome C. playing lacrosse D. cow lowing",
+    "answer": "A",
+    "label": "vgg_210",
+    "mapped_label": "squishing water",
+    "options": [
+      "squishing water",
+      "metronome",
+      "playing lacrosse",
+      "cow lowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/TMpicXTzhYg_000164.flac",
+    "question": "What caption does the given audio belong to?\nA. sea lion barking B. roller coaster running C. people cheering D. playing clarinet",
+    "answer": "D",
+    "label": "vgg_46",
+    "mapped_label": "playing clarinet",
+    "options": [
+      "sea lion barking",
+      "roller coaster running",
+      "people cheering",
+      "playing clarinet"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/TKS5RoNwM9U_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. playing snare drum B. lions growling C. people coughing D. typing on computer keyboard",
+    "answer": "D",
+    "label": "vgg_173",
+    "mapped_label": "typing on computer keyboard",
+    "options": [
+      "playing snare drum",
+      "lions growling",
+      "people coughing",
+      "typing on computer keyboard"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/91bH8q6X3_A_000004.flac",
+    "question": "What caption does the given audio belong to?\nA. people babbling B. bouncing on trampoline C. elephant trumpeting D. playing sitar",
+    "answer": "C",
+    "label": "vgg_247",
+    "mapped_label": "elephant trumpeting",
+    "options": [
+      "people babbling",
+      "bouncing on trampoline",
+      "elephant trumpeting",
+      "playing sitar"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Sc_BEB1gNwU_000093.flac",
+    "question": "What caption does the given audio belong to?\nA. smoke detector beeping B. magpie calling C. bull bellowing D. playing shofar",
+    "answer": "D",
+    "label": "vgg_298",
+    "mapped_label": "playing shofar",
+    "options": [
+      "smoke detector beeping",
+      "magpie calling",
+      "bull bellowing",
+      "playing shofar"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/mx_u11Hg-YQ_000046.flac",
+    "question": "What caption does the given audio belong to?\nA. rope skipping B. barn swallow calling C. pigeon_ dove cooing D. owl hooting",
+    "answer": "B",
+    "label": "vgg_216",
+    "mapped_label": "barn swallow calling",
+    "options": [
+      "rope skipping",
+      "barn swallow calling",
+      "pigeon_ dove cooing",
+      "owl hooting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6fPLEznLcCM_000155.flac",
+    "question": "What caption does the given audio belong to?\nA. playing electric guitar B. francolin calling C. playing washboard D. people giggling",
+    "answer": "B",
+    "label": "vgg_146",
+    "mapped_label": "francolin calling",
+    "options": [
+      "playing electric guitar",
+      "francolin calling",
+      "playing washboard",
+      "people giggling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/NW96xgJ5EGQ_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. crow cawing B. frog croaking C. disc scratching D. people shuffling",
+    "answer": "D",
+    "label": "vgg_143",
+    "mapped_label": "people shuffling",
+    "options": [
+      "crow cawing",
+      "frog croaking",
+      "disc scratching",
+      "people shuffling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/w2sQR0iCX0A_000015.flac",
+    "question": "What caption does the given audio belong to?\nA. reversing beeps B. cupboard opening or closing C. playing djembe D. people babbling",
+    "answer": "B",
+    "label": "vgg_240",
+    "mapped_label": "cupboard opening or closing",
+    "options": [
+      "reversing beeps",
+      "cupboard opening or closing",
+      "playing djembe",
+      "people babbling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ebq8ROjY1FM_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. sailing B. baby laughter C. people crowd D. church bell ringing",
+    "answer": "B",
+    "label": "vgg_100",
+    "mapped_label": "baby laughter",
+    "options": [
+      "sailing",
+      "baby laughter",
+      "people crowd",
+      "church bell ringing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/B_qQ8CfCa_k_000015.flac",
+    "question": "What caption does the given audio belong to?\nA. striking bowling B. playing acoustic guitar C. goose honking D. people gargling",
+    "answer": "A",
+    "label": "vgg_241",
+    "mapped_label": "striking bowling",
+    "options": [
+      "striking bowling",
+      "playing acoustic guitar",
+      "goose honking",
+      "people gargling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/2G2ZtyZk4eM_000135.flac",
+    "question": "What caption does the given audio belong to?\nA. yodelling B. canary calling C. people running D. playing accordion",
+    "answer": "B",
+    "label": "vgg_135",
+    "mapped_label": "canary calling",
+    "options": [
+      "yodelling",
+      "canary calling",
+      "people running",
+      "playing accordion"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/WWu24rJscDI_000502.flac",
+    "question": "What caption does the given audio belong to?\nA. gibbon howling B. ice cream truck_ ice cream van C. hair dryer drying D. playing violin_ fiddle",
+    "answer": "C",
+    "label": "vgg_236",
+    "mapped_label": "hair dryer drying",
+    "options": [
+      "gibbon howling",
+      "ice cream truck_ ice cream van",
+      "hair dryer drying",
+      "playing violin_ fiddle"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/SEmCu2eXrTc_000137.flac",
+    "question": "What caption does the given audio belong to?\nA. driving motorcycle B. playing cello C. sea waves D. playing electronic organ",
+    "answer": "B",
+    "label": "vgg_25",
+    "mapped_label": "playing cello",
+    "options": [
+      "driving motorcycle",
+      "playing cello",
+      "sea waves",
+      "playing electronic organ"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/0Q_SKfnrhwY_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. wind rustling leaves B. chopping food C. playing french horn D. children shouting",
+    "answer": "D",
+    "label": "vgg_288",
+    "mapped_label": "children shouting",
+    "options": [
+      "wind rustling leaves",
+      "chopping food",
+      "playing french horn",
+      "children shouting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/yyhJmaNqK4Y_000449.flac",
+    "question": "What caption does the given audio belong to?\nA. dog barking B. planing timber C. playing theremin D. people finger snapping",
+    "answer": "B",
+    "label": "vgg_116",
+    "mapped_label": "planing timber",
+    "options": [
+      "dog barking",
+      "planing timber",
+      "playing theremin",
+      "people finger snapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/RHIiYOH0pfE_000130.flac",
+    "question": "What caption does the given audio belong to?\nA. hail B. playing steel guitar_ slide guitar C. playing saxophone D. hedge trimmer running",
+    "answer": "C",
+    "label": "vgg_34",
+    "mapped_label": "playing saxophone",
+    "options": [
+      "hail",
+      "playing steel guitar_ slide guitar",
+      "playing saxophone",
+      "hedge trimmer running"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/xNorUR0eLnI_000041.flac",
+    "question": "What caption does the given audio belong to?\nA. playing clarinet B. playing djembe C. woodpecker pecking tree D. playing marimba_ xylophone",
+    "answer": "C",
+    "label": "vgg_131",
+    "mapped_label": "woodpecker pecking tree",
+    "options": [
+      "playing clarinet",
+      "playing djembe",
+      "woodpecker pecking tree",
+      "playing marimba_ xylophone"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/uGQ0TW02gBo_000026.flac",
+    "question": "What caption does the given audio belong to?\nA. frog croaking B. fire truck siren C. barn swallow calling D. playing double bass",
+    "answer": "A",
+    "label": "vgg_53",
+    "mapped_label": "frog croaking",
+    "options": [
+      "frog croaking",
+      "fire truck siren",
+      "barn swallow calling",
+      "playing double bass"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/mrsezc3ZqBU_000452.flac",
+    "question": "What caption does the given audio belong to?\nA. chicken crowing B. playing darts C. penguins braying D. playing drum kit",
+    "answer": "B",
+    "label": "vgg_178",
+    "mapped_label": "playing darts",
+    "options": [
+      "chicken crowing",
+      "playing darts",
+      "penguins braying",
+      "playing drum kit"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/7uOf0j0P8HU_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. chopping wood B. gibbon howling C. playing tympani D. motorboat_ speedboat acceleration",
+    "answer": "A",
+    "label": "vgg_263",
+    "mapped_label": "chopping wood",
+    "options": [
+      "chopping wood",
+      "gibbon howling",
+      "playing tympani",
+      "motorboat_ speedboat acceleration"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/rRPpAZYWqLc_000113.flac",
+    "question": "What caption does the given audio belong to?\nA. male speech_ man speaking B. penguins braying C. chainsawing trees D. playing hockey",
+    "answer": "B",
+    "label": "vgg_245",
+    "mapped_label": "penguins braying",
+    "options": [
+      "male speech_ man speaking",
+      "penguins braying",
+      "chainsawing trees",
+      "playing hockey"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/khJOKE3v0VE_000071.flac",
+    "question": "What caption does the given audio belong to?\nA. barn swallow calling B. tractor digging C. dog growling D. swimming",
+    "answer": "B",
+    "label": "vgg_71",
+    "mapped_label": "tractor digging",
+    "options": [
+      "barn swallow calling",
+      "tractor digging",
+      "dog growling",
+      "swimming"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/D7szWUIEgmc_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. thunder B. missile launch C. zebra braying D. rapping",
+    "answer": "A",
+    "label": "vgg_242",
+    "mapped_label": "thunder",
+    "options": [
+      "thunder",
+      "missile launch",
+      "zebra braying",
+      "rapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/aQKwM1HmL90_000250.flac",
+    "question": "What caption does the given audio belong to?\nA. bird wings flapping B. dog barking C. dog baying D. raining",
+    "answer": "A",
+    "label": "vgg_262",
+    "mapped_label": "bird wings flapping",
+    "options": [
+      "bird wings flapping",
+      "dog barking",
+      "dog baying",
+      "raining"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/MoyZ6FMdn80_000080.flac",
+    "question": "What caption does the given audio belong to?\nA. baby laughter B. fly_ housefly buzzing C. cat growling D. fox barking",
+    "answer": "C",
+    "label": "vgg_227",
+    "mapped_label": "cat growling",
+    "options": [
+      "baby laughter",
+      "fly_ housefly buzzing",
+      "cat growling",
+      "fox barking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/LC7p_CElC7Q_000431.flac",
+    "question": "What caption does the given audio belong to?\nA. eagle screaming B. bouncing on trampoline C. opening or closing car electric windows D. blowtorch igniting",
+    "answer": "A",
+    "label": "vgg_265",
+    "mapped_label": "eagle screaming",
+    "options": [
+      "eagle screaming",
+      "bouncing on trampoline",
+      "opening or closing car electric windows",
+      "blowtorch igniting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/WxAdZDQfFVY_000335.flac",
+    "question": "What caption does the given audio belong to?\nA. pumping water B. woodpecker pecking tree C. mouse squeaking D. playing vibraphone",
+    "answer": "A",
+    "label": "vgg_305",
+    "mapped_label": "pumping water",
+    "options": [
+      "pumping water",
+      "woodpecker pecking tree",
+      "mouse squeaking",
+      "playing vibraphone"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/XJ8K9atMvTY_000009.flac",
+    "question": "What caption does the given audio belong to?\nA. foghorn B. playing sitar C. pheasant crowing D. beat boxing",
+    "answer": "A",
+    "label": "vgg_282",
+    "mapped_label": "foghorn",
+    "options": [
+      "foghorn",
+      "playing sitar",
+      "pheasant crowing",
+      "beat boxing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/zR89C8Sp_3c_000178.flac",
+    "question": "What caption does the given audio belong to?\nA. baltimore oriole calling B. firing cannon C. children shouting D. penguins braying",
+    "answer": "A",
+    "label": "vgg_289",
+    "mapped_label": "baltimore oriole calling",
+    "options": [
+      "baltimore oriole calling",
+      "firing cannon",
+      "children shouting",
+      "penguins braying"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/bB0vFY6OBC4_000024.flac",
+    "question": "What caption does the given audio belong to?\nA. lions roaring B. playing gong C. fire truck siren D. cupboard opening or closing",
+    "answer": "C",
+    "label": "vgg_79",
+    "mapped_label": "fire truck siren",
+    "options": [
+      "lions roaring",
+      "playing gong",
+      "fire truck siren",
+      "cupboard opening or closing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/7uQ-_egMdMI_000120.flac",
+    "question": "What caption does the given audio belong to?\nA. alligators_ crocodiles hissing B. waterfall burbling C. playing marimba_ xylophone D. shot football",
+    "answer": "C",
+    "label": "vgg_32",
+    "mapped_label": "playing marimba_ xylophone",
+    "options": [
+      "alligators_ crocodiles hissing",
+      "waterfall burbling",
+      "playing marimba_ xylophone",
+      "shot football"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/x512zsFN_Q0_000020.flac",
+    "question": "What caption does the given audio belong to?\nA. people burping B. chicken clucking C. airplane flyby D. driving motorcycle",
+    "answer": "B",
+    "label": "vgg_154",
+    "mapped_label": "chicken clucking",
+    "options": [
+      "people burping",
+      "chicken clucking",
+      "airplane flyby",
+      "driving motorcycle"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/1VAKlopwYNs_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. female singing B. hammering nails C. firing cannon D. francolin calling",
+    "answer": "A",
+    "label": "vgg_9",
+    "mapped_label": "female singing",
+    "options": [
+      "female singing",
+      "hammering nails",
+      "firing cannon",
+      "francolin calling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/o_0D4HEl6JQ_000334.flac",
+    "question": "What caption does the given audio belong to?\nA. cattle mooing B. popping popcorn C. playing guiro D. ice cream truck_ ice cream van",
+    "answer": "D",
+    "label": "vgg_142",
+    "mapped_label": "ice cream truck_ ice cream van",
+    "options": [
+      "cattle mooing",
+      "popping popcorn",
+      "playing guiro",
+      "ice cream truck_ ice cream van"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/rUhO03aqB4c_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. mosquito buzzing B. subway_ metro_ underground C. orchestra D. bird chirping_ tweeting",
+    "answer": "D",
+    "label": "vgg_2",
+    "mapped_label": "bird chirping_ tweeting",
+    "options": [
+      "mosquito buzzing",
+      "subway_ metro_ underground",
+      "orchestra",
+      "bird chirping_ tweeting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/gmGQ4h4W890_000358.flac",
+    "question": "What caption does the given audio belong to?\nA. air conditioning noise B. driving snowmobile C. playing squash D. singing bowl",
+    "answer": "B",
+    "label": "vgg_158",
+    "mapped_label": "driving snowmobile",
+    "options": [
+      "air conditioning noise",
+      "driving snowmobile",
+      "playing squash",
+      "singing bowl"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6bi4h_e3wJM_000005.flac",
+    "question": "What caption does the given audio belong to?\nA. people coughing B. female speech_ woman speaking C. playing cornet D. turkey gobbling",
+    "answer": "A",
+    "label": "vgg_203",
+    "mapped_label": "people coughing",
+    "options": [
+      "people coughing",
+      "female speech_ woman speaking",
+      "playing cornet",
+      "turkey gobbling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/WaKb55v9uMw_000122.flac",
+    "question": "What caption does the given audio belong to?\nA. vehicle horn_ car horn_ honking B. playing mandolin C. wind noise D. slot machine",
+    "answer": "D",
+    "label": "vgg_57",
+    "mapped_label": "slot machine",
+    "options": [
+      "vehicle horn_ car horn_ honking",
+      "playing mandolin",
+      "wind noise",
+      "slot machine"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/8s8TpwaEFGU_000037.flac",
+    "question": "What caption does the given audio belong to?\nA. child singing B. people eating C. playing marimba_ xylophone D. bouncing on trampoline",
+    "answer": "A",
+    "label": "vgg_60",
+    "mapped_label": "child singing",
+    "options": [
+      "child singing",
+      "people eating",
+      "playing marimba_ xylophone",
+      "bouncing on trampoline"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/v6Ts-v5Wt20_000012.flac",
+    "question": "What caption does the given audio belong to?\nA. engine accelerating_ revving_ vroom B. bathroom ventilation fan running C. people nose blowing D. police car (siren)",
+    "answer": "D",
+    "label": "vgg_37",
+    "mapped_label": "police car (siren)",
+    "options": [
+      "engine accelerating_ revving_ vroom",
+      "bathroom ventilation fan running",
+      "people nose blowing",
+      "police car (siren)"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/FVxsHlMK-10_000538.flac",
+    "question": "What caption does the given audio belong to?\nA. ripping paper B. playing theremin C. alligators_ crocodiles hissing D. striking bowling",
+    "answer": "A",
+    "label": "vgg_175",
+    "mapped_label": "ripping paper",
+    "options": [
+      "ripping paper",
+      "playing theremin",
+      "alligators_ crocodiles hissing",
+      "striking bowling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/rAfLuX6oGfI_000049.flac",
+    "question": "What caption does the given audio belong to?\nA. fire truck siren B. bird squawking C. bull bellowing D. playing acoustic guitar",
+    "answer": "B",
+    "label": "vgg_235",
+    "mapped_label": "bird squawking",
+    "options": [
+      "fire truck siren",
+      "bird squawking",
+      "bull bellowing",
+      "playing acoustic guitar"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Kq5P4BgHStI_000063.flac",
+    "question": "What caption does the given audio belong to?\nA. hedge trimmer running B. bird wings flapping C. splashing water D. pumping water",
+    "answer": "A",
+    "label": "vgg_267",
+    "mapped_label": "hedge trimmer running",
+    "options": [
+      "hedge trimmer running",
+      "bird wings flapping",
+      "splashing water",
+      "pumping water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6Z26Z8stV8g_000095.flac",
+    "question": "What caption does the given audio belong to?\nA. cricket chirping B. cupboard opening or closing C. bee_ wasp_ etc. buzzing D. fireworks banging",
+    "answer": "C",
+    "label": "vgg_180",
+    "mapped_label": "bee_ wasp_ etc. buzzing",
+    "options": [
+      "cricket chirping",
+      "cupboard opening or closing",
+      "bee_ wasp_ etc. buzzing",
+      "fireworks banging"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Fzhv12bpNdI_000038.flac",
+    "question": "What caption does the given audio belong to?\nA. playing theremin B. mouse squeaking C. subway_ metro_ underground D. firing muskets",
+    "answer": "C",
+    "label": "vgg_58",
+    "mapped_label": "subway_ metro_ underground",
+    "options": [
+      "playing theremin",
+      "mouse squeaking",
+      "subway_ metro_ underground",
+      "firing muskets"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/qW_RA_RU8-4_000023.flac",
+    "question": "What caption does the given audio belong to?\nA. reversing beeps B. dog baying C. bowling impact D. snake hissing",
+    "answer": "A",
+    "label": "vgg_193",
+    "mapped_label": "reversing beeps",
+    "options": [
+      "reversing beeps",
+      "dog baying",
+      "bowling impact",
+      "snake hissing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/hQwUPUf85JM_000062.flac",
+    "question": "What caption does the given audio belong to?\nA. cupboard opening or closing B. volcano explosion C. cat hissing D. parrot talking",
+    "answer": "D",
+    "label": "vgg_163",
+    "mapped_label": "parrot talking",
+    "options": [
+      "cupboard opening or closing",
+      "volcano explosion",
+      "cat hissing",
+      "parrot talking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/jtjIUlOqKmI_000402.flac",
+    "question": "What caption does the given audio belong to?\nA. cow lowing B. playing tympani C. people cheering D. people marching",
+    "answer": "D",
+    "label": "vgg_115",
+    "mapped_label": "people marching",
+    "options": [
+      "cow lowing",
+      "playing tympani",
+      "people cheering",
+      "people marching"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/w4c9PnnlIZo_000440.flac",
+    "question": "What caption does the given audio belong to?\nA. people eating noodle B. goose honking C. people slurping D. playing vibraphone",
+    "answer": "C",
+    "label": "vgg_172",
+    "mapped_label": "people slurping",
+    "options": [
+      "people eating noodle",
+      "goose honking",
+      "people slurping",
+      "playing vibraphone"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/w7-VY6w4a4U_000413.flac",
+    "question": "What caption does the given audio belong to?\nA. playing mandolin B. ice cracking C. playing sitar D. blowtorch igniting",
+    "answer": "C",
+    "label": "vgg_105",
+    "mapped_label": "playing sitar",
+    "options": [
+      "playing mandolin",
+      "ice cracking",
+      "playing sitar",
+      "blowtorch igniting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/f2wy35V86Bw_000020.flac",
+    "question": "What caption does the given audio belong to?\nA. cupboard opening or closing B. bird chirping_ tweeting C. underwater bubbling D. waterfall burbling",
+    "answer": "D",
+    "label": "vgg_187",
+    "mapped_label": "waterfall burbling",
+    "options": [
+      "cupboard opening or closing",
+      "bird chirping_ tweeting",
+      "underwater bubbling",
+      "waterfall burbling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/jp8Sesg4Z2w_000021.flac",
+    "question": "What caption does the given audio belong to?\nA. coyote howling B. people burping C. cat caterwauling D. canary calling",
+    "answer": "A",
+    "label": "vgg_192",
+    "mapped_label": "coyote howling",
+    "options": [
+      "coyote howling",
+      "people burping",
+      "cat caterwauling",
+      "canary calling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ASLlPwqFkvg_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. people eating B. playing violin_ fiddle C. airplane flyby D. gibbon howling",
+    "answer": "B",
+    "label": "vgg_36",
+    "mapped_label": "playing violin_ fiddle",
+    "options": [
+      "people eating",
+      "playing violin_ fiddle",
+      "airplane flyby",
+      "gibbon howling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Eusmb6s8mIs_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. church bell ringing B. playing bagpipes C. whale calling D. playing electronic organ",
+    "answer": "A",
+    "label": "vgg_119",
+    "mapped_label": "church bell ringing",
+    "options": [
+      "church bell ringing",
+      "playing bagpipes",
+      "whale calling",
+      "playing electronic organ"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/TsEVZzQKF9I_000265.flac",
+    "question": "What caption does the given audio belong to?\nA. people hiccup B. chinchilla barking C. fox barking D. mosquito buzzing",
+    "answer": "D",
+    "label": "vgg_209",
+    "mapped_label": "mosquito buzzing",
+    "options": [
+      "people hiccup",
+      "chinchilla barking",
+      "fox barking",
+      "mosquito buzzing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/PFgOXPCBxxA_000339.flac",
+    "question": "What caption does the given audio belong to?\nA. car engine knocking B. yodelling C. shot football D. car engine starting",
+    "answer": "C",
+    "label": "vgg_278",
+    "mapped_label": "shot football",
+    "options": [
+      "car engine knocking",
+      "yodelling",
+      "shot football",
+      "car engine starting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/NJWaKjI6HyE_000231.flac",
+    "question": "What caption does the given audio belong to?\nA. sea waves B. cuckoo bird calling C. people whistling D. scuba diving",
+    "answer": "B",
+    "label": "vgg_281",
+    "mapped_label": "cuckoo bird calling",
+    "options": [
+      "sea waves",
+      "cuckoo bird calling",
+      "people whistling",
+      "scuba diving"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Men_BOT3L_k_000134.flac",
+    "question": "What caption does the given audio belong to?\nA. using sewing machines B. coyote howling C. forging swords D. playing harpsichord",
+    "answer": "C",
+    "label": "vgg_258",
+    "mapped_label": "forging swords",
+    "options": [
+      "using sewing machines",
+      "coyote howling",
+      "forging swords",
+      "playing harpsichord"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/JpqxMvQVUFk_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. smoke detector beeping B. dog bow-wow C. playing piano D. horse clip-clop",
+    "answer": "D",
+    "label": "vgg_99",
+    "mapped_label": "horse clip-clop",
+    "options": [
+      "smoke detector beeping",
+      "dog bow-wow",
+      "playing piano",
+      "horse clip-clop"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/i7zZvY0-C_M_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. playing table tennis B. car passing by C. dog bow-wow D. fireworks banging",
+    "answer": "B",
+    "label": "vgg_162",
+    "mapped_label": "car passing by",
+    "options": [
+      "playing table tennis",
+      "car passing by",
+      "dog bow-wow",
+      "fireworks banging"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/DXQiubaBRSo_000042.flac",
+    "question": "What caption does the given audio belong to?\nA. playing electronic organ B. people sniggering C. owl hooting D. playing squash",
+    "answer": "C",
+    "label": "vgg_128",
+    "mapped_label": "owl hooting",
+    "options": [
+      "playing electronic organ",
+      "people sniggering",
+      "owl hooting",
+      "playing squash"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/45fJ2K6K6Q0_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. people coughing B. raining C. playing steelpan D. car engine starting",
+    "answer": "D",
+    "label": "vgg_191",
+    "mapped_label": "car engine starting",
+    "options": [
+      "people coughing",
+      "raining",
+      "playing steelpan",
+      "car engine starting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/_kiAg6_20Ds_000097.flac",
+    "question": "What caption does the given audio belong to?\nA. opening or closing drawers B. people babbling C. sailing D. strike lighter",
+    "answer": "D",
+    "label": "vgg_275",
+    "mapped_label": "strike lighter",
+    "options": [
+      "opening or closing drawers",
+      "people babbling",
+      "sailing",
+      "strike lighter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/YUHrdJcHd7o_000089.flac",
+    "question": "What caption does the given audio belong to?\nA. firing cannon B. disc scratching C. stream burbling D. lighting firecrackers",
+    "answer": "A",
+    "label": "vgg_237",
+    "mapped_label": "firing cannon",
+    "options": [
+      "firing cannon",
+      "disc scratching",
+      "stream burbling",
+      "lighting firecrackers"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ceEePagd0Xg_000060.flac",
+    "question": "What caption does the given audio belong to?\nA. door slamming B. vehicle horn_ car horn_ honking C. people hiccup D. playing piano",
+    "answer": "C",
+    "label": "vgg_223",
+    "mapped_label": "people hiccup",
+    "options": [
+      "door slamming",
+      "vehicle horn_ car horn_ honking",
+      "people hiccup",
+      "playing piano"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/kxqNCdZHzMg_000187.flac",
+    "question": "What caption does the given audio belong to?\nA. cap gun shooting B. playing trombone C. hair dryer drying D. people burping",
+    "answer": "A",
+    "label": "vgg_92",
+    "mapped_label": "cap gun shooting",
+    "options": [
+      "cap gun shooting",
+      "playing trombone",
+      "hair dryer drying",
+      "people burping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/XBbbjvf0VXA_000119.flac",
+    "question": "What caption does the given audio belong to?\nA. playing harp B. people nose blowing C. chopping food D. opening or closing car doors",
+    "answer": "C",
+    "label": "vgg_292",
+    "mapped_label": "chopping food",
+    "options": [
+      "playing harp",
+      "people nose blowing",
+      "chopping food",
+      "opening or closing car doors"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/WHhGeP0-woc_000010.flac",
+    "question": "What caption does the given audio belong to?\nA. eletric blender running B. turkey gobbling C. pumping water D. hammering nails",
+    "answer": "B",
+    "label": "vgg_147",
+    "mapped_label": "turkey gobbling",
+    "options": [
+      "eletric blender running",
+      "turkey gobbling",
+      "pumping water",
+      "hammering nails"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/7bm_k_oWoNc_000056.flac",
+    "question": "What caption does the given audio belong to?\nA. people farting B. metronome C. smoke detector beeping D. helicopter",
+    "answer": "A",
+    "label": "vgg_179",
+    "mapped_label": "people farting",
+    "options": [
+      "people farting",
+      "metronome",
+      "smoke detector beeping",
+      "helicopter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/3aRcjtzxsGQ_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. electric shaver_ electric razor shaving B. playing acoustic guitar C. hail D. cattle_ bovinae cowbell",
+    "answer": "B",
+    "label": "vgg_21",
+    "mapped_label": "playing acoustic guitar",
+    "options": [
+      "electric shaver_ electric razor shaving",
+      "playing acoustic guitar",
+      "hail",
+      "cattle_ bovinae cowbell"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/XYwoziSdRT8_000032.flac",
+    "question": "What caption does the given audio belong to?\nA. playing ukulele B. chicken crowing C. sea lion barking D. police radio chatter",
+    "answer": "C",
+    "label": "vgg_286",
+    "mapped_label": "sea lion barking",
+    "options": [
+      "playing ukulele",
+      "chicken crowing",
+      "sea lion barking",
+      "police radio chatter"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/HQi_FnTchrM_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. singing bowl B. beat boxing C. bird chirping_ tweeting D. people running",
+    "answer": "D",
+    "label": "vgg_215",
+    "mapped_label": "people running",
+    "options": [
+      "singing bowl",
+      "beat boxing",
+      "bird chirping_ tweeting",
+      "people running"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/7kwzk6NjxdM_000121.flac",
+    "question": "What caption does the given audio belong to?\nA. fireworks banging B. people eating apple C. baby crying D. playing banjo",
+    "answer": "B",
+    "label": "vgg_233",
+    "mapped_label": "people eating apple",
+    "options": [
+      "fireworks banging",
+      "people eating apple",
+      "baby crying",
+      "playing banjo"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/bsIZ7MScbjA_000001.flac",
+    "question": "What caption does the given audio belong to?\nA. horse neighing B. eating with cutlery C. baby crying D. squishing water",
+    "answer": "C",
+    "label": "vgg_144",
+    "mapped_label": "baby crying",
+    "options": [
+      "horse neighing",
+      "eating with cutlery",
+      "baby crying",
+      "squishing water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/8E8og9xTd3I_000022.flac",
+    "question": "What caption does the given audio belong to?\nA. people giggling B. cat purring C. stream burbling D. playing cornet",
+    "answer": "B",
+    "label": "vgg_104",
+    "mapped_label": "cat purring",
+    "options": [
+      "people giggling",
+      "cat purring",
+      "stream burbling",
+      "playing cornet"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/DplwJT5EEmg_000007.flac",
+    "question": "What caption does the given audio belong to?\nA. smoke detector beeping B. toilet flushing C. bee_ wasp_ etc. buzzing D. ripping paper",
+    "answer": "A",
+    "label": "vgg_280",
+    "mapped_label": "smoke detector beeping",
+    "options": [
+      "smoke detector beeping",
+      "toilet flushing",
+      "bee_ wasp_ etc. buzzing",
+      "ripping paper"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/g291ps3eOY0_001220.flac",
+    "question": "What caption does the given audio belong to?\nA. people running B. dinosaurs bellowing C. missile launch D. spraying water",
+    "answer": "B",
+    "label": "vgg_150",
+    "mapped_label": "dinosaurs bellowing",
+    "options": [
+      "people running",
+      "dinosaurs bellowing",
+      "missile launch",
+      "spraying water"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/T9Yh1ZgC1FU_000357.flac",
+    "question": "What caption does the given audio belong to?\nA. striking pool B. firing cannon C. playing cymbal D. cattle_ bovinae cowbell",
+    "answer": "A",
+    "label": "vgg_222",
+    "mapped_label": "striking pool",
+    "options": [
+      "striking pool",
+      "firing cannon",
+      "playing cymbal",
+      "cattle_ bovinae cowbell"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/UPN5fwM2x_E_000219.flac",
+    "question": "What caption does the given audio belong to?\nA. playing tuning fork B. francolin calling C. playing hammond organ D. plastic bottle crushing",
+    "answer": "D",
+    "label": "vgg_259",
+    "mapped_label": "plastic bottle crushing",
+    "options": [
+      "playing tuning fork",
+      "francolin calling",
+      "playing hammond organ",
+      "plastic bottle crushing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/td5qjREoy90_000035.flac",
+    "question": "What caption does the given audio belong to?\nA. horse clip-clop B. mynah bird singing C. duck quacking D. people farting",
+    "answer": "B",
+    "label": "vgg_97",
+    "mapped_label": "mynah bird singing",
+    "options": [
+      "horse clip-clop",
+      "mynah bird singing",
+      "duck quacking",
+      "people farting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/lih0Z2IbIUQ_000027.flac",
+    "question": "What caption does the given audio belong to?\nA. reversing beeps B. people babbling C. playing electronic organ D. playing bassoon",
+    "answer": "B",
+    "label": "vgg_167",
+    "mapped_label": "people babbling",
+    "options": [
+      "reversing beeps",
+      "people babbling",
+      "playing electronic organ",
+      "playing bassoon"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Vcad5Z4jxkc_000007.flac",
+    "question": "What caption does the given audio belong to?\nA. playing violin_ fiddle B. motorboat_ speedboat acceleration C. car engine idling D. hail",
+    "answer": "C",
+    "label": "vgg_228",
+    "mapped_label": "car engine idling",
+    "options": [
+      "playing violin_ fiddle",
+      "motorboat_ speedboat acceleration",
+      "car engine idling",
+      "hail"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/dTdnoiKMsgM_000153.flac",
+    "question": "What caption does the given audio belong to?\nA. people sneezing B. playing theremin C. sloshing water D. eagle screaming",
+    "answer": "B",
+    "label": "vgg_55",
+    "mapped_label": "playing theremin",
+    "options": [
+      "people sneezing",
+      "playing theremin",
+      "sloshing water",
+      "eagle screaming"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/5xIKGSSAPeE_000001.flac",
+    "question": "What caption does the given audio belong to?\nA. car engine knocking B. opening or closing drawers C. female singing D. bowling impact",
+    "answer": "B",
+    "label": "vgg_202",
+    "mapped_label": "opening or closing drawers",
+    "options": [
+      "car engine knocking",
+      "opening or closing drawers",
+      "female singing",
+      "bowling impact"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/1WO1tg3-cD0_000045.flac",
+    "question": "What caption does the given audio belong to?\nA. dog bow-wow B. chimpanzee pant-hooting C. spraying water D. air conditioning noise",
+    "answer": "D",
+    "label": "vgg_271",
+    "mapped_label": "air conditioning noise",
+    "options": [
+      "dog bow-wow",
+      "chimpanzee pant-hooting",
+      "spraying water",
+      "air conditioning noise"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/1u6ACR5b0ow_000369.flac",
+    "question": "What caption does the given audio belong to?\nA. playing flute B. cattle_ bovinae cowbell C. people gargling D. roller coaster running",
+    "answer": "D",
+    "label": "vgg_141",
+    "mapped_label": "roller coaster running",
+    "options": [
+      "playing flute",
+      "cattle_ bovinae cowbell",
+      "people gargling",
+      "roller coaster running"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/rGH4dtVHoMw_000080.flac",
+    "question": "What caption does the given audio belong to?\nA. printer printing B. police radio chatter C. fox barking D. zebra braying",
+    "answer": "B",
+    "label": "vgg_80",
+    "mapped_label": "police radio chatter",
+    "options": [
+      "printer printing",
+      "police radio chatter",
+      "fox barking",
+      "zebra braying"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/TlhPzddOQKw_000090.flac",
+    "question": "What caption does the given audio belong to?\nA. lawn mowing B. chicken crowing C. hair dryer drying D. planing timber",
+    "answer": "A",
+    "label": "vgg_107",
+    "mapped_label": "lawn mowing",
+    "options": [
+      "lawn mowing",
+      "chicken crowing",
+      "hair dryer drying",
+      "planing timber"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/yo4DjVQL2KE_000243.flac",
+    "question": "What caption does the given audio belong to?\nA. skateboarding B. arc welding C. slot machine D. chicken crowing",
+    "answer": "B",
+    "label": "vgg_82",
+    "mapped_label": "arc welding",
+    "options": [
+      "skateboarding",
+      "arc welding",
+      "slot machine",
+      "chicken crowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Fv1L_GzwbxQ_000003.flac",
+    "question": "What caption does the given audio belong to?\nA. playing cymbal B. playing saxophone C. pig oinking D. singing bowl",
+    "answer": "C",
+    "label": "vgg_205",
+    "mapped_label": "pig oinking",
+    "options": [
+      "playing cymbal",
+      "playing saxophone",
+      "pig oinking",
+      "singing bowl"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/D7XvVzEH-Bg_000053.flac",
+    "question": "What caption does the given audio belong to?\nA. chipmunk chirping B. otter growling C. playing piano D. lighting firecrackers",
+    "answer": "A",
+    "label": "vgg_261",
+    "mapped_label": "chipmunk chirping",
+    "options": [
+      "chipmunk chirping",
+      "otter growling",
+      "playing piano",
+      "lighting firecrackers"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6YS3ewiOBkU_000007.flac",
+    "question": "What caption does the given audio belong to?\nA. vehicle horn_ car horn_ honking B. eagle screaming C. lions roaring D. chainsawing trees",
+    "answer": "C",
+    "label": "vgg_75",
+    "mapped_label": "lions roaring",
+    "options": [
+      "vehicle horn_ car horn_ honking",
+      "eagle screaming",
+      "lions roaring",
+      "chainsawing trees"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/66KCM2W99Qw_000030.flac",
+    "question": "What caption does the given audio belong to?\nA. people cheering B. cutting hair with electric trimmers C. footsteps on snow D. sea lion barking",
+    "answer": "A",
+    "label": "vgg_136",
+    "mapped_label": "people cheering",
+    "options": [
+      "people cheering",
+      "cutting hair with electric trimmers",
+      "footsteps on snow",
+      "sea lion barking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/_R9-NgGmnb8_000131.flac",
+    "question": "What caption does the given audio belong to?\nA. playing cymbal B. otter growling C. baby babbling D. missile launch",
+    "answer": "B",
+    "label": "vgg_230",
+    "mapped_label": "otter growling",
+    "options": [
+      "playing cymbal",
+      "otter growling",
+      "baby babbling",
+      "missile launch"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/JVSf9LQuU8M_000206.flac",
+    "question": "What caption does the given audio belong to?\nA. people farting B. lip smacking C. hair dryer drying D. dog barking",
+    "answer": "B",
+    "label": "vgg_257",
+    "mapped_label": "lip smacking",
+    "options": [
+      "people farting",
+      "lip smacking",
+      "hair dryer drying",
+      "dog barking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/TVU9qDQWK94_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. playing bugle B. orchestra C. opening or closing car doors D. lions roaring",
+    "answer": "C",
+    "label": "vgg_201",
+    "mapped_label": "opening or closing car doors",
+    "options": [
+      "playing bugle",
+      "orchestra",
+      "opening or closing car doors",
+      "lions roaring"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/zKVlTfVoxRc_000218.flac",
+    "question": "What caption does the given audio belong to?\nA. baby crying B. people slapping C. ice cracking D. playing steelpan",
+    "answer": "D",
+    "label": "vgg_189",
+    "mapped_label": "playing steelpan",
+    "options": [
+      "baby crying",
+      "people slapping",
+      "ice cracking",
+      "playing steelpan"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/X6e1rgO6kSk_000118.flac",
+    "question": "What caption does the given audio belong to?\nA. playing cello B. playing bass drum C. playing cymbal D. playing timbales",
+    "answer": "D",
+    "label": "vgg_168",
+    "mapped_label": "playing timbales",
+    "options": [
+      "playing cello",
+      "playing bass drum",
+      "playing cymbal",
+      "playing timbales"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/0fyutS3FMb4_000127.flac",
+    "question": "What caption does the given audio belong to?\nA. playing french horn B. dog whimpering C. playing table tennis D. playing steel guitar_ slide guitar",
+    "answer": "C",
+    "label": "vgg_49",
+    "mapped_label": "playing table tennis",
+    "options": [
+      "playing french horn",
+      "dog whimpering",
+      "playing table tennis",
+      "playing steel guitar_ slide guitar"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/WiqbELmDZxI_000200.flac",
+    "question": "What caption does the given audio belong to?\nA. scuba diving B. sloshing water C. people humming D. fireworks banging",
+    "answer": "B",
+    "label": "vgg_254",
+    "mapped_label": "sloshing water",
+    "options": [
+      "scuba diving",
+      "sloshing water",
+      "people humming",
+      "fireworks banging"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/hYk8cUCJ85g_000327.flac",
+    "question": "What caption does the given audio belong to?\nA. running electric fan B. singing choir C. playing erhu D. people cheering",
+    "answer": "A",
+    "label": "vgg_246",
+    "mapped_label": "running electric fan",
+    "options": [
+      "running electric fan",
+      "singing choir",
+      "playing erhu",
+      "people cheering"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/9UKEAxNYU8E_000063.flac",
+    "question": "What caption does the given audio belong to?\nA. chainsawing trees B. striking pool C. playing timbales D. people battle cry",
+    "answer": "D",
+    "label": "vgg_249",
+    "mapped_label": "people battle cry",
+    "options": [
+      "chainsawing trees",
+      "striking pool",
+      "playing timbales",
+      "people battle cry"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/h1y7jh6RGjA_000043.flac",
+    "question": "What caption does the given audio belong to?\nA. playing guiro B. cattle_ bovinae cowbell C. chicken crowing D. black capped chickadee calling",
+    "answer": "D",
+    "label": "vgg_204",
+    "mapped_label": "black capped chickadee calling",
+    "options": [
+      "playing guiro",
+      "cattle_ bovinae cowbell",
+      "chicken crowing",
+      "black capped chickadee calling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/HEgEQ8Z3n0w_000140.flac",
+    "question": "What caption does the given audio belong to?\nA. people eating B. cap gun shooting C. people nose blowing D. air conditioning noise",
+    "answer": "A",
+    "label": "vgg_277",
+    "mapped_label": "people eating",
+    "options": [
+      "people eating",
+      "cap gun shooting",
+      "people nose blowing",
+      "air conditioning noise"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/UYGeHuFiUKY_000189.flac",
+    "question": "What caption does the given audio belong to?\nA. volcano explosion B. people crowd C. playing tennis D. snake rattling",
+    "answer": "C",
+    "label": "vgg_225",
+    "mapped_label": "playing tennis",
+    "options": [
+      "volcano explosion",
+      "people crowd",
+      "playing tennis",
+      "snake rattling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/AXgaNgGwSnQ_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. hail B. people eating crisps C. telephone bell ringing D. playing trumpet",
+    "answer": "B",
+    "label": "vgg_206",
+    "mapped_label": "people eating crisps",
+    "options": [
+      "hail",
+      "people eating crisps",
+      "telephone bell ringing",
+      "playing trumpet"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Z7UPSeBN7pU_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. playing mandolin B. people crowd C. pheasant crowing D. orchestra",
+    "answer": "C",
+    "label": "vgg_81",
+    "mapped_label": "pheasant crowing",
+    "options": [
+      "playing mandolin",
+      "people crowd",
+      "pheasant crowing",
+      "orchestra"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/hss6tuc0cnw_000156.flac",
+    "question": "What caption does the given audio belong to?\nA. frog croaking B. striking pool C. playing djembe D. playing guiro",
+    "answer": "C",
+    "label": "vgg_212",
+    "mapped_label": "playing djembe",
+    "options": [
+      "frog croaking",
+      "striking pool",
+      "playing djembe",
+      "playing guiro"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/oTSZt5yOIjg_000368.flac",
+    "question": "What caption does the given audio belong to?\nA. bouncing on trampoline B. goat bleating C. playing zither D. people shuffling",
+    "answer": "C",
+    "label": "vgg_182",
+    "mapped_label": "playing zither",
+    "options": [
+      "bouncing on trampoline",
+      "goat bleating",
+      "playing zither",
+      "people shuffling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/kL0pZ3mqdeY_000150.flac",
+    "question": "What caption does the given audio belong to?\nA. playing violin_ fiddle B. turkey gobbling C. popping popcorn D. motorboat_ speedboat acceleration",
+    "answer": "C",
+    "label": "vgg_264",
+    "mapped_label": "popping popcorn",
+    "options": [
+      "playing violin_ fiddle",
+      "turkey gobbling",
+      "popping popcorn",
+      "motorboat_ speedboat acceleration"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ige9smfD6aM_000096.flac",
+    "question": "What caption does the given audio belong to?\nA. alarm clock ringing B. pumping water C. arc welding D. tornado roaring",
+    "answer": "D",
+    "label": "vgg_234",
+    "mapped_label": "tornado roaring",
+    "options": [
+      "alarm clock ringing",
+      "pumping water",
+      "arc welding",
+      "tornado roaring"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/do-GJ2_K1Tg_000078.flac",
+    "question": "What caption does the given audio belong to?\nA. woodpecker pecking tree B. cell phone buzzing C. elk bugling D. striking pool",
+    "answer": "B",
+    "label": "vgg_291",
+    "mapped_label": "cell phone buzzing",
+    "options": [
+      "woodpecker pecking tree",
+      "cell phone buzzing",
+      "elk bugling",
+      "striking pool"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/zhbgrwCMZbU_000018.flac",
+    "question": "What caption does the given audio belong to?\nA. playing bugle B. people eating crisps C. basketball bounce D. pig oinking",
+    "answer": "A",
+    "label": "vgg_207",
+    "mapped_label": "playing bugle",
+    "options": [
+      "playing bugle",
+      "people eating crisps",
+      "basketball bounce",
+      "pig oinking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/PK0kl8Xd0ao_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. playing hockey B. electric grinder grinding C. cow lowing D. people slurping",
+    "answer": "A",
+    "label": "vgg_221",
+    "mapped_label": "playing hockey",
+    "options": [
+      "playing hockey",
+      "electric grinder grinding",
+      "cow lowing",
+      "people slurping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/wjA7qjX2SNM_000015.flac",
+    "question": "What caption does the given audio belong to?\nA. cat caterwauling B. typing on computer keyboard C. people eating noodle D. pigeon_ dove cooing",
+    "answer": "A",
+    "label": "vgg_274",
+    "mapped_label": "cat caterwauling",
+    "options": [
+      "cat caterwauling",
+      "typing on computer keyboard",
+      "people eating noodle",
+      "pigeon_ dove cooing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/xiNurUHnGT4_000264.flac",
+    "question": "What caption does the given audio belong to?\nA. golf driving B. playing double bass C. typing on typewriter D. printer printing",
+    "answer": "C",
+    "label": "vgg_130",
+    "mapped_label": "typing on typewriter",
+    "options": [
+      "golf driving",
+      "playing double bass",
+      "typing on typewriter",
+      "printer printing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/NIi26MB1lTs_000138.flac",
+    "question": "What caption does the given audio belong to?\nA. coyote howling B. barn swallow calling C. donkey_ ass braying D. people humming",
+    "answer": "C",
+    "label": "vgg_208",
+    "mapped_label": "donkey_ ass braying",
+    "options": [
+      "coyote howling",
+      "barn swallow calling",
+      "donkey_ ass braying",
+      "people humming"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/UMO_Vd7ExCA_000272.flac",
+    "question": "What caption does the given audio belong to?\nA. cat caterwauling B. people nose blowing C. chimpanzee pant-hooting D. ferret dooking",
+    "answer": "B",
+    "label": "vgg_276",
+    "mapped_label": "people nose blowing",
+    "options": [
+      "cat caterwauling",
+      "people nose blowing",
+      "chimpanzee pant-hooting",
+      "ferret dooking"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/ee92koqZses_000007.flac",
+    "question": "What caption does the given audio belong to?\nA. playing trombone B. sea waves C. mosquito buzzing D. people eating apple",
+    "answer": "B",
+    "label": "vgg_269",
+    "mapped_label": "sea waves",
+    "options": [
+      "playing trombone",
+      "sea waves",
+      "mosquito buzzing",
+      "people eating apple"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/q8ssEDU7yy0_000015.flac",
+    "question": "What caption does the given audio belong to?\nA. door slamming B. car engine starting C. lighting firecrackers D. cattle mooing",
+    "answer": "A",
+    "label": "vgg_294",
+    "mapped_label": "door slamming",
+    "options": [
+      "door slamming",
+      "car engine starting",
+      "lighting firecrackers",
+      "cattle mooing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/K2e6XwSxcXo_000383.flac",
+    "question": "What caption does the given audio belong to?\nA. wind rustling leaves B. train wheels squealing C. cell phone buzzing D. cutting hair with electric trimmers",
+    "answer": "D",
+    "label": "vgg_256",
+    "mapped_label": "cutting hair with electric trimmers",
+    "options": [
+      "wind rustling leaves",
+      "train wheels squealing",
+      "cell phone buzzing",
+      "cutting hair with electric trimmers"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/EZ30nshJJXQ_000034.flac",
+    "question": "What caption does the given audio belong to?\nA. sea lion barking B. dog bow-wow C. raining D. lighting firecrackers",
+    "answer": "C",
+    "label": "vgg_197",
+    "mapped_label": "raining",
+    "options": [
+      "sea lion barking",
+      "dog bow-wow",
+      "raining",
+      "lighting firecrackers"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/_R65RzskAgg_000073.flac",
+    "question": "What caption does the given audio belong to?\nA. electric grinder grinding B. cattle_ bovinae cowbell C. wind rustling leaves D. golf driving",
+    "answer": "D",
+    "label": "vgg_248",
+    "mapped_label": "golf driving",
+    "options": [
+      "electric grinder grinding",
+      "cattle_ bovinae cowbell",
+      "wind rustling leaves",
+      "golf driving"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/9AY62PCff8s_000070.flac",
+    "question": "What caption does the given audio belong to?\nA. dog baying B. vacuum cleaner cleaning floors C. snake rattling D. people slapping",
+    "answer": "D",
+    "label": "vgg_285",
+    "mapped_label": "people slapping",
+    "options": [
+      "dog baying",
+      "vacuum cleaner cleaning floors",
+      "snake rattling",
+      "people slapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/0Yddodbb2oo_000097.flac",
+    "question": "What caption does the given audio belong to?\nA. people shuffling B. writing on blackboard with chalk C. air horn D. playing timbales",
+    "answer": "C",
+    "label": "vgg_308",
+    "mapped_label": "air horn",
+    "options": [
+      "people shuffling",
+      "writing on blackboard with chalk",
+      "air horn",
+      "playing timbales"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/7Bnd9KWOhIU_000036.flac",
+    "question": "What caption does the given audio belong to?\nA. snake rattling B. people sneezing C. female speech_ woman speaking D. bird chirping_ tweeting",
+    "answer": "A",
+    "label": "vgg_306",
+    "mapped_label": "snake rattling",
+    "options": [
+      "snake rattling",
+      "people sneezing",
+      "female speech_ woman speaking",
+      "bird chirping_ tweeting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/zol7cjlZ9N0_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. zebra braying B. penguins braying C. police radio chatter D. playing zither",
+    "answer": "A",
+    "label": "vgg_307",
+    "mapped_label": "zebra braying",
+    "options": [
+      "zebra braying",
+      "penguins braying",
+      "police radio chatter",
+      "playing zither"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/dYGYUtES450_000443.flac",
+    "question": "What caption does the given audio belong to?\nA. playing tympani B. police radio chatter C. canary calling D. bull bellowing",
+    "answer": "D",
+    "label": "vgg_243",
+    "mapped_label": "bull bellowing",
+    "options": [
+      "playing tympani",
+      "police radio chatter",
+      "canary calling",
+      "bull bellowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/MEPHbDQj5NU_000122.flac",
+    "question": "What caption does the given audio belong to?\nA. playing washboard B. goose honking C. wind chime D. playing castanets",
+    "answer": "A",
+    "label": "vgg_300",
+    "mapped_label": "playing washboard",
+    "options": [
+      "playing washboard",
+      "goose honking",
+      "wind chime",
+      "playing castanets"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/NBt9zr2RAiE_000007.flac",
+    "question": "What caption does the given audio belong to?\nA. goose honking B. baby babbling C. playing clarinet D. people slapping",
+    "answer": "B",
+    "label": "vgg_161",
+    "mapped_label": "baby babbling",
+    "options": [
+      "goose honking",
+      "baby babbling",
+      "playing clarinet",
+      "people slapping"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Lkz3lkZCAQ4_000052.flac",
+    "question": "What caption does the given audio belong to?\nA. bathroom ventilation fan running B. whale calling C. telephone bell ringing D. children shouting",
+    "answer": "B",
+    "label": "vgg_302",
+    "mapped_label": "whale calling",
+    "options": [
+      "bathroom ventilation fan running",
+      "whale calling",
+      "telephone bell ringing",
+      "children shouting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/sahVbvsD5mQ_000080.flac",
+    "question": "What caption does the given audio belong to?\nA. playing tympani B. eating with cutlery C. air horn D. dog whimpering",
+    "answer": "B",
+    "label": "vgg_183",
+    "mapped_label": "eating with cutlery",
+    "options": [
+      "playing tympani",
+      "eating with cutlery",
+      "air horn",
+      "dog whimpering"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/oLUobUEFLmw_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. alligators_ crocodiles hissing B. opening or closing car electric windows C. baby crying D. bowling impact",
+    "answer": "A",
+    "label": "vgg_231",
+    "mapped_label": "alligators_ crocodiles hissing",
+    "options": [
+      "alligators_ crocodiles hissing",
+      "opening or closing car electric windows",
+      "baby crying",
+      "bowling impact"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/dtvXcxMdHh0_000128.flac",
+    "question": "What caption does the given audio belong to?\nA. pigeon_ dove cooing B. people giggling C. ripping paper D. beat boxing",
+    "answer": "B",
+    "label": "vgg_255",
+    "mapped_label": "people giggling",
+    "options": [
+      "pigeon_ dove cooing",
+      "people giggling",
+      "ripping paper",
+      "beat boxing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/6lULEUKPV_0_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. playing tambourine B. goat bleating C. chicken crowing D. mosquito buzzing",
+    "answer": "B",
+    "label": "vgg_270",
+    "mapped_label": "goat bleating",
+    "options": [
+      "playing tambourine",
+      "goat bleating",
+      "chicken crowing",
+      "mosquito buzzing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/qjEm_o9vT_4_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. playing hammond organ B. snake hissing C. people babbling D. dog howling",
+    "answer": "B",
+    "label": "vgg_250",
+    "mapped_label": "snake hissing",
+    "options": [
+      "playing hammond organ",
+      "snake hissing",
+      "people babbling",
+      "dog howling"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/QxpX_qD3WaM_000218.flac",
+    "question": "What caption does the given audio belong to?\nA. blowtorch igniting B. playing saxophone C. people eating D. bird chirping_ tweeting",
+    "answer": "A",
+    "label": "vgg_268",
+    "mapped_label": "blowtorch igniting",
+    "options": [
+      "blowtorch igniting",
+      "playing saxophone",
+      "people eating",
+      "bird chirping_ tweeting"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/hXTd_smAOvE_000004.flac",
+    "question": "What caption does the given audio belong to?\nA. striking pool B. cow lowing C. playing clarinet D. playing marimba_ xylophone",
+    "answer": "B",
+    "label": "vgg_303",
+    "mapped_label": "cow lowing",
+    "options": [
+      "striking pool",
+      "cow lowing",
+      "playing clarinet",
+      "playing marimba_ xylophone"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/sshZ8B7YQDY_000329.flac",
+    "question": "What caption does the given audio belong to?\nA. ferret dooking B. forging swords C. playing harmonica D. scuba diving",
+    "answer": "A",
+    "label": "vgg_273",
+    "mapped_label": "ferret dooking",
+    "options": [
+      "ferret dooking",
+      "forging swords",
+      "playing harmonica",
+      "scuba diving"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/Te8Bymdl-0M_000000.flac",
+    "question": "What caption does the given audio belong to?\nA. bird wings flapping B. playing shofar C. playing tuning fork D. playing piano",
+    "answer": "C",
+    "label": "vgg_299",
+    "mapped_label": "playing tuning fork",
+    "options": [
+      "bird wings flapping",
+      "playing shofar",
+      "playing tuning fork",
+      "playing piano"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/w_evl_Udb3Q_000026.flac",
+    "question": "What caption does the given audio belong to?\nA. telephone bell ringing B. skiing C. people gargling D. people nose blowing",
+    "answer": "C",
+    "label": "vgg_279",
+    "mapped_label": "people gargling",
+    "options": [
+      "telephone bell ringing",
+      "skiing",
+      "people gargling",
+      "people nose blowing"
+    ]
+  },
+  {
+    "wav": "/data/sls/scratch/yuangong/avbyol2/egs/vggsound/preprocess/data/audio_16k/dQsIqlLtAYo_000020.flac",
+    "question": "What caption does the given audio belong to?\nA. writing on blackboard with chalk B. scuba diving C. cat hissing D. telephone bell ringing",
+    "answer": "D",
+    "label": "vgg_301",
+    "mapped_label": "telephone bell ringing",
+    "options": [
+      "writing on blackboard with chalk",
+      "scuba diving",
+      "cat hissing",
+      "telephone bell ringing"
+    ]
+  }
+]

@@ -19,8 +19,8 @@ def open_data(dataset_name, path):
         List of dataset items, or None if unsupported
     """
     supported_datasets = [
-        "vgg_sound", "vgg_sound_qa", "esc_mcq", 
-        "audioset", "LA_spoof", "mlaad"
+        "vgg_sound", "vgg_sound_qa", "esc_mcq",
+        "audioset", "LA_spoof", "mlaad", "eurosat", "pets",
     ]
 
     with open(path, 'r') as json_file:
@@ -52,7 +52,12 @@ def get_format_func(cur_dataset, label_csv=None):
         def format_wrapper(all_data, cur_item=None, num_shot=0, model_helper=None, split="train", **kwargs):
             return format_audio_qa(all_data, cur_item, num_shot, model_helper, split)
         return format_wrapper
-    
+
+    if cur_dataset in ["eurosat", "pets"]:
+        def format_wrapper(all_data, cur_item=None, num_shot=0, model_helper=None, split="train", **kwargs):
+            return format_image_qa(all_data, cur_item, num_shot, model_helper, split)
+        return format_wrapper
+
     return None
 
 
@@ -154,3 +159,50 @@ def format_audio_qa(all_data, cur_item=None, num_shot=0, model_helper=None, spli
     audio_list.append(cur_item.get('wav'))
 
     return qs_list, ans_list, audio_list, cur_label, -1
+
+
+def format_image_qa(all_data, cur_item=None, num_shot=0, model_helper=None, split="train"):
+    """
+    Format image QA/classification data (e.g. EuroSAT).
+
+    Uses the ``image`` field (falls back to ``wav``) for media paths.
+
+    Args:
+        all_data: Full dataset for few-shot sampling
+        cur_item: Current item to process
+        num_shot: Number of few-shot examples
+        model_helper: ModelHelper instance (unused)
+        split: Dataset split
+
+    Returns:
+        tuple: (qs_list, ans_list, image_list, gt_label, question_id)
+    """
+    base_prompt = "{} Answer with the class name."
+
+    if cur_item is None:
+        cur_item = random.choice(all_data)
+
+    cur_question = cur_item.get("question", "")
+    cur_label = cur_item.get("mapped_label", None)
+
+    qs_list = []
+    ans_list = []
+    image_list = []
+
+    if num_shot > 0 and all_data is not None:
+        pool = [x for x in all_data if x is not cur_item]
+        k = min(num_shot, len(pool))
+        samples = random.sample(pool, k)
+
+        for sample in samples:
+            prompt_text = base_prompt.format(sample.get("question", ""))
+            qs_list.append(prompt_text)
+            ans_list.append(sample.get("answer", None))
+            image_list.append(sample.get("image", sample.get("wav")))
+
+    final_prompt = base_prompt.format(cur_question)
+    qs_list.append(final_prompt)
+    ans_list.append(None)
+    image_list.append(cur_item.get("image", cur_item.get("wav")))
+
+    return qs_list, ans_list, image_list, cur_label, -1

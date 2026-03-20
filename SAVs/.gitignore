@@ -1,23 +1,20 @@
-# Experimental and research-specific directories
+# ── Legacy/internal scripts (not part of the public API) ──────────
 src/AV_debug/
 src/num_shot_ablation/
-src/probabilistic/plots/
-SAV_results/
-
-# Conversion and utility scripts (internal use)
+src/probabilistic/
 src/convert_dataset_*.py
 src/compute_vgg_embeddings.py
 src/generate_psuedolabel.py
 src/active_learning.py
 src/run_mcq_ans*.py
 
-# Shuffling scripts
 scripts/create_shuffled_datasets.py
 scripts/demo_shuffling.py
 scripts/shuffle_mcq_options.py
 scripts/README_shuffling.md
 
-# Results and outputs
+# ── Outputs ───────────────────────────────────────────────────────
+SAV_results/
 results/
 logs/
 cache/
@@ -25,28 +22,22 @@ cache/
 *.txt
 !README*.txt
 
-# Python cache
+# ── Python ────────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
-
-# Package build
 *.egg-info/
 dist/
 build/
 *.egg
-
-# Jupyter
 .ipynb_checkpoints/
 
-# Environment
+# ── Environment / IDE ─────────────────────────────────────────────
 .env
 .venv
 env/
 venv/
-
-# IDE
 .vscode/
 .idea/
 *.swp
@@ -54,27 +45,28 @@ venv/
 *~
 .DS_Store
 
-# Model weights
+# ── Binary / weights ─────────────────────────────────────────────
 *.pt
 *.pth
 *.ckpt
 *.safetensors
-
-# Large files
 *.npy
 *.npz
 *.pkl
 *.log
 
-# Media files
+# ── Media ─────────────────────────────────────────────────────────
 *.wav
 *.mp3
 *.flac
 *.mp4
 *.png
-*.jpg
-*.pdf
 
-# Data files (keep example)
-data/*.json
+# ── Data: tracked JSON and images ────────────────────────────────
+!data/**/*.json
 !data/example_format.json
+!data/EuroSAT_RGB/**/*.jpg
+
+# Exclude oversized files (>100 MB)
+data/audioset/audioset_test_mcq.json
+data/audioset/audioset_train_mcq.json

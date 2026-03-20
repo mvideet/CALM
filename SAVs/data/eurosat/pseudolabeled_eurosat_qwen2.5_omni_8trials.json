@@ -1,0 +1,2690 @@
+[
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Annual Crop\nC. Permanent Crop\nD. Highway",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Pasture",
+      "Annual Crop",
+      "Permanent Crop",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Highway",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Highway/Highway_812.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Industrial\nC. Permanent Crop\nD. Pasture",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Residential",
+      "Industrial",
+      "Permanent Crop",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_413.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. River\nC. Industrial\nD. Annual Crop",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Sea / Lake",
+      "River",
+      "Industrial",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/River/River_417.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Highway\nC. Sea / Lake\nD. Industrial",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Pasture",
+      "Highway",
+      "Sea / Lake",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Highway",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_622.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Annual Crop\nC. River\nD. Forest",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Herbaceous Vegetation",
+      "Annual Crop",
+      "River",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_2602.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Residential\nC. Annual Crop\nD. Herbaceous Vegetation",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Industrial",
+      "Residential",
+      "Annual Crop",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_535.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Highway\nC. Industrial\nD. Permanent Crop",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Residential",
+      "Highway",
+      "Industrial",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Residential",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Residential/Residential_1076.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Industrial\nC. Permanent Crop\nD. Herbaceous Vegetation",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Residential",
+      "Industrial",
+      "Permanent Crop",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Residential",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2792.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Residential\nC. Highway\nD. Industrial",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Pasture",
+      "Residential",
+      "Highway",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2445.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Pasture\nC. Industrial\nD. Sea / Lake",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Annual Crop",
+      "Pasture",
+      "Industrial",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1318.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Annual Crop\nC. Highway\nD. Forest",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Permanent Crop",
+      "Annual Crop",
+      "Highway",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_2290.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Forest\nC. Herbaceous Vegetation\nD. Highway",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "River",
+      "Forest",
+      "Herbaceous Vegetation",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Forest",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_924.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Highway\nC. Pasture\nD. Annual Crop",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Herbaceous Vegetation",
+      "Highway",
+      "Pasture",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Highway",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1325.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Industrial\nC. Forest\nD. Sea / Lake",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Permanent Crop",
+      "Industrial",
+      "Forest",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_2532.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. River\nC. Herbaceous Vegetation\nD. Industrial",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Residential",
+      "River",
+      "Herbaceous Vegetation",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Residential",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1376.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Permanent Crop\nC. Industrial\nD. River",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Herbaceous Vegetation",
+      "Permanent Crop",
+      "Industrial",
+      "River"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/River/River_2145.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Residential\nC. Herbaceous Vegetation\nD. Industrial",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Annual Crop",
+      "Residential",
+      "Herbaceous Vegetation",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_2056.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Industrial\nC. Residential\nD. Herbaceous Vegetation",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Pasture",
+      "Industrial",
+      "Residential",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_676.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Herbaceous Vegetation\nC. Highway\nD. Industrial",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Annual Crop",
+      "Herbaceous Vegetation",
+      "Highway",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_1519.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Residential\nC. Industrial\nD. Annual Crop",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Pasture",
+      "Residential",
+      "Industrial",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2673.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Forest\nC. Pasture\nD. Residential",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Industrial",
+      "Forest",
+      "Pasture",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2328.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Highway\nC. River\nD. Industrial",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Permanent Crop",
+      "Highway",
+      "River",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Highway",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1578.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Annual Crop\nC. River\nD. Highway",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Pasture",
+      "Annual Crop",
+      "River",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/River/River_234.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Forest\nC. Sea / Lake\nD. Permanent Crop",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Herbaceous Vegetation",
+      "Forest",
+      "Sea / Lake",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_1901.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Annual Crop\nC. Forest\nD. Industrial",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Pasture",
+      "Annual Crop",
+      "Forest",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_502.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Permanent Crop\nC. Highway\nD. Annual Crop",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Residential",
+      "Permanent Crop",
+      "Highway",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_1092.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Industrial\nC. Residential\nD. Permanent Crop",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Annual Crop",
+      "Industrial",
+      "Residential",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_683.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Industrial\nC. Sea / Lake\nD. Highway",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "River",
+      "Industrial",
+      "Sea / Lake",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_2234.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Highway\nC. Forest\nD. Residential",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "River",
+      "Highway",
+      "Forest",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Highway",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1912.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Residential\nC. Highway\nD. Pasture",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Industrial",
+      "Residential",
+      "Highway",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_744.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Pasture\nC. Sea / Lake\nD. Residential",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Highway",
+      "Pasture",
+      "Sea / Lake",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2627.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Highway\nC. Residential\nD. Herbaceous Vegetation",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Annual Crop",
+      "Highway",
+      "Residential",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Highway",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1214.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Pasture\nC. Industrial\nD. Herbaceous Vegetation",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Annual Crop",
+      "Pasture",
+      "Industrial",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_708.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Sea / Lake\nC. Residential\nD. Highway",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Annual Crop",
+      "Sea / Lake",
+      "Residential",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Residential/Residential_1128.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Highway\nC. Permanent Crop\nD. Forest",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Herbaceous Vegetation",
+      "Highway",
+      "Permanent Crop",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Highway",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1586.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Annual Crop\nC. Pasture\nD. Herbaceous Vegetation",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Residential",
+      "Annual Crop",
+      "Pasture",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_2035.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Highway\nC. Permanent Crop\nD. Herbaceous Vegetation",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Pasture",
+      "Highway",
+      "Permanent Crop",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Highway",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_1631.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Permanent Crop\nC. Forest\nD. Annual Crop",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Residential",
+      "Permanent Crop",
+      "Forest",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Forest",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Forest/Forest_2738.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Industrial\nC. Pasture\nD. Highway",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Forest",
+      "Industrial",
+      "Pasture",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Highway",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Highway/Highway_2011.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Forest\nC. Herbaceous Vegetation\nD. Permanent Crop",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Industrial",
+      "Forest",
+      "Herbaceous Vegetation",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Forest",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Forest/Forest_725.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Permanent Crop\nC. Sea / Lake\nD. Pasture",
+    "answer": "Permanent Crop",
+    "label": "Permanent Crop",
+    "mapped_label": "Permanent Crop",
+    "options": [
+      "Annual Crop",
+      "Permanent Crop",
+      "Sea / Lake",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Permanent Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_2841.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Industrial\nC. Sea / Lake\nD. Herbaceous Vegetation",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Forest",
+      "Industrial",
+      "Sea / Lake",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_679.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Herbaceous Vegetation\nC. Sea / Lake\nD. Residential",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Forest",
+      "Herbaceous Vegetation",
+      "Sea / Lake",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_329.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Pasture\nC. Highway\nD. Forest",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Annual Crop",
+      "Pasture",
+      "Highway",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Highway",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1599.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Permanent Crop\nC. Forest\nD. Annual Crop",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Residential",
+      "Permanent Crop",
+      "Forest",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Forest",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Forest/Forest_38.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Industrial\nC. Residential\nD. Highway",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Sea / Lake",
+      "Industrial",
+      "Residential",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1682.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Permanent Crop\nC. Forest\nD. Industrial",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Sea / Lake",
+      "Permanent Crop",
+      "Forest",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_41.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Annual Crop\nC. Pasture\nD. Residential",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "River",
+      "Annual Crop",
+      "Pasture",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Residential",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Residential/Residential_1607.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Residential\nC. Industrial\nD. Permanent Crop",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Herbaceous Vegetation",
+      "Residential",
+      "Industrial",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2382.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Herbaceous Vegetation\nC. Annual Crop\nD. Residential",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Permanent Crop",
+      "Herbaceous Vegetation",
+      "Annual Crop",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_494.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Industrial\nC. Forest\nD. Annual Crop",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Sea / Lake",
+      "Industrial",
+      "Forest",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1253.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Highway\nC. Residential\nD. Forest",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Annual Crop",
+      "Highway",
+      "Residential",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Residential/Residential_450.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Annual Crop\nC. River\nD. Industrial",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Pasture",
+      "Annual Crop",
+      "River",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_465.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Annual Crop\nC. River\nD. Herbaceous Vegetation",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Highway",
+      "Annual Crop",
+      "River",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1736.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Sea / Lake\nC. River\nD. Industrial",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Residential",
+      "Sea / Lake",
+      "River",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/River/River_181.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Highway\nC. Pasture\nD. Sea / Lake",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Permanent Crop",
+      "Highway",
+      "Pasture",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_655.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Pasture\nC. Highway\nD. Forest",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Herbaceous Vegetation",
+      "Pasture",
+      "Highway",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_578.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Pasture\nC. Herbaceous Vegetation\nD. River",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Sea / Lake",
+      "Pasture",
+      "Herbaceous Vegetation",
+      "River"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/River/River_1057.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Residential\nC. Industrial\nD. Herbaceous Vegetation",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Permanent Crop",
+      "Residential",
+      "Industrial",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2159.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Herbaceous Vegetation\nC. Industrial\nD. Highway",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Sea / Lake",
+      "Herbaceous Vegetation",
+      "Industrial",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Highway",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1571.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Annual Crop\nC. Sea / Lake\nD. River",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Highway",
+      "Annual Crop",
+      "Sea / Lake",
+      "River"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "River",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/River/River_394.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Annual Crop\nC. River\nD. Highway",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Permanent Crop",
+      "Annual Crop",
+      "River",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_1142.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Permanent Crop\nC. Highway\nD. Pasture",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Sea / Lake",
+      "Permanent Crop",
+      "Highway",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_1596.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Annual Crop\nC. Permanent Crop\nD. Residential",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "River",
+      "Annual Crop",
+      "Permanent Crop",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.5714285714285714,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/River/River_666.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Forest\nC. Industrial\nD. Pasture",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Sea / Lake",
+      "Forest",
+      "Industrial",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_2483.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. River\nC. Sea / Lake\nD. Herbaceous Vegetation",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Industrial",
+      "River",
+      "Sea / Lake",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/River/River_2115.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Sea / Lake\nC. Annual Crop\nD. Residential",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Permanent Crop",
+      "Sea / Lake",
+      "Annual Crop",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Residential/Residential_1541.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Residential\nC. Sea / Lake\nD. Forest",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Industrial",
+      "Residential",
+      "Sea / Lake",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2095.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Pasture\nC. Permanent Crop\nD. Sea / Lake",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Forest",
+      "Pasture",
+      "Permanent Crop",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1237.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. River\nC. Highway\nD. Sea / Lake",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Annual Crop",
+      "River",
+      "Highway",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_271.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Industrial\nC. Permanent Crop\nD. Herbaceous Vegetation",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Forest",
+      "Industrial",
+      "Permanent Crop",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Forest/Forest_1072.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Sea / Lake\nC. Industrial\nD. Highway",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Herbaceous Vegetation",
+      "Sea / Lake",
+      "Industrial",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Highway/Highway_810.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Industrial\nC. Forest\nD. Residential",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Herbaceous Vegetation",
+      "Industrial",
+      "Forest",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Residential/Residential_1711.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Herbaceous Vegetation\nC. Sea / Lake\nD. Pasture",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Highway",
+      "Herbaceous Vegetation",
+      "Sea / Lake",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Highway",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Highway/Highway_2161.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Highway\nC. Annual Crop\nD. River",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Pasture",
+      "Highway",
+      "Annual Crop",
+      "River"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_1327.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Annual Crop\nC. Forest\nD. Highway",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Herbaceous Vegetation",
+      "Annual Crop",
+      "Forest",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Forest",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_1741.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Permanent Crop\nC. Pasture\nD. Residential",
+    "answer": "Permanent Crop",
+    "label": "Permanent Crop",
+    "mapped_label": "Permanent Crop",
+    "options": [
+      "River",
+      "Permanent Crop",
+      "Pasture",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Permanent Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_1842.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. River\nC. Annual Crop\nD. Sea / Lake",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Industrial",
+      "River",
+      "Annual Crop",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1306.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Herbaceous Vegetation\nC. Industrial\nD. Residential",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Forest",
+      "Herbaceous Vegetation",
+      "Industrial",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_1032.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Residential\nC. Pasture\nD. Herbaceous Vegetation",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Industrial",
+      "Residential",
+      "Pasture",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_1547.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Annual Crop\nC. Industrial\nD. Forest",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Herbaceous Vegetation",
+      "Annual Crop",
+      "Industrial",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Forest",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Forest/Forest_1178.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Pasture\nC. Highway\nD. Residential",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Industrial",
+      "Pasture",
+      "Highway",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Highway",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Highway/Highway_2450.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Herbaceous Vegetation\nC. Residential\nD. Highway",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "River",
+      "Herbaceous Vegetation",
+      "Residential",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_189.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Forest\nC. Permanent Crop\nD. Pasture",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Industrial",
+      "Forest",
+      "Permanent Crop",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1012.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Annual Crop\nC. Pasture\nD. Highway",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Sea / Lake",
+      "Annual Crop",
+      "Pasture",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1822.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Annual Crop\nC. Herbaceous Vegetation\nD. Pasture",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Forest",
+      "Annual Crop",
+      "Herbaceous Vegetation",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_1355.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Annual Crop\nC. River\nD. Permanent Crop",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Residential",
+      "Annual Crop",
+      "River",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "River",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/River/River_244.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Industrial\nC. Permanent Crop\nD. Highway",
+    "answer": "Permanent Crop",
+    "label": "Permanent Crop",
+    "mapped_label": "Permanent Crop",
+    "options": [
+      "Residential",
+      "Industrial",
+      "Permanent Crop",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Permanent Crop",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_761.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Permanent Crop\nC. Residential\nD. Herbaceous Vegetation",
+    "answer": "Permanent Crop",
+    "label": "Permanent Crop",
+    "mapped_label": "Permanent Crop",
+    "options": [
+      "Pasture",
+      "Permanent Crop",
+      "Residential",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Permanent Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_1281.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Sea / Lake\nC. Pasture\nD. Highway",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Industrial",
+      "Sea / Lake",
+      "Pasture",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_686.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Herbaceous Vegetation\nC. Highway\nD. River",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Annual Crop",
+      "Herbaceous Vegetation",
+      "Highway",
+      "River"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_2349.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. River\nC. Annual Crop\nD. Herbaceous Vegetation",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Pasture",
+      "River",
+      "Annual Crop",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_697.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Highway\nC. Sea / Lake\nD. Residential",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Annual Crop",
+      "Highway",
+      "Sea / Lake",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_1503.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Annual Crop\nC. River\nD. Sea / Lake",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Highway",
+      "Annual Crop",
+      "River",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_2049.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Forest\nC. Sea / Lake\nD. Residential",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Permanent Crop",
+      "Forest",
+      "Sea / Lake",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Forest",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Forest/Forest_1579.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Highway\nC. River\nD. Residential",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Industrial",
+      "Highway",
+      "River",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_2140.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Permanent Crop\nC. Residential\nD. Pasture",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "River",
+      "Permanent Crop",
+      "Residential",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Residential",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_2365.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Annual Crop\nC. Sea / Lake\nD. Industrial",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "River",
+      "Annual Crop",
+      "Sea / Lake",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_1034.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. River\nC. Forest\nD. Industrial",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Sea / Lake",
+      "River",
+      "Forest",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/River/River_1427.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Forest\nC. River\nD. Industrial",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Herbaceous Vegetation",
+      "Forest",
+      "River",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/River/River_1693.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Herbaceous Vegetation\nC. Permanent Crop\nD. Forest",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "River",
+      "Herbaceous Vegetation",
+      "Permanent Crop",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Forest",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Forest/Forest_291.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Residential\nC. Highway\nD. River",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Forest",
+      "Residential",
+      "Highway",
+      "River"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Forest",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Forest/Forest_862.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Residential\nC. Pasture\nD. Forest",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Permanent Crop",
+      "Residential",
+      "Pasture",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_2338.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Permanent Crop\nC. Highway\nD. Residential",
+    "answer": "Permanent Crop",
+    "label": "Permanent Crop",
+    "mapped_label": "Permanent Crop",
+    "options": [
+      "Herbaceous Vegetation",
+      "Permanent Crop",
+      "Highway",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Permanent Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_2893.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Herbaceous Vegetation\nC. Industrial\nD. Highway",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "River",
+      "Herbaceous Vegetation",
+      "Industrial",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_783.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Permanent Crop\nC. River\nD. Highway",
+    "answer": "Permanent Crop",
+    "label": "Permanent Crop",
+    "mapped_label": "Permanent Crop",
+    "options": [
+      "Forest",
+      "Permanent Crop",
+      "River",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Permanent Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_1016.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Pasture\nC. River\nD. Herbaceous Vegetation",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Permanent Crop",
+      "Pasture",
+      "River",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_492.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Annual Crop\nC. Herbaceous Vegetation\nD. Pasture",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Residential",
+      "Annual Crop",
+      "Herbaceous Vegetation",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_1753.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Sea / Lake\nC. River\nD. Industrial",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Permanent Crop",
+      "Sea / Lake",
+      "River",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_2276.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Herbaceous Vegetation\nC. Highway\nD. Permanent Crop",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Industrial",
+      "Herbaceous Vegetation",
+      "Highway",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_662.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Residential\nC. Sea / Lake\nD. Pasture",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Industrial",
+      "Residential",
+      "Sea / Lake",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1957.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Residential\nC. River\nD. Pasture",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Highway",
+      "Residential",
+      "River",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "River",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/River/River_292.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Highway\nC. Forest\nD. Pasture",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Sea / Lake",
+      "Highway",
+      "Forest",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1985.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Herbaceous Vegetation\nC. Highway\nD. Forest",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Annual Crop",
+      "Herbaceous Vegetation",
+      "Highway",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Forest",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Forest/Forest_494.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Permanent Crop\nC. Herbaceous Vegetation\nD. Annual Crop",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Forest",
+      "Permanent Crop",
+      "Herbaceous Vegetation",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Forest",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Forest/Forest_677.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Sea / Lake\nC. Forest\nD. Highway",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Permanent Crop",
+      "Sea / Lake",
+      "Forest",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_1662.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Herbaceous Vegetation\nC. Permanent Crop\nD. Pasture",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Industrial",
+      "Herbaceous Vegetation",
+      "Permanent Crop",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_1305.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Pasture\nC. Annual Crop\nD. Industrial",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Permanent Crop",
+      "Pasture",
+      "Annual Crop",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_1239.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Forest\nC. River\nD. Herbaceous Vegetation",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Highway",
+      "Forest",
+      "River",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Forest",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Forest/Forest_198.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Pasture\nC. Herbaceous Vegetation\nD. Sea / Lake",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "River",
+      "Pasture",
+      "Herbaceous Vegetation",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_232.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Residential\nC. Permanent Crop\nD. Pasture",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Annual Crop",
+      "Residential",
+      "Permanent Crop",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_2295.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Permanent Crop\nC. Sea / Lake\nD. Forest",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Annual Crop",
+      "Permanent Crop",
+      "Sea / Lake",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_1141.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Forest\nC. River\nD. Permanent Crop",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Herbaceous Vegetation",
+      "Forest",
+      "River",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/River/River_246.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Industrial\nC. River\nD. Annual Crop",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Herbaceous Vegetation",
+      "Industrial",
+      "River",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1354.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. River\nC. Residential\nD. Highway",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Industrial",
+      "River",
+      "Residential",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Residential",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1849.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. River\nC. Industrial\nD. Forest",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Pasture",
+      "River",
+      "Industrial",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1665.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Residential\nC. Highway\nD. Herbaceous Vegetation",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Annual Crop",
+      "Residential",
+      "Highway",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_1207.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Annual Crop\nC. Herbaceous Vegetation\nD. Pasture",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Residential",
+      "Annual Crop",
+      "Herbaceous Vegetation",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_2165.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Sea / Lake\nC. Annual Crop\nD. Forest",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Industrial",
+      "Sea / Lake",
+      "Annual Crop",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_2211.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Annual Crop\nC. River\nD. Residential",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Pasture",
+      "Annual Crop",
+      "River",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_795.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Permanent Crop\nC. Herbaceous Vegetation\nD. Highway",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Residential",
+      "Permanent Crop",
+      "Herbaceous Vegetation",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Highway",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_53.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Annual Crop\nC. Permanent Crop\nD. Residential",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Highway",
+      "Annual Crop",
+      "Permanent Crop",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Highway/Highway_685.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Residential\nC. Herbaceous Vegetation\nD. Permanent Crop",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Industrial",
+      "Residential",
+      "Herbaceous Vegetation",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1548.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Residential\nC. Industrial\nD. Permanent Crop",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "Pasture",
+      "Residential",
+      "Industrial",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2809.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Sea / Lake\nC. River\nD. Herbaceous Vegetation",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Industrial",
+      "Sea / Lake",
+      "River",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/River/River_360.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. River\nC. Forest\nD. Annual Crop",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Industrial",
+      "River",
+      "Forest",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Forest",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Forest/Forest_1774.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Highway\nC. Permanent Crop\nD. Forest",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Herbaceous Vegetation",
+      "Highway",
+      "Permanent Crop",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Forest",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_2688.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Annual Crop\nC. Pasture\nD. Sea / Lake",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Herbaceous Vegetation",
+      "Annual Crop",
+      "Pasture",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_842.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Sea / Lake\nC. Herbaceous Vegetation\nD. Highway",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Industrial",
+      "Sea / Lake",
+      "Herbaceous Vegetation",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Highway",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Highway/Highway_2102.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Industrial\nB. Permanent Crop\nC. Annual Crop\nD. River",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Industrial",
+      "Permanent Crop",
+      "Annual Crop",
+      "River"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_484.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Residential\nC. Permanent Crop\nD. Herbaceous Vegetation",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Forest",
+      "Residential",
+      "Permanent Crop",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Forest",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_2818.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Forest\nC. Residential\nD. Annual Crop",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "River",
+      "Forest",
+      "Residential",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "River",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/River/River_95.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Forest\nC. Herbaceous Vegetation\nD. Industrial",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Pasture",
+      "Forest",
+      "Herbaceous Vegetation",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Forest",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Forest/Forest_2995.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Pasture\nC. Residential\nD. Industrial",
+    "answer": "Residential",
+    "label": "Residential",
+    "mapped_label": "Residential",
+    "options": [
+      "River",
+      "Pasture",
+      "Residential",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Residential",
+    "correct_answer_index": 2,
+    "image": "data/EuroSAT_RGB/Residential/Residential_2680.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Annual Crop\nC. Industrial\nD. Herbaceous Vegetation",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Pasture",
+      "Annual Crop",
+      "Industrial",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_1534.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Herbaceous Vegetation\nB. Sea / Lake\nC. Highway\nD. Pasture",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Herbaceous Vegetation",
+      "Sea / Lake",
+      "Highway",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_36.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Highway\nC. Permanent Crop\nD. River",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Residential",
+      "Highway",
+      "Permanent Crop",
+      "River"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "River",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/River/River_511.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Sea / Lake\nC. River\nD. Forest",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Pasture",
+      "Sea / Lake",
+      "River",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Forest/Forest_768.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Annual Crop\nC. Pasture\nD. Industrial",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "River",
+      "Annual Crop",
+      "Pasture",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_757.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. River\nB. Industrial\nC. Residential\nD. Forest",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "River",
+      "Industrial",
+      "Residential",
+      "Forest"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "River",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/River/River_1252.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Industrial\nC. River\nD. Highway",
+    "answer": "Highway",
+    "label": "Highway",
+    "mapped_label": "Highway",
+    "options": [
+      "Sea / Lake",
+      "Industrial",
+      "River",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Highway",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/River/River_1596.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Residential\nC. Industrial\nD. Pasture",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Annual Crop",
+      "Residential",
+      "Industrial",
+      "Pasture"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1343.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Pasture\nC. Sea / Lake\nD. Residential",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Permanent Crop",
+      "Pasture",
+      "Sea / Lake",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1564.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Pasture\nC. Herbaceous Vegetation\nD. Industrial",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Forest",
+      "Pasture",
+      "Herbaceous Vegetation",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.75,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_2798.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Pasture\nC. Permanent Crop\nD. Annual Crop",
+    "answer": "Annual Crop",
+    "label": "Annual Crop",
+    "mapped_label": "Annual Crop",
+    "options": [
+      "Residential",
+      "Pasture",
+      "Permanent Crop",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Annual Crop",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1737.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. Sea / Lake\nC. River\nD. Annual Crop",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Permanent Crop",
+      "Sea / Lake",
+      "River",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_482.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Permanent Crop\nB. River\nC. Herbaceous Vegetation\nD. Sea / Lake",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Permanent Crop",
+      "River",
+      "Herbaceous Vegetation",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "River",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/River/River_2459.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Pasture\nC. Industrial\nD. Permanent Crop",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Forest",
+      "Pasture",
+      "Industrial",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/PermanentCrop/PermanentCrop_1773.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Herbaceous Vegetation\nC. Residential\nD. Permanent Crop",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Annual Crop",
+      "Herbaceous Vegetation",
+      "Residential",
+      "Permanent Crop"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/HerbaceousVegetation/HerbaceousVegetation_2029.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Forest\nC. Sea / Lake\nD. Industrial",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Residential",
+      "Forest",
+      "Sea / Lake",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.5,
+    "correct_answer": "Forest",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_2930.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Industrial\nC. Permanent Crop\nD. River",
+    "answer": "River",
+    "label": "River",
+    "mapped_label": "River",
+    "options": [
+      "Highway",
+      "Industrial",
+      "Permanent Crop",
+      "River"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "River",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/River/River_1040.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Residential\nB. Annual Crop\nC. Forest\nD. Sea / Lake",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Residential",
+      "Annual Crop",
+      "Forest",
+      "Sea / Lake"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Forest/Forest_134.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Residential\nC. Permanent Crop\nD. Highway",
+    "answer": "Sea / Lake",
+    "label": "Sea / Lake",
+    "mapped_label": "Sea / Lake",
+    "options": [
+      "Sea / Lake",
+      "Residential",
+      "Permanent Crop",
+      "Highway"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Sea / Lake",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/SeaLake/SeaLake_1754.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Sea / Lake\nB. Pasture\nC. Highway\nD. Herbaceous Vegetation",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Sea / Lake",
+      "Pasture",
+      "Highway",
+      "Herbaceous Vegetation"
+    ],
+    "pseudo_label_confidence": 1.0,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Pasture/Pasture_1779.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Highway\nB. Permanent Crop\nC. Herbaceous Vegetation\nD. Industrial",
+    "answer": "Industrial",
+    "label": "Industrial",
+    "mapped_label": "Industrial",
+    "options": [
+      "Highway",
+      "Permanent Crop",
+      "Herbaceous Vegetation",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Industrial",
+    "correct_answer_index": 3,
+    "image": "data/EuroSAT_RGB/Industrial/Industrial_1878.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Annual Crop\nB. Forest\nC. Permanent Crop\nD. Residential",
+    "answer": "Forest",
+    "label": "Forest",
+    "mapped_label": "Forest",
+    "options": [
+      "Annual Crop",
+      "Forest",
+      "Permanent Crop",
+      "Residential"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Forest",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/AnnualCrop/AnnualCrop_1869.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Forest\nB. Herbaceous Vegetation\nC. Residential\nD. Annual Crop",
+    "answer": "Herbaceous Vegetation",
+    "label": "Herbaceous Vegetation",
+    "mapped_label": "Herbaceous Vegetation",
+    "options": [
+      "Forest",
+      "Herbaceous Vegetation",
+      "Residential",
+      "Annual Crop"
+    ],
+    "pseudo_label_confidence": 0.875,
+    "correct_answer": "Herbaceous Vegetation",
+    "correct_answer_index": 1,
+    "image": "data/EuroSAT_RGB/Forest/Forest_272.jpg"
+  },
+  {
+    "question": "What type of remote sensing image does the given image belong to?\nA. Pasture\nB. Forest\nC. Permanent Crop\nD. Industrial",
+    "answer": "Pasture",
+    "label": "Pasture",
+    "mapped_label": "Pasture",
+    "options": [
+      "Pasture",
+      "Forest",
+      "Permanent Crop",
+      "Industrial"
+    ],
+    "pseudo_label_confidence": 0.625,
+    "correct_answer": "Pasture",
+    "correct_answer_index": 0,
+    "image": "data/EuroSAT_RGB/Forest/Forest_2556.jpg"
+  }
+]

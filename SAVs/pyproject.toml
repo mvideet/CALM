@@ -36,7 +36,10 @@ dependencies = [
     "scipy>=1.11.0",
     "accelerate>=0.26.0",
     "flash-attn",
+    "Pillow>=10.0.0",
+    "qwen-vl-utils>=0.0.8",
     "baukit @ git+https://github.com/davidbau/baukit",
+    "peft>=0.11.0",
 ]
 requires-python = ">=3.10"
 

@@ -1,0 +1,6169 @@
+[
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--4gqARaEJE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Middle Eastern music, B) Bark, C) Domestic animals, pets, D) Coo",
+    "options": [
+      "Middle Eastern music",
+      "Bark",
+      "Domestic animals, pets",
+      "Coo"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Domestic animals, pets",
+    "original_labels": [
+      "Domestic animals, pets",
+      "Squeak",
+      "Dog",
+      "Animal"
+    ],
+    "original_sample_id": 0,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--4gqARaEJE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Classical music, B) Chink, clink, C) Strum, D) Squeak",
+    "options": [
+      "Classical music",
+      "Chink, clink",
+      "Strum",
+      "Squeak"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Squeak",
+    "original_labels": [
+      "Domestic animals, pets",
+      "Squeak",
+      "Dog",
+      "Animal"
+    ],
+    "original_sample_id": 0,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--4gqARaEJE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Happy music, B) Yell, C) Hoot, D) Dog",
+    "options": [
+      "Happy music",
+      "Yell",
+      "Hoot",
+      "Dog"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Dog",
+    "original_labels": [
+      "Domestic animals, pets",
+      "Squeak",
+      "Dog",
+      "Animal"
+    ],
+    "original_sample_id": 0,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--4gqARaEJE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Stomach rumble, B) Tire squeal, C) Animal, D) Harmonica",
+    "options": [
+      "Stomach rumble",
+      "Tire squeal",
+      "Animal",
+      "Harmonica"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Animal",
+    "original_labels": [
+      "Domestic animals, pets",
+      "Squeak",
+      "Dog",
+      "Animal"
+    ],
+    "original_sample_id": 0,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--BfvyPmVMo.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Reversing beeps, B) Moo, C) Hammer, D) Stomach rumble",
+    "options": [
+      "Reversing beeps",
+      "Moo",
+      "Hammer",
+      "Stomach rumble"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Hammer",
+    "original_labels": [
+      "Hammer"
+    ],
+    "original_sample_id": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--U7joUcTCo.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Singing, B) Chop, C) Clarinet, D) Cough",
+    "options": [
+      "Singing",
+      "Chop",
+      "Clarinet",
+      "Cough"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Cough",
+    "original_labels": [
+      "Cough"
+    ],
+    "original_sample_id": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--i-y1v8Hy8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bleat, B) Trance music, C) Male singing, D) Music",
+    "options": [
+      "Bleat",
+      "Trance music",
+      "Male singing",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 3,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--i-y1v8Hy8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Oink, B) Scissors, C) Frog, D) Speech",
+    "options": [
+      "Oink",
+      "Scissors",
+      "Frog",
+      "Speech"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 3,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--i-y1v8Hy8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Honk, B) Chatter, C) Neigh, whinny, D) Female singing",
+    "options": [
+      "Honk",
+      "Chatter",
+      "Neigh, whinny",
+      "Female singing"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Female singing",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 3,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/--i-y1v8Hy8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Electronic tuner, B) Child singing, C) Traditional music, D) Scratching (performance technique)",
+    "options": [
+      "Electronic tuner",
+      "Child singing",
+      "Traditional music",
+      "Scratching (performance technique)"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Child singing",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 3,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0BIyqJj9ZU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Cattle, bovinae, B) Female singing, C) Chuckle, chortle, D) Mantra",
+    "options": [
+      "Cattle, bovinae",
+      "Female singing",
+      "Chuckle, chortle",
+      "Mantra"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Chuckle, chortle",
+    "original_labels": [
+      "Chuckle, chortle",
+      "Belly laugh",
+      "Baby laughter"
+    ],
+    "original_sample_id": 4,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0BIyqJj9ZU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Singing bowl, B) Harmonic, C) Belly laugh, D) Mechanical fan",
+    "options": [
+      "Singing bowl",
+      "Harmonic",
+      "Belly laugh",
+      "Mechanical fan"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Belly laugh",
+    "original_labels": [
+      "Chuckle, chortle",
+      "Belly laugh",
+      "Baby laughter"
+    ],
+    "original_sample_id": 4,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0BIyqJj9ZU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bee, wasp, etc., B) Sonar, C) Baby laughter, D) Printer",
+    "options": [
+      "Bee, wasp, etc.",
+      "Sonar",
+      "Baby laughter",
+      "Printer"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Baby laughter",
+    "original_labels": [
+      "Chuckle, chortle",
+      "Belly laugh",
+      "Baby laughter"
+    ],
+    "original_sample_id": 4,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0CamVQdP_Y.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Pour, C) Grunt, D) Wind",
+    "options": [
+      "Music",
+      "Pour",
+      "Grunt",
+      "Wind"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Walk, footsteps",
+      "Speech"
+    ],
+    "original_sample_id": 5,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0CamVQdP_Y.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Walk, footsteps, B) Distortion, C) Mains hum, D) Doorbell",
+    "options": [
+      "Walk, footsteps",
+      "Distortion",
+      "Mains hum",
+      "Doorbell"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Walk, footsteps",
+    "original_labels": [
+      "Music",
+      "Walk, footsteps",
+      "Speech"
+    ],
+    "original_sample_id": 5,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0CamVQdP_Y.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Snicker, B) Saxophone, C) Speech, D) Synthetic singing",
+    "options": [
+      "Snicker",
+      "Saxophone",
+      "Speech",
+      "Synthetic singing"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Walk, footsteps",
+      "Speech"
+    ],
+    "original_sample_id": 5,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0Gj8-vB1q4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Computer keyboard, B) Christmas music, C) Boat, Water vehicle, D) Choir",
+    "options": [
+      "Computer keyboard",
+      "Christmas music",
+      "Boat, Water vehicle",
+      "Choir"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Christmas music",
+    "original_labels": [
+      "Christmas music",
+      "Theme music",
+      "Music"
+    ],
+    "original_sample_id": 6,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0Gj8-vB1q4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Theme music, B) Stream, C) Camera, D) Sizzle",
+    "options": [
+      "Theme music",
+      "Stream",
+      "Camera",
+      "Sizzle"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Theme music",
+    "original_labels": [
+      "Christmas music",
+      "Theme music",
+      "Music"
+    ],
+    "original_sample_id": 6,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0Gj8-vB1q4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Jingle (music), C) Cowbell, D) Alarm clock",
+    "options": [
+      "Music",
+      "Jingle (music)",
+      "Cowbell",
+      "Alarm clock"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Christmas music",
+      "Theme music",
+      "Music"
+    ],
+    "original_sample_id": 6,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0RWZT-miFs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Ocean, B) Keys jangling, C) Telephone, D) Coo",
+    "options": [
+      "Ocean",
+      "Keys jangling",
+      "Telephone",
+      "Coo"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Keys jangling",
+    "original_labels": [
+      "Keys jangling",
+      "Car"
+    ],
+    "original_sample_id": 7,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0RWZT-miFs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Finger snapping, B) Mains hum, C) Wind, D) Car",
+    "options": [
+      "Finger snapping",
+      "Mains hum",
+      "Wind",
+      "Car"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Car",
+    "original_labels": [
+      "Keys jangling",
+      "Car"
+    ],
+    "original_sample_id": 7,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0YUDn-1yII.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Yell, B) Dubstep, C) Theme music, D) Gargling",
+    "options": [
+      "Yell",
+      "Dubstep",
+      "Theme music",
+      "Gargling"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Theme music",
+    "original_labels": [
+      "Theme music",
+      "Music"
+    ],
+    "original_sample_id": 8,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0YUDn-1yII.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Babbling, B) Wheeze, C) Pump (liquid), D) Music",
+    "options": [
+      "Babbling",
+      "Wheeze",
+      "Pump (liquid)",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Theme music",
+      "Music"
+    ],
+    "original_sample_id": 8,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0jeONf82dE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bus, B) Humming, C) Ice cream truck, ice cream van, D) Horse",
+    "options": [
+      "Bus",
+      "Humming",
+      "Ice cream truck, ice cream van",
+      "Horse"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Horse",
+    "original_labels": [
+      "Horse",
+      "Music",
+      "Neigh, whinny",
+      "Speech",
+      "Animal"
+    ],
+    "original_sample_id": 9,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0jeONf82dE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Carnatic music, B) Music, C) Crushing, D) Cutlery, silverware",
+    "options": [
+      "Carnatic music",
+      "Music",
+      "Crushing",
+      "Cutlery, silverware"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Music",
+    "original_labels": [
+      "Horse",
+      "Music",
+      "Neigh, whinny",
+      "Speech",
+      "Animal"
+    ],
+    "original_sample_id": 9,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0jeONf82dE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Neigh, whinny, B) Grunt, C) Swing music, D) Male speech, man speaking",
+    "options": [
+      "Neigh, whinny",
+      "Grunt",
+      "Swing music",
+      "Male speech, man speaking"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Neigh, whinny",
+    "original_labels": [
+      "Horse",
+      "Music",
+      "Neigh, whinny",
+      "Speech",
+      "Animal"
+    ],
+    "original_sample_id": 9,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0jeONf82dE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Snort, B) Sidetone, C) Speech, D) Theremin",
+    "options": [
+      "Snort",
+      "Sidetone",
+      "Speech",
+      "Theremin"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Horse",
+      "Music",
+      "Neigh, whinny",
+      "Speech",
+      "Animal"
+    ],
+    "original_sample_id": 9,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0jeONf82dE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Heart murmur, B) Rhythm and blues, C) Canidae, dogs, wolves, D) Animal",
+    "options": [
+      "Heart murmur",
+      "Rhythm and blues",
+      "Canidae, dogs, wolves",
+      "Animal"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Animal",
+    "original_labels": [
+      "Horse",
+      "Music",
+      "Neigh, whinny",
+      "Speech",
+      "Animal"
+    ],
+    "original_sample_id": 9,
+    "label_index_in_original": 4
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0nqfRcnAYE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Happy music, B) Air horn, truck horn, C) Cash register, D) Dishes, pots, and pans",
+    "options": [
+      "Happy music",
+      "Air horn, truck horn",
+      "Cash register",
+      "Dishes, pots, and pans"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Dishes, pots, and pans",
+    "original_labels": [
+      "Dishes, pots, and pans"
+    ],
+    "original_sample_id": 10
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0p7hKXZ1ww.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Firecracker, B) Railroad car, train wagon, C) Cash register, D) Beatboxing",
+    "options": [
+      "Firecracker",
+      "Railroad car, train wagon",
+      "Cash register",
+      "Beatboxing"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Firecracker",
+    "original_labels": [
+      "Firecracker",
+      "Speech"
+    ],
+    "original_sample_id": 11,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0p7hKXZ1ww.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Dental drill, dentist's drill, C) Vehicle, D) Gurgling",
+    "options": [
+      "Speech",
+      "Dental drill, dentist's drill",
+      "Vehicle",
+      "Gurgling"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Firecracker",
+      "Speech"
+    ],
+    "original_sample_id": 11,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0vPFx-wRRI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Finger snapping, B) Chorus effect, C) Folk music, D) Chuckle, chortle",
+    "options": [
+      "Finger snapping",
+      "Chorus effect",
+      "Folk music",
+      "Chuckle, chortle"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Finger snapping",
+    "original_labels": [
+      "Finger snapping",
+      "Music"
+    ],
+    "original_sample_id": 12,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0vPFx-wRRI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Tuning fork, B) Spray, C) Brass instrument, D) Music",
+    "options": [
+      "Tuning fork",
+      "Spray",
+      "Brass instrument",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Finger snapping",
+      "Music"
+    ],
+    "original_sample_id": 12,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0xzrMun0Rs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Cluck, B) Inside, small room, C) Stomach rumble, D) Reverberation",
+    "options": [
+      "Cluck",
+      "Inside, small room",
+      "Stomach rumble",
+      "Reverberation"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Stomach rumble",
+    "original_labels": [
+      "Stomach rumble",
+      "Music"
+    ],
+    "original_sample_id": 13,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0xzrMun0Rs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Firecracker, B) Music, C) Dog, D) Stream",
+    "options": [
+      "Firecracker",
+      "Music",
+      "Dog",
+      "Stream"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Music",
+    "original_labels": [
+      "Stomach rumble",
+      "Music"
+    ],
+    "original_sample_id": 13,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0yRK50zyTI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Cello, B) Church bell, C) Throbbing, D) Crackle",
+    "options": [
+      "Cello",
+      "Church bell",
+      "Throbbing",
+      "Crackle"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Crackle",
+    "original_labels": [
+      "Crackle",
+      "Speech"
+    ],
+    "original_sample_id": 14,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-0yRK50zyTI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) House music, C) Chopping (food), D) Engine knocking",
+    "options": [
+      "Speech",
+      "House music",
+      "Chopping (food)",
+      "Engine knocking"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Crackle",
+      "Speech"
+    ],
+    "original_sample_id": 14,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-116CjQ3MAg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Snort, B) Bird, C) Busy signal, D) Gunshot, gunfire",
+    "options": [
+      "Snort",
+      "Bird",
+      "Busy signal",
+      "Gunshot, gunfire"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Bird",
+    "original_labels": [
+      "Bird",
+      "White noise",
+      "Outside, urban or manmade"
+    ],
+    "original_sample_id": 15,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-116CjQ3MAg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) White noise, B) Toothbrush, C) Slap, smack, D) Male singing",
+    "options": [
+      "White noise",
+      "Toothbrush",
+      "Slap, smack",
+      "Male singing"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "White noise",
+    "original_labels": [
+      "Bird",
+      "White noise",
+      "Outside, urban or manmade"
+    ],
+    "original_sample_id": 15,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-116CjQ3MAg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Opera, B) Folk music, C) Outside, urban or manmade, D) Effects unit",
+    "options": [
+      "Opera",
+      "Folk music",
+      "Outside, urban or manmade",
+      "Effects unit"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Outside, urban or manmade",
+    "original_labels": [
+      "Bird",
+      "White noise",
+      "Outside, urban or manmade"
+    ],
+    "original_sample_id": 15,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1EXhfqLLwQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Printer, B) Bathtub (filling or washing), C) Bus, D) Bow-wow",
+    "options": [
+      "Printer",
+      "Bathtub (filling or washing)",
+      "Bus",
+      "Bow-wow"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Bathtub (filling or washing)",
+    "original_labels": [
+      "Bathtub (filling or washing)",
+      "Domestic animals, pets",
+      "Fill (with liquid)",
+      "Pump (liquid)",
+      "Water",
+      "Animal",
+      "Gush"
+    ],
+    "original_sample_id": 16,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1EXhfqLLwQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bus, B) Foghorn, C) Chicken, rooster, D) Domestic animals, pets",
+    "options": [
+      "Bus",
+      "Foghorn",
+      "Chicken, rooster",
+      "Domestic animals, pets"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Domestic animals, pets",
+    "original_labels": [
+      "Bathtub (filling or washing)",
+      "Domestic animals, pets",
+      "Fill (with liquid)",
+      "Pump (liquid)",
+      "Water",
+      "Animal",
+      "Gush"
+    ],
+    "original_sample_id": 16,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1EXhfqLLwQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Crow, B) Fill (with liquid), C) Speech synthesizer, D) Hubbub, speech noise, speech babble",
+    "options": [
+      "Crow",
+      "Fill (with liquid)",
+      "Speech synthesizer",
+      "Hubbub, speech noise, speech babble"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Fill (with liquid)",
+    "original_labels": [
+      "Bathtub (filling or washing)",
+      "Domestic animals, pets",
+      "Fill (with liquid)",
+      "Pump (liquid)",
+      "Water",
+      "Animal",
+      "Gush"
+    ],
+    "original_sample_id": 16,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1EXhfqLLwQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Propeller, airscrew, B) Child singing, C) Pump (liquid), D) String section",
+    "options": [
+      "Propeller, airscrew",
+      "Child singing",
+      "Pump (liquid)",
+      "String section"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Pump (liquid)",
+    "original_labels": [
+      "Bathtub (filling or washing)",
+      "Domestic animals, pets",
+      "Fill (with liquid)",
+      "Pump (liquid)",
+      "Water",
+      "Animal",
+      "Gush"
+    ],
+    "original_sample_id": 16,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1EXhfqLLwQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Water, B) Snoring, C) Mantra, D) Idling",
+    "options": [
+      "Water",
+      "Snoring",
+      "Mantra",
+      "Idling"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Water",
+    "original_labels": [
+      "Bathtub (filling or washing)",
+      "Domestic animals, pets",
+      "Fill (with liquid)",
+      "Pump (liquid)",
+      "Water",
+      "Animal",
+      "Gush"
+    ],
+    "original_sample_id": 16,
+    "label_index_in_original": 4
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1EXhfqLLwQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Propeller, airscrew, B) Caw, C) Trance music, D) Animal",
+    "options": [
+      "Propeller, airscrew",
+      "Caw",
+      "Trance music",
+      "Animal"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Animal",
+    "original_labels": [
+      "Bathtub (filling or washing)",
+      "Domestic animals, pets",
+      "Fill (with liquid)",
+      "Pump (liquid)",
+      "Water",
+      "Animal",
+      "Gush"
+    ],
+    "original_sample_id": 16,
+    "label_index_in_original": 5
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1EXhfqLLwQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Zipper (clothing), B) Cello, C) Gush, D) Hammer",
+    "options": [
+      "Zipper (clothing)",
+      "Cello",
+      "Gush",
+      "Hammer"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Gush",
+    "original_labels": [
+      "Bathtub (filling or washing)",
+      "Domestic animals, pets",
+      "Fill (with liquid)",
+      "Pump (liquid)",
+      "Water",
+      "Animal",
+      "Gush"
+    ],
+    "original_sample_id": 16,
+    "label_index_in_original": 6
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1Hub6Ps_cc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sheep, B) Car passing by, C) Sink (filling or washing), D) Insect",
+    "options": [
+      "Sheep",
+      "Car passing by",
+      "Sink (filling or washing)",
+      "Insect"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Sink (filling or washing)",
+    "original_labels": [
+      "Sink (filling or washing)",
+      "Water tap, faucet",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 17,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1Hub6Ps_cc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Aircraft, B) Patter, C) Outside, urban or manmade, D) Water tap, faucet",
+    "options": [
+      "Aircraft",
+      "Patter",
+      "Outside, urban or manmade",
+      "Water tap, faucet"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Water tap, faucet",
+    "original_labels": [
+      "Sink (filling or washing)",
+      "Water tap, faucet",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 17,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1Hub6Ps_cc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Effects unit, B) Speech, C) Cowbell, D) Clip-clop",
+    "options": [
+      "Effects unit",
+      "Speech",
+      "Cowbell",
+      "Clip-clop"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Sink (filling or washing)",
+      "Water tap, faucet",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 17,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1Hub6Ps_cc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Glockenspiel, B) Hands, C) Roar, D) Male singing",
+    "options": [
+      "Glockenspiel",
+      "Hands",
+      "Roar",
+      "Male singing"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Hands",
+    "original_labels": [
+      "Sink (filling or washing)",
+      "Water tap, faucet",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 17,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1Hub6Ps_cc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Subway, metro, underground, B) Chop, C) Moo, D) Inside, small room",
+    "options": [
+      "Subway, metro, underground",
+      "Chop",
+      "Moo",
+      "Inside, small room"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Inside, small room",
+    "original_labels": [
+      "Sink (filling or washing)",
+      "Water tap, faucet",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 17,
+    "label_index_in_original": 4
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1II0Di9Hkc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Cymbal, C) Livestock, farm animals, working animals, D) Electronic music",
+    "options": [
+      "Music",
+      "Cymbal",
+      "Livestock, farm animals, working animals",
+      "Electronic music"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Radio"
+    ],
+    "original_sample_id": 18,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1II0Di9Hkc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Cello, B) Radio, C) Conversation, D) Aircraft engine",
+    "options": [
+      "Cello",
+      "Radio",
+      "Conversation",
+      "Aircraft engine"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Radio",
+    "original_labels": [
+      "Music",
+      "Radio"
+    ],
+    "original_sample_id": 18,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1LQP2wemiQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Drum and bass, B) Tap, C) Beep, bleep, D) Sheep",
+    "options": [
+      "Drum and bass",
+      "Tap",
+      "Beep, bleep",
+      "Sheep"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Beep, bleep",
+    "original_labels": [
+      "Beep, bleep",
+      "Female speech, woman speaking",
+      "Speech"
+    ],
+    "original_sample_id": 19,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1LQP2wemiQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sampler, B) Female speech, woman speaking, C) Bird flight, flapping wings, D) Scratch",
+    "options": [
+      "Sampler",
+      "Female speech, woman speaking",
+      "Bird flight, flapping wings",
+      "Scratch"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Female speech, woman speaking",
+    "original_labels": [
+      "Beep, bleep",
+      "Female speech, woman speaking",
+      "Speech"
+    ],
+    "original_sample_id": 19,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1LQP2wemiQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech synthesizer, B) Rustling leaves, C) Speech, D) Clatter",
+    "options": [
+      "Speech synthesizer",
+      "Rustling leaves",
+      "Speech",
+      "Clatter"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Beep, bleep",
+      "Female speech, woman speaking",
+      "Speech"
+    ],
+    "original_sample_id": 19,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1OlgJWehn8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Banjo, C) Squeak, D) Filing (rasp)",
+    "options": [
+      "Music",
+      "Banjo",
+      "Squeak",
+      "Filing (rasp)"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Radio"
+    ],
+    "original_sample_id": 20,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1OlgJWehn8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Male speech, man speaking, B) Radio, C) Inside, small room, D) Squawk",
+    "options": [
+      "Male speech, man speaking",
+      "Radio",
+      "Inside, small room",
+      "Squawk"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Radio",
+    "original_labels": [
+      "Music",
+      "Radio"
+    ],
+    "original_sample_id": 20,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1PZQg5Gi8A.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bicycle bell, B) Typewriter, C) Smash, crash, D) Singing bowl",
+    "options": [
+      "Bicycle bell",
+      "Typewriter",
+      "Smash, crash",
+      "Singing bowl"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Smash, crash",
+    "original_labels": [
+      "Smash, crash"
+    ],
+    "original_sample_id": 21
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1UWSisR2zo.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Heavy engine (low frequency), B) Pig, C) Music, D) Rub",
+    "options": [
+      "Heavy engine (low frequency)",
+      "Pig",
+      "Music",
+      "Rub"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Maraca"
+    ],
+    "original_sample_id": 22,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1UWSisR2zo.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Mosquito, B) Rail transport, C) Sniff, D) Maraca",
+    "options": [
+      "Mosquito",
+      "Rail transport",
+      "Sniff",
+      "Maraca"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Maraca",
+    "original_labels": [
+      "Music",
+      "Maraca"
+    ],
+    "original_sample_id": 22,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1hDIl9Udkw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Snoring, B) Zing, C) Rain, D) Music",
+    "options": [
+      "Snoring",
+      "Zing",
+      "Rain",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Rattle",
+      "Speech"
+    ],
+    "original_sample_id": 23,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1hDIl9Udkw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bicycle bell, B) Fill (with liquid), C) Mains hum, D) Rattle",
+    "options": [
+      "Bicycle bell",
+      "Fill (with liquid)",
+      "Mains hum",
+      "Rattle"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Rattle",
+    "original_labels": [
+      "Music",
+      "Rattle",
+      "Speech"
+    ],
+    "original_sample_id": 23,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1hDIl9Udkw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Pop music, B) Telephone dialing, DTMF, C) Rock and roll, D) Speech",
+    "options": [
+      "Pop music",
+      "Telephone dialing, DTMF",
+      "Rock and roll",
+      "Speech"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Rattle",
+      "Speech"
+    ],
+    "original_sample_id": 23,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1nilez17Dg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Keyboard (musical), B) Telephone bell ringing, C) Blender, D) Heart murmur",
+    "options": [
+      "Keyboard (musical)",
+      "Telephone bell ringing",
+      "Blender",
+      "Heart murmur"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Heart murmur",
+    "original_labels": [
+      "Heart murmur",
+      "Speech"
+    ],
+    "original_sample_id": 24,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1nilez17Dg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Scissors, C) Carnatic music, D) Tap",
+    "options": [
+      "Speech",
+      "Scissors",
+      "Carnatic music",
+      "Tap"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Heart murmur",
+      "Speech"
+    ],
+    "original_sample_id": 24,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1pRmoJIGQc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Engine knocking, B) Crumpling, crinkling, C) Yip, D) Pant",
+    "options": [
+      "Engine knocking",
+      "Crumpling, crinkling",
+      "Yip",
+      "Pant"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Engine knocking",
+    "original_labels": [
+      "Engine knocking",
+      "Engine",
+      "Idling"
+    ],
+    "original_sample_id": 25,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1pRmoJIGQc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Soul music, B) Orchestra, C) Engine, D) Radio",
+    "options": [
+      "Soul music",
+      "Orchestra",
+      "Engine",
+      "Radio"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Engine",
+    "original_labels": [
+      "Engine knocking",
+      "Engine",
+      "Idling"
+    ],
+    "original_sample_id": 25,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-1pRmoJIGQc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Singing bowl, B) Idling, C) Field recording, D) Patter",
+    "options": [
+      "Singing bowl",
+      "Idling",
+      "Field recording",
+      "Patter"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Idling",
+    "original_labels": [
+      "Engine knocking",
+      "Engine",
+      "Idling"
+    ],
+    "original_sample_id": 25,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-21_SXelVNo.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sniff, B) Patter, C) Music of Africa, D) Growling",
+    "options": [
+      "Sniff",
+      "Patter",
+      "Music of Africa",
+      "Growling"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Sniff",
+    "original_labels": [
+      "Sniff",
+      "Speech"
+    ],
+    "original_sample_id": 26,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-21_SXelVNo.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Trumpet, B) Speech, C) Throat clearing, D) Guitar",
+    "options": [
+      "Trumpet",
+      "Speech",
+      "Throat clearing",
+      "Guitar"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Sniff",
+      "Speech"
+    ],
+    "original_sample_id": 26,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-22tna7KHzI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Child speech, kid speaking, C) Ratchet, pawl, D) Explosion",
+    "options": [
+      "Music",
+      "Child speech, kid speaking",
+      "Ratchet, pawl",
+      "Explosion"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Explosion",
+    "original_labels": [
+      "Explosion"
+    ],
+    "original_sample_id": 27
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-2EKWgTNEYU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Harpsichord, B) Gargling, C) Drip, D) Radio",
+    "options": [
+      "Harpsichord",
+      "Gargling",
+      "Drip",
+      "Radio"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Radio",
+    "original_labels": [
+      "Radio"
+    ],
+    "original_sample_id": 28
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-2sE5CH8Wb8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Vibration, B) Reversing beeps, C) Caterwaul, D) Toothbrush",
+    "options": [
+      "Vibration",
+      "Reversing beeps",
+      "Caterwaul",
+      "Toothbrush"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Reversing beeps",
+    "original_labels": [
+      "Reversing beeps",
+      "Truck",
+      "Vehicle"
+    ],
+    "original_sample_id": 29,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-2sE5CH8Wb8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sniff, B) Whistling, C) Truck, D) Siren",
+    "options": [
+      "Sniff",
+      "Whistling",
+      "Truck",
+      "Siren"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Truck",
+    "original_labels": [
+      "Reversing beeps",
+      "Truck",
+      "Vehicle"
+    ],
+    "original_sample_id": 29,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-2sE5CH8Wb8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Vehicle, B) Hammond organ, C) Strum, D) Clip-clop",
+    "options": [
+      "Vehicle",
+      "Hammond organ",
+      "Strum",
+      "Clip-clop"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Vehicle",
+    "original_labels": [
+      "Reversing beeps",
+      "Truck",
+      "Vehicle"
+    ],
+    "original_sample_id": 29,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-2xiZDEuHd8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Jackhammer, B) Boom, C) Music, D) Crow",
+    "options": [
+      "Jackhammer",
+      "Boom",
+      "Music",
+      "Crow"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Oink"
+    ],
+    "original_sample_id": 30,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-2xiZDEuHd8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Printer, C) Thump, thud, D) Wood block",
+    "options": [
+      "Speech",
+      "Printer",
+      "Thump, thud",
+      "Wood block"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Oink"
+    ],
+    "original_sample_id": 30,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-2xiZDEuHd8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Tire squeal, B) Electric shaver, electric razor, C) Oink, D) Vibration",
+    "options": [
+      "Tire squeal",
+      "Electric shaver, electric razor",
+      "Oink",
+      "Vibration"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Oink",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Oink"
+    ],
+    "original_sample_id": 30,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3-4qmWSJXU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Howl, B) Whack, thwack, C) Rain, D) Medium engine (mid frequency)",
+    "options": [
+      "Howl",
+      "Whack, thwack",
+      "Rain",
+      "Medium engine (mid frequency)"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Rain",
+    "original_labels": [
+      "Rain",
+      "Thunderstorm",
+      "Thunder",
+      "Rain on surface"
+    ],
+    "original_sample_id": 31,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3-4qmWSJXU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Honk, B) Thunderstorm, C) Rattle, D) Marimba, xylophone",
+    "options": [
+      "Honk",
+      "Thunderstorm",
+      "Rattle",
+      "Marimba, xylophone"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Thunderstorm",
+    "original_labels": [
+      "Rain",
+      "Thunderstorm",
+      "Thunder",
+      "Rain on surface"
+    ],
+    "original_sample_id": 31,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3-4qmWSJXU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Dishes, pots, and pans, B) Thunder, C) Drum machine, D) Hi-hat",
+    "options": [
+      "Dishes, pots, and pans",
+      "Thunder",
+      "Drum machine",
+      "Hi-hat"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Thunder",
+    "original_labels": [
+      "Rain",
+      "Thunderstorm",
+      "Thunder",
+      "Rain on surface"
+    ],
+    "original_sample_id": 31,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3-4qmWSJXU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rain on surface, B) Camera, C) Gunshot, gunfire, D) Squish",
+    "options": [
+      "Rain on surface",
+      "Camera",
+      "Gunshot, gunfire",
+      "Squish"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Rain on surface",
+    "original_labels": [
+      "Rain",
+      "Thunderstorm",
+      "Thunder",
+      "Rain on surface"
+    ],
+    "original_sample_id": 31,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-36qTeAdDMI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Buzzer, B) Telephone, C) Static, D) Gong",
+    "options": [
+      "Buzzer",
+      "Telephone",
+      "Static",
+      "Gong"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Telephone",
+    "original_labels": [
+      "Telephone",
+      "Speech",
+      "Inside, small room"
+    ],
+    "original_sample_id": 32,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-36qTeAdDMI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Air conditioning, C) Singing, D) Violin, fiddle",
+    "options": [
+      "Speech",
+      "Air conditioning",
+      "Singing",
+      "Violin, fiddle"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Telephone",
+      "Speech",
+      "Inside, small room"
+    ],
+    "original_sample_id": 32,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-36qTeAdDMI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Inside, small room, B) Hands, C) Wheeze, D) Steelpan",
+    "options": [
+      "Inside, small room",
+      "Hands",
+      "Wheeze",
+      "Steelpan"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Inside, small room",
+    "original_labels": [
+      "Telephone",
+      "Speech",
+      "Inside, small room"
+    ],
+    "original_sample_id": 32,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3Kv4fdm7Uk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Whack, thwack, C) Slam, D) Bass guitar",
+    "options": [
+      "Music",
+      "Whack, thwack",
+      "Slam",
+      "Bass guitar"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Musical instrument",
+      "Steelpan"
+    ],
+    "original_sample_id": 33,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3Kv4fdm7Uk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Turkey, B) Crying, sobbing, C) Emergency vehicle, D) Musical instrument",
+    "options": [
+      "Turkey",
+      "Crying, sobbing",
+      "Emergency vehicle",
+      "Musical instrument"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Musical instrument",
+    "original_labels": [
+      "Music",
+      "Musical instrument",
+      "Steelpan"
+    ],
+    "original_sample_id": 33,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3Kv4fdm7Uk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Child singing, B) Tabla, C) Steelpan, D) Ding",
+    "options": [
+      "Child singing",
+      "Tabla",
+      "Steelpan",
+      "Ding"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Steelpan",
+    "original_labels": [
+      "Music",
+      "Musical instrument",
+      "Steelpan"
+    ],
+    "original_sample_id": 33,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3YWuPXHknk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Engine, B) Singing, C) Radio, D) Livestock, farm animals, working animals",
+    "options": [
+      "Engine",
+      "Singing",
+      "Radio",
+      "Livestock, farm animals, working animals"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Engine",
+    "original_labels": [
+      "Engine",
+      "Engine starting"
+    ],
+    "original_sample_id": 34,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3YWuPXHknk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Singing, B) Engine starting, C) Reggae, D) Mosquito",
+    "options": [
+      "Singing",
+      "Engine starting",
+      "Reggae",
+      "Mosquito"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Engine starting",
+    "original_labels": [
+      "Engine",
+      "Engine starting"
+    ],
+    "original_sample_id": 34,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3nXxwBlX5A.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Turkey, B) Bow-wow, C) Wedding music, D) Babbling",
+    "options": [
+      "Turkey",
+      "Bow-wow",
+      "Wedding music",
+      "Babbling"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Wedding music",
+    "original_labels": [
+      "Wedding music"
+    ],
+    "original_sample_id": 35
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3nyUrKWFEE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Inside, public space, B) Battle cry, C) Steam whistle, D) Bird flight, flapping wings",
+    "options": [
+      "Inside, public space",
+      "Battle cry",
+      "Steam whistle",
+      "Bird flight, flapping wings"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Steam whistle",
+    "original_labels": [
+      "Steam whistle",
+      "Steam"
+    ],
+    "original_sample_id": 36,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3nyUrKWFEE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Howl, B) Vehicle, C) Crushing, D) Steam",
+    "options": [
+      "Howl",
+      "Vehicle",
+      "Crushing",
+      "Steam"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Steam",
+    "original_labels": [
+      "Steam whistle",
+      "Steam"
+    ],
+    "original_sample_id": 36,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3rHVsIj1M8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sewing machine, B) Boat, Water vehicle, C) Knock, D) Trumpet",
+    "options": [
+      "Sewing machine",
+      "Boat, Water vehicle",
+      "Knock",
+      "Trumpet"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Boat, Water vehicle",
+    "original_labels": [
+      "Boat, Water vehicle",
+      "Wind",
+      "Ship",
+      "Wind noise (microphone)"
+    ],
+    "original_sample_id": 37,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3rHVsIj1M8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Cluck, B) Plop, C) Electronica, D) Wind",
+    "options": [
+      "Cluck",
+      "Plop",
+      "Electronica",
+      "Wind"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Wind",
+    "original_labels": [
+      "Boat, Water vehicle",
+      "Wind",
+      "Ship",
+      "Wind noise (microphone)"
+    ],
+    "original_sample_id": 37,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3rHVsIj1M8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Gasp, B) Chainsaw, C) Ship, D) Sneeze",
+    "options": [
+      "Gasp",
+      "Chainsaw",
+      "Ship",
+      "Sneeze"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Ship",
+    "original_labels": [
+      "Boat, Water vehicle",
+      "Wind",
+      "Ship",
+      "Wind noise (microphone)"
+    ],
+    "original_sample_id": 37,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3rHVsIj1M8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Wind noise (microphone), B) Crow, C) Bird vocalization, bird call, bird song, D) Rock music",
+    "options": [
+      "Wind noise (microphone)",
+      "Crow",
+      "Bird vocalization, bird call, bird song",
+      "Rock music"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Wind noise (microphone)",
+    "original_labels": [
+      "Boat, Water vehicle",
+      "Wind",
+      "Ship",
+      "Wind noise (microphone)"
+    ],
+    "original_sample_id": 37,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3z5mFRgbxc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rhythm and blues, B) Yip, C) Carnatic music, D) Bus",
+    "options": [
+      "Rhythm and blues",
+      "Yip",
+      "Carnatic music",
+      "Bus"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Bus",
+    "original_labels": [
+      "Bus",
+      "Vehicle",
+      "Speech",
+      "Traffic noise, roadway noise"
+    ],
+    "original_sample_id": 38,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3z5mFRgbxc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Clip-clop, B) Vehicle, C) Tearing, D) Saxophone",
+    "options": [
+      "Clip-clop",
+      "Vehicle",
+      "Tearing",
+      "Saxophone"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Vehicle",
+    "original_labels": [
+      "Bus",
+      "Vehicle",
+      "Speech",
+      "Traffic noise, roadway noise"
+    ],
+    "original_sample_id": 38,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3z5mFRgbxc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Filing (rasp), C) Telephone, D) Maraca",
+    "options": [
+      "Speech",
+      "Filing (rasp)",
+      "Telephone",
+      "Maraca"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Bus",
+      "Vehicle",
+      "Speech",
+      "Traffic noise, roadway noise"
+    ],
+    "original_sample_id": 38,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-3z5mFRgbxc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Inside, large room or hall, B) Pulse, C) Mandolin, D) Traffic noise, roadway noise",
+    "options": [
+      "Inside, large room or hall",
+      "Pulse",
+      "Mandolin",
+      "Traffic noise, roadway noise"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Traffic noise, roadway noise",
+    "original_labels": [
+      "Bus",
+      "Vehicle",
+      "Speech",
+      "Traffic noise, roadway noise"
+    ],
+    "original_sample_id": 38,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-47nPCeukVc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sine wave, B) Independent music, C) Vehicle, D) Trombone",
+    "options": [
+      "Sine wave",
+      "Independent music",
+      "Vehicle",
+      "Trombone"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Vehicle",
+    "original_labels": [
+      "Vehicle",
+      "Air brake"
+    ],
+    "original_sample_id": 39,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-47nPCeukVc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Air brake, B) Firecracker, C) Whale vocalization, D) Punk rock",
+    "options": [
+      "Air brake",
+      "Firecracker",
+      "Whale vocalization",
+      "Punk rock"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Air brake",
+    "original_labels": [
+      "Vehicle",
+      "Air brake"
+    ],
+    "original_sample_id": 39,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4SYC2YgzL8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rhythm and blues, B) Microwave oven, C) Motor vehicle (road), D) Music",
+    "options": [
+      "Rhythm and blues",
+      "Microwave oven",
+      "Motor vehicle (road)",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Wedding music",
+      "Classical music"
+    ],
+    "original_sample_id": 40,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4SYC2YgzL8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Children playing, B) Wedding music, C) Ice cream truck, ice cream van, D) Speech",
+    "options": [
+      "Children playing",
+      "Wedding music",
+      "Ice cream truck, ice cream van",
+      "Speech"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Wedding music",
+    "original_labels": [
+      "Music",
+      "Wedding music",
+      "Classical music"
+    ],
+    "original_sample_id": 40,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4SYC2YgzL8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Whip, B) Vibration, C) Tick, D) Classical music",
+    "options": [
+      "Whip",
+      "Vibration",
+      "Tick",
+      "Classical music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Classical music",
+    "original_labels": [
+      "Music",
+      "Wedding music",
+      "Classical music"
+    ],
+    "original_sample_id": 40,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4kkGS4-qVM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Clarinet, B) Harmonic, C) Independent music, D) Sound effect",
+    "options": [
+      "Clarinet",
+      "Harmonic",
+      "Independent music",
+      "Sound effect"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Clarinet",
+    "original_labels": [
+      "Clarinet",
+      "Wind instrument, woodwind instrument",
+      "Shofar"
+    ],
+    "original_sample_id": 41,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4kkGS4-qVM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Wind instrument, woodwind instrument, B) Subway, metro, underground, C) Vehicle, D) Roar",
+    "options": [
+      "Wind instrument, woodwind instrument",
+      "Subway, metro, underground",
+      "Vehicle",
+      "Roar"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Wind instrument, woodwind instrument",
+    "original_labels": [
+      "Clarinet",
+      "Wind instrument, woodwind instrument",
+      "Shofar"
+    ],
+    "original_sample_id": 41,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4kkGS4-qVM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Jingle (music), B) Pig, C) Shofar, D) Marimba, xylophone",
+    "options": [
+      "Jingle (music)",
+      "Pig",
+      "Shofar",
+      "Marimba, xylophone"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Shofar",
+    "original_labels": [
+      "Clarinet",
+      "Wind instrument, woodwind instrument",
+      "Shofar"
+    ],
+    "original_sample_id": 41,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4pmCrSdMhg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Croak, B) Flamenco, C) Music, D) Power windows, electric windows",
+    "options": [
+      "Croak",
+      "Flamenco",
+      "Music",
+      "Power windows, electric windows"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Clip-clop",
+      "Speech"
+    ],
+    "original_sample_id": 42,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4pmCrSdMhg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Mouse, B) Clip-clop, C) Clang, D) Middle Eastern music",
+    "options": [
+      "Mouse",
+      "Clip-clop",
+      "Clang",
+      "Middle Eastern music"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Clip-clop",
+    "original_labels": [
+      "Music",
+      "Clip-clop",
+      "Speech"
+    ],
+    "original_sample_id": 42,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4pmCrSdMhg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Saxophone, B) Patter, C) Fire, D) Speech",
+    "options": [
+      "Saxophone",
+      "Patter",
+      "Fire",
+      "Speech"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Clip-clop",
+      "Speech"
+    ],
+    "original_sample_id": 42,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4viN_EoxOA.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Medium engine (mid frequency), B) Brass instrument, C) Breaking, D) Bluegrass",
+    "options": [
+      "Medium engine (mid frequency)",
+      "Brass instrument",
+      "Breaking",
+      "Bluegrass"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Brass instrument",
+    "original_labels": [
+      "Brass instrument",
+      "Saxophone"
+    ],
+    "original_sample_id": 43,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-4viN_EoxOA.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Saxophone, B) Ambient music, C) Whimper (dog), D) Clatter",
+    "options": [
+      "Saxophone",
+      "Ambient music",
+      "Whimper (dog)",
+      "Clatter"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Saxophone",
+    "original_labels": [
+      "Brass instrument",
+      "Saxophone"
+    ],
+    "original_sample_id": 43,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-53zl3bPmpM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Fixed-wing aircraft, airplane, B) Rhythm and blues, C) Throat clearing, D) Music",
+    "options": [
+      "Fixed-wing aircraft, airplane",
+      "Rhythm and blues",
+      "Throat clearing",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Bang",
+      "Speech"
+    ],
+    "original_sample_id": 44,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-53zl3bPmpM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Country, B) Cap gun, C) Bang, D) Snort",
+    "options": [
+      "Country",
+      "Cap gun",
+      "Bang",
+      "Snort"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Bang",
+    "original_labels": [
+      "Music",
+      "Bang",
+      "Speech"
+    ],
+    "original_sample_id": 44,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-53zl3bPmpM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Dubstep, B) Drum kit, C) Piano, D) Speech",
+    "options": [
+      "Dubstep",
+      "Drum kit",
+      "Piano",
+      "Speech"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Bang",
+      "Speech"
+    ],
+    "original_sample_id": 44,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-5CGQGSFGyg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Organ, B) Heavy engine (low frequency), C) Steelpan, D) Siren",
+    "options": [
+      "Organ",
+      "Heavy engine (low frequency)",
+      "Steelpan",
+      "Siren"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Organ",
+    "original_labels": [
+      "Organ",
+      "Electric piano",
+      "Electronic organ",
+      "Keyboard (musical)",
+      "Piano"
+    ],
+    "original_sample_id": 45,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-5CGQGSFGyg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Tapping (guitar technique), B) Pink noise, C) Busy signal, D) Electric piano",
+    "options": [
+      "Tapping (guitar technique)",
+      "Pink noise",
+      "Busy signal",
+      "Electric piano"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Electric piano",
+    "original_labels": [
+      "Organ",
+      "Electric piano",
+      "Electronic organ",
+      "Keyboard (musical)",
+      "Piano"
+    ],
+    "original_sample_id": 45,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-5CGQGSFGyg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Electric guitar, B) Chewing, mastication, C) Electronic organ, D) Male speech, man speaking",
+    "options": [
+      "Electric guitar",
+      "Chewing, mastication",
+      "Electronic organ",
+      "Male speech, man speaking"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Electronic organ",
+    "original_labels": [
+      "Organ",
+      "Electric piano",
+      "Electronic organ",
+      "Keyboard (musical)",
+      "Piano"
+    ],
+    "original_sample_id": 45,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-5CGQGSFGyg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Keyboard (musical), B) Electric guitar, C) Accordion, D) Squawk",
+    "options": [
+      "Keyboard (musical)",
+      "Electric guitar",
+      "Accordion",
+      "Squawk"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Keyboard (musical)",
+    "original_labels": [
+      "Organ",
+      "Electric piano",
+      "Electronic organ",
+      "Keyboard (musical)",
+      "Piano"
+    ],
+    "original_sample_id": 45,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-5CGQGSFGyg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Piano, B) Noise, C) Hiss, D) Bee, wasp, etc.",
+    "options": [
+      "Piano",
+      "Noise",
+      "Hiss",
+      "Bee, wasp, etc."
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Piano",
+    "original_labels": [
+      "Organ",
+      "Electric piano",
+      "Electronic organ",
+      "Keyboard (musical)",
+      "Piano"
+    ],
+    "original_sample_id": 45,
+    "label_index_in_original": 4
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-5FoeegAgvU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Toot, B) Music, C) Hiss, D) Cash register",
+    "options": [
+      "Toot",
+      "Music",
+      "Hiss",
+      "Cash register"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Thunk"
+    ],
+    "original_sample_id": 46,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-5FoeegAgvU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Country, B) Thunk, C) Harpsichord, D) Strum",
+    "options": [
+      "Country",
+      "Thunk",
+      "Harpsichord",
+      "Strum"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Thunk",
+    "original_labels": [
+      "Music",
+      "Thunk"
+    ],
+    "original_sample_id": 46,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-5PZ_Bh-M6o.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Heart sounds, heartbeat, B) Cat, C) Emergency vehicle, D) Busy signal",
+    "options": [
+      "Heart sounds, heartbeat",
+      "Cat",
+      "Emergency vehicle",
+      "Busy signal"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Heart sounds, heartbeat",
+    "original_labels": [
+      "Heart sounds, heartbeat"
+    ],
+    "original_sample_id": 47
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-65CfQUX9Ng.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Pour, B) Television, C) Tuning fork, D) Crumpling, crinkling",
+    "options": [
+      "Pour",
+      "Television",
+      "Tuning fork",
+      "Crumpling, crinkling"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Pour",
+    "original_labels": [
+      "Pour"
+    ],
+    "original_sample_id": 48
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6Aq2fJwlgU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Marimba, xylophone, B) Wind, C) Smash, crash, D) Whispering",
+    "options": [
+      "Marimba, xylophone",
+      "Wind",
+      "Smash, crash",
+      "Whispering"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Smash, crash",
+    "original_labels": [
+      "Smash, crash",
+      "Whack, thwack"
+    ],
+    "original_sample_id": 49,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6Aq2fJwlgU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Tap, B) Pulleys, C) Jazz, D) Whack, thwack",
+    "options": [
+      "Tap",
+      "Pulleys",
+      "Jazz",
+      "Whack, thwack"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Whack, thwack",
+    "original_labels": [
+      "Smash, crash",
+      "Whack, thwack"
+    ],
+    "original_sample_id": 49,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6GcdDStIwM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Dental drill, dentist's drill, B) Mantra, C) Bird flight, flapping wings, D) Baby laughter",
+    "options": [
+      "Dental drill, dentist's drill",
+      "Mantra",
+      "Bird flight, flapping wings",
+      "Baby laughter"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Dental drill, dentist's drill",
+    "original_labels": [
+      "Dental drill, dentist's drill",
+      "Sound effect"
+    ],
+    "original_sample_id": 50,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6GcdDStIwM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Fire engine, fire truck (siren), B) Moo, C) Sound effect, D) Telephone bell ringing",
+    "options": [
+      "Fire engine, fire truck (siren)",
+      "Moo",
+      "Sound effect",
+      "Telephone bell ringing"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Sound effect",
+    "original_labels": [
+      "Dental drill, dentist's drill",
+      "Sound effect"
+    ],
+    "original_sample_id": 50,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6HBGg1cAI0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Roll, B) Traditional music, C) Rapping, D) Splash, splatter",
+    "options": [
+      "Roll",
+      "Traditional music",
+      "Rapping",
+      "Splash, splatter"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Traditional music",
+    "original_labels": [
+      "Traditional music",
+      "Music",
+      "Middle Eastern music"
+    ],
+    "original_sample_id": 51,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6HBGg1cAI0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Railroad car, train wagon, C) Electronic dance music, D) Squawk",
+    "options": [
+      "Music",
+      "Railroad car, train wagon",
+      "Electronic dance music",
+      "Squawk"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Traditional music",
+      "Music",
+      "Middle Eastern music"
+    ],
+    "original_sample_id": 51,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6HBGg1cAI0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Middle Eastern music, B) Chink, clink, C) Belly laugh, D) Toothbrush",
+    "options": [
+      "Middle Eastern music",
+      "Chink, clink",
+      "Belly laugh",
+      "Toothbrush"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Middle Eastern music",
+    "original_labels": [
+      "Traditional music",
+      "Music",
+      "Middle Eastern music"
+    ],
+    "original_sample_id": 51,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6JnAxTXApw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sonar, B) White noise, C) Cowbell, D) Accelerating, revving, vroom",
+    "options": [
+      "Sonar",
+      "White noise",
+      "Cowbell",
+      "Accelerating, revving, vroom"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "White noise",
+    "original_labels": [
+      "White noise"
+    ],
+    "original_sample_id": 52
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6cTEqIcics.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Fly, housefly, B) Saxophone, C) Siren, D) Whoosh, swoosh, swish",
+    "options": [
+      "Fly, housefly",
+      "Saxophone",
+      "Siren",
+      "Whoosh, swoosh, swish"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Siren",
+    "original_labels": [
+      "Siren",
+      "Civil defense siren"
+    ],
+    "original_sample_id": 53,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-6cTEqIcics.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Civil defense siren, B) Mallet percussion, C) Dental drill, dentist's drill, D) Music of Bollywood",
+    "options": [
+      "Civil defense siren",
+      "Mallet percussion",
+      "Dental drill, dentist's drill",
+      "Music of Bollywood"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Civil defense siren",
+    "original_labels": [
+      "Siren",
+      "Civil defense siren"
+    ],
+    "original_sample_id": 53,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7B9tPuIP-w.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bass guitar, B) Blues, C) Hum, D) Crowd",
+    "options": [
+      "Bass guitar",
+      "Blues",
+      "Hum",
+      "Crowd"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Blues",
+    "original_labels": [
+      "Blues",
+      "Music",
+      "Yell"
+    ],
+    "original_sample_id": 54,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7B9tPuIP-w.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Chorus effect, B) Heart murmur, C) Speech synthesizer, D) Music",
+    "options": [
+      "Chorus effect",
+      "Heart murmur",
+      "Speech synthesizer",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Blues",
+      "Music",
+      "Yell"
+    ],
+    "original_sample_id": 54,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7B9tPuIP-w.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Yell, B) New-age music, C) Echo, D) Whoosh, swoosh, swish",
+    "options": [
+      "Yell",
+      "New-age music",
+      "Echo",
+      "Whoosh, swoosh, swish"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Yell",
+    "original_labels": [
+      "Blues",
+      "Music",
+      "Yell"
+    ],
+    "original_sample_id": 54,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7IhwezUrUA.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Independent music, B) Cutlery, silverware, C) Traditional music, D) Ukulele",
+    "options": [
+      "Independent music",
+      "Cutlery, silverware",
+      "Traditional music",
+      "Ukulele"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Cutlery, silverware",
+    "original_labels": [
+      "Cutlery, silverware"
+    ],
+    "original_sample_id": 55
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7TanrCbmME.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Carnatic music, C) Yodeling, D) Disco",
+    "options": [
+      "Music",
+      "Carnatic music",
+      "Yodeling",
+      "Disco"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Child singing"
+    ],
+    "original_sample_id": 56,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7TanrCbmME.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Yip, C) Accordion, D) Mallet percussion",
+    "options": [
+      "Speech",
+      "Yip",
+      "Accordion",
+      "Mallet percussion"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Child singing"
+    ],
+    "original_sample_id": 56,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7TanrCbmME.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Child singing, B) Drum kit, C) Whimper (dog), D) Tick",
+    "options": [
+      "Child singing",
+      "Drum kit",
+      "Whimper (dog)",
+      "Tick"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Child singing",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Child singing"
+    ],
+    "original_sample_id": 56,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7YESdyyHVw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Pulleys, B) Cowbell, C) Toothbrush, D) Sigh",
+    "options": [
+      "Pulleys",
+      "Cowbell",
+      "Toothbrush",
+      "Sigh"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Cowbell",
+    "original_labels": [
+      "Cowbell"
+    ],
+    "original_sample_id": 57
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7eDqv-6AKQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Spray, B) Hoot, C) Siren, D) Vehicle",
+    "options": [
+      "Spray",
+      "Hoot",
+      "Siren",
+      "Vehicle"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Vehicle",
+    "original_labels": [
+      "Vehicle",
+      "Air brake",
+      "Car"
+    ],
+    "original_sample_id": 58,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7eDqv-6AKQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Single-lens reflex camera, B) Ska, C) Air brake, D) Duck",
+    "options": [
+      "Single-lens reflex camera",
+      "Ska",
+      "Air brake",
+      "Duck"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Air brake",
+    "original_labels": [
+      "Vehicle",
+      "Air brake",
+      "Car"
+    ],
+    "original_sample_id": 58,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7eDqv-6AKQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rain on surface, B) Wind noise (microphone), C) Car, D) Clarinet",
+    "options": [
+      "Rain on surface",
+      "Wind noise (microphone)",
+      "Car",
+      "Clarinet"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Car",
+    "original_labels": [
+      "Vehicle",
+      "Air brake",
+      "Car"
+    ],
+    "original_sample_id": 58,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7vpNApSN8g.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Drawer open or close, B) Splinter, C) Dental drill, dentist's drill, D) Animal",
+    "options": [
+      "Drawer open or close",
+      "Splinter",
+      "Dental drill, dentist's drill",
+      "Animal"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Dental drill, dentist's drill",
+    "original_labels": [
+      "Dental drill, dentist's drill",
+      "Inside, small room"
+    ],
+    "original_sample_id": 59,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-7vpNApSN8g.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Snicker, B) Reverberation, C) Male speech, man speaking, D) Inside, small room",
+    "options": [
+      "Snicker",
+      "Reverberation",
+      "Male speech, man speaking",
+      "Inside, small room"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Inside, small room",
+    "original_labels": [
+      "Dental drill, dentist's drill",
+      "Inside, small room"
+    ],
+    "original_sample_id": 59,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-88me9bBzrk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Whale vocalization, B) Printer, C) Bellow, D) Carnatic music",
+    "options": [
+      "Whale vocalization",
+      "Printer",
+      "Bellow",
+      "Carnatic music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Carnatic music",
+    "original_labels": [
+      "Carnatic music",
+      "Music"
+    ],
+    "original_sample_id": 60,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-88me9bBzrk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Heavy engine (low frequency), B) Techno, C) Choir, D) Music",
+    "options": [
+      "Heavy engine (low frequency)",
+      "Techno",
+      "Choir",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Carnatic music",
+      "Music"
+    ],
+    "original_sample_id": 60,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8C-gydUbR8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Engine knocking, B) Thunderstorm, C) Pant, D) Music",
+    "options": [
+      "Engine knocking",
+      "Thunderstorm",
+      "Pant",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Male singing",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 61,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8C-gydUbR8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Saxophone, B) Male singing, C) Breathing, D) Opera",
+    "options": [
+      "Saxophone",
+      "Male singing",
+      "Breathing",
+      "Opera"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Male singing",
+    "original_labels": [
+      "Music",
+      "Male singing",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 61,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8C-gydUbR8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Fire engine, fire truck (siren), B) Squeal, C) Female singing, D) Inside, large room or hall",
+    "options": [
+      "Fire engine, fire truck (siren)",
+      "Squeal",
+      "Female singing",
+      "Inside, large room or hall"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Female singing",
+    "original_labels": [
+      "Music",
+      "Male singing",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 61,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8C-gydUbR8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Ice cream truck, ice cream van, B) Wild animals, C) Child singing, D) Sitar",
+    "options": [
+      "Ice cream truck, ice cream van",
+      "Wild animals",
+      "Child singing",
+      "Sitar"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Child singing",
+    "original_labels": [
+      "Music",
+      "Male singing",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 61,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8Ds_ZrtQ9M.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Keyboard (musical), B) Train horn, C) Jingle, tinkle, D) Mechanical fan",
+    "options": [
+      "Keyboard (musical)",
+      "Train horn",
+      "Jingle, tinkle",
+      "Mechanical fan"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Mechanical fan",
+    "original_labels": [
+      "Mechanical fan"
+    ],
+    "original_sample_id": 62
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8Mzg0pjOzc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Electric shaver, electric razor, C) Throbbing, D) Cattle, bovinae",
+    "options": [
+      "Music",
+      "Electric shaver, electric razor",
+      "Throbbing",
+      "Cattle, bovinae"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Dental drill, dentist's drill",
+      "Speech"
+    ],
+    "original_sample_id": 63,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8Mzg0pjOzc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Train, B) Subway, metro, underground, C) Dental drill, dentist's drill, D) Jet engine",
+    "options": [
+      "Train",
+      "Subway, metro, underground",
+      "Dental drill, dentist's drill",
+      "Jet engine"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Dental drill, dentist's drill",
+    "original_labels": [
+      "Music",
+      "Dental drill, dentist's drill",
+      "Speech"
+    ],
+    "original_sample_id": 63,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8Mzg0pjOzc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Waterfall, C) Clip-clop, D) House music",
+    "options": [
+      "Speech",
+      "Waterfall",
+      "Clip-clop",
+      "House music"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Dental drill, dentist's drill",
+      "Speech"
+    ],
+    "original_sample_id": 63,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8cgbhIR_pw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Orchestra, B) Snicker, C) Acoustic guitar, D) Bagpipes",
+    "options": [
+      "Orchestra",
+      "Snicker",
+      "Acoustic guitar",
+      "Bagpipes"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Acoustic guitar",
+    "original_labels": [
+      "Acoustic guitar",
+      "Music",
+      "Musical instrument",
+      "Steel guitar, slide guitar",
+      "Strum",
+      "Plucked string instrument",
+      "Tender music"
+    ],
+    "original_sample_id": 64,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8cgbhIR_pw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Wind chime, B) Hi-hat, C) Music, D) Music of Bollywood",
+    "options": [
+      "Wind chime",
+      "Hi-hat",
+      "Music",
+      "Music of Bollywood"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Acoustic guitar",
+      "Music",
+      "Musical instrument",
+      "Steel guitar, slide guitar",
+      "Strum",
+      "Plucked string instrument",
+      "Tender music"
+    ],
+    "original_sample_id": 64,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8cgbhIR_pw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Church bell, B) Dishes, pots, and pans, C) Jet engine, D) Musical instrument",
+    "options": [
+      "Church bell",
+      "Dishes, pots, and pans",
+      "Jet engine",
+      "Musical instrument"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Musical instrument",
+    "original_labels": [
+      "Acoustic guitar",
+      "Music",
+      "Musical instrument",
+      "Steel guitar, slide guitar",
+      "Strum",
+      "Plucked string instrument",
+      "Tender music"
+    ],
+    "original_sample_id": 64,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8cgbhIR_pw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Dental drill, dentist's drill, B) Screaming, C) Bell, D) Steel guitar, slide guitar",
+    "options": [
+      "Dental drill, dentist's drill",
+      "Screaming",
+      "Bell",
+      "Steel guitar, slide guitar"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Steel guitar, slide guitar",
+    "original_labels": [
+      "Acoustic guitar",
+      "Music",
+      "Musical instrument",
+      "Steel guitar, slide guitar",
+      "Strum",
+      "Plucked string instrument",
+      "Tender music"
+    ],
+    "original_sample_id": 64,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8cgbhIR_pw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Strum, B) Giggle, C) Field recording, D) Steam whistle",
+    "options": [
+      "Strum",
+      "Giggle",
+      "Field recording",
+      "Steam whistle"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Strum",
+    "original_labels": [
+      "Acoustic guitar",
+      "Music",
+      "Musical instrument",
+      "Steel guitar, slide guitar",
+      "Strum",
+      "Plucked string instrument",
+      "Tender music"
+    ],
+    "original_sample_id": 64,
+    "label_index_in_original": 4
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8cgbhIR_pw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Plucked string instrument, B) Emergency vehicle, C) Writing, D) Mechanisms",
+    "options": [
+      "Plucked string instrument",
+      "Emergency vehicle",
+      "Writing",
+      "Mechanisms"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Plucked string instrument",
+    "original_labels": [
+      "Acoustic guitar",
+      "Music",
+      "Musical instrument",
+      "Steel guitar, slide guitar",
+      "Strum",
+      "Plucked string instrument",
+      "Tender music"
+    ],
+    "original_sample_id": 64,
+    "label_index_in_original": 5
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8cgbhIR_pw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rhythm and blues, B) Cowbell, C) Vehicle, D) Tender music",
+    "options": [
+      "Rhythm and blues",
+      "Cowbell",
+      "Vehicle",
+      "Tender music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Tender music",
+    "original_labels": [
+      "Acoustic guitar",
+      "Music",
+      "Musical instrument",
+      "Steel guitar, slide guitar",
+      "Strum",
+      "Plucked string instrument",
+      "Tender music"
+    ],
+    "original_sample_id": 64,
+    "label_index_in_original": 6
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8pCMgGKZY8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Shatter, B) Snoring, C) Music, D) Chop",
+    "options": [
+      "Shatter",
+      "Snoring",
+      "Music",
+      "Chop"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Domestic animals, pets",
+      "Yip",
+      "Bow-wow",
+      "Speech",
+      "Dog",
+      "Animal",
+      "Whimper (dog)"
+    ],
+    "original_sample_id": 65,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8pCMgGKZY8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Domestic animals, pets, B) Crunch, C) Shofar, D) Train horn",
+    "options": [
+      "Domestic animals, pets",
+      "Crunch",
+      "Shofar",
+      "Train horn"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Domestic animals, pets",
+    "original_labels": [
+      "Music",
+      "Domestic animals, pets",
+      "Yip",
+      "Bow-wow",
+      "Speech",
+      "Dog",
+      "Animal",
+      "Whimper (dog)"
+    ],
+    "original_sample_id": 65,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8pCMgGKZY8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Coin (dropping), B) Shuffling cards, C) Yip, D) House music",
+    "options": [
+      "Coin (dropping)",
+      "Shuffling cards",
+      "Yip",
+      "House music"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Yip",
+    "original_labels": [
+      "Music",
+      "Domestic animals, pets",
+      "Yip",
+      "Bow-wow",
+      "Speech",
+      "Dog",
+      "Animal",
+      "Whimper (dog)"
+    ],
+    "original_sample_id": 65,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8pCMgGKZY8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bow-wow, B) Harpsichord, C) Turkey, D) Canidae, dogs, wolves",
+    "options": [
+      "Bow-wow",
+      "Harpsichord",
+      "Turkey",
+      "Canidae, dogs, wolves"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Bow-wow",
+    "original_labels": [
+      "Music",
+      "Domestic animals, pets",
+      "Yip",
+      "Bow-wow",
+      "Speech",
+      "Dog",
+      "Animal",
+      "Whimper (dog)"
+    ],
+    "original_sample_id": 65,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8pCMgGKZY8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Blues, B) Double bass, C) Creak, D) Speech",
+    "options": [
+      "Blues",
+      "Double bass",
+      "Creak",
+      "Speech"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Domestic animals, pets",
+      "Yip",
+      "Bow-wow",
+      "Speech",
+      "Dog",
+      "Animal",
+      "Whimper (dog)"
+    ],
+    "original_sample_id": 65,
+    "label_index_in_original": 4
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8pCMgGKZY8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Dog, B) Civil defense siren, C) Howl, D) Crackle",
+    "options": [
+      "Dog",
+      "Civil defense siren",
+      "Howl",
+      "Crackle"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Dog",
+    "original_labels": [
+      "Music",
+      "Domestic animals, pets",
+      "Yip",
+      "Bow-wow",
+      "Speech",
+      "Dog",
+      "Animal",
+      "Whimper (dog)"
+    ],
+    "original_sample_id": 65,
+    "label_index_in_original": 5
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8pCMgGKZY8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Shuffle, B) Animal, C) String section, D) Electric shaver, electric razor",
+    "options": [
+      "Shuffle",
+      "Animal",
+      "String section",
+      "Electric shaver, electric razor"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Animal",
+    "original_labels": [
+      "Music",
+      "Domestic animals, pets",
+      "Yip",
+      "Bow-wow",
+      "Speech",
+      "Dog",
+      "Animal",
+      "Whimper (dog)"
+    ],
+    "original_sample_id": 65,
+    "label_index_in_original": 6
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8pCMgGKZY8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Mouse, B) Whistle, C) Squawk, D) Whimper (dog)",
+    "options": [
+      "Mouse",
+      "Whistle",
+      "Squawk",
+      "Whimper (dog)"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Whimper (dog)",
+    "original_labels": [
+      "Music",
+      "Domestic animals, pets",
+      "Yip",
+      "Bow-wow",
+      "Speech",
+      "Dog",
+      "Animal",
+      "Whimper (dog)"
+    ],
+    "original_sample_id": 65,
+    "label_index_in_original": 7
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-8s8gqSkRzI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Throbbing, B) Gasp, C) Thump, thud, D) Hammer",
+    "options": [
+      "Throbbing",
+      "Gasp",
+      "Thump, thud",
+      "Hammer"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Gasp",
+    "original_labels": [
+      "Gasp"
+    ],
+    "original_sample_id": 66
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-95a1RB0jHs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sanding, B) Explosion, C) Sewing machine, D) Buzz",
+    "options": [
+      "Sanding",
+      "Explosion",
+      "Sewing machine",
+      "Buzz"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Explosion",
+    "original_labels": [
+      "Explosion",
+      "Eruption"
+    ],
+    "original_sample_id": 67,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-95a1RB0jHs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Choir, B) Eruption, C) Toothbrush, D) Crowd",
+    "options": [
+      "Choir",
+      "Eruption",
+      "Toothbrush",
+      "Crowd"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Eruption",
+    "original_labels": [
+      "Explosion",
+      "Eruption"
+    ],
+    "original_sample_id": 67,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-98gqe2LWcg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Independent music, B) Liquid, C) Rapping, D) Bouncing",
+    "options": [
+      "Independent music",
+      "Liquid",
+      "Rapping",
+      "Bouncing"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Liquid",
+    "original_labels": [
+      "Liquid",
+      "Boiling"
+    ],
+    "original_sample_id": 68,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-98gqe2LWcg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Gospel music, B) Boiling, C) Hair dryer, D) Carnatic music",
+    "options": [
+      "Gospel music",
+      "Boiling",
+      "Hair dryer",
+      "Carnatic music"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Boiling",
+    "original_labels": [
+      "Liquid",
+      "Boiling"
+    ],
+    "original_sample_id": 68,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-9O1cb8z7Mk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Fusillade, B) Drawer open or close, C) Middle Eastern music, D) Accordion",
+    "options": [
+      "Fusillade",
+      "Drawer open or close",
+      "Middle Eastern music",
+      "Accordion"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Fusillade",
+    "original_labels": [
+      "Fusillade"
+    ],
+    "original_sample_id": 69
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-9mHz0OsKKw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Computer keyboard, B) Bark, C) Toot, D) Female speech, woman speaking",
+    "options": [
+      "Computer keyboard",
+      "Bark",
+      "Toot",
+      "Female speech, woman speaking"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Toot",
+    "original_labels": [
+      "Toot",
+      "Vehicle",
+      "Car",
+      "Outside, urban or manmade"
+    ],
+    "original_sample_id": 70,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-9mHz0OsKKw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Punk rock, B) Vehicle, C) Applause, D) Howl",
+    "options": [
+      "Punk rock",
+      "Vehicle",
+      "Applause",
+      "Howl"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Vehicle",
+    "original_labels": [
+      "Toot",
+      "Vehicle",
+      "Car",
+      "Outside, urban or manmade"
+    ],
+    "original_sample_id": 70,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-9mHz0OsKKw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Country, B) Stomach rumble, C) Crying, sobbing, D) Car",
+    "options": [
+      "Country",
+      "Stomach rumble",
+      "Crying, sobbing",
+      "Car"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Car",
+    "original_labels": [
+      "Toot",
+      "Vehicle",
+      "Car",
+      "Outside, urban or manmade"
+    ],
+    "original_sample_id": 70,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-9mHz0OsKKw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Toilet flush, B) Outside, urban or manmade, C) Coin (dropping), D) Scary music",
+    "options": [
+      "Toilet flush",
+      "Outside, urban or manmade",
+      "Coin (dropping)",
+      "Scary music"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Outside, urban or manmade",
+    "original_labels": [
+      "Toot",
+      "Vehicle",
+      "Car",
+      "Outside, urban or manmade"
+    ],
+    "original_sample_id": 70,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-9phJ0sJrXg.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Battle cry, B) Train, C) Outside, urban or manmade, D) Synthetic singing",
+    "options": [
+      "Battle cry",
+      "Train",
+      "Outside, urban or manmade",
+      "Synthetic singing"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Synthetic singing",
+    "original_labels": [
+      "Synthetic singing"
+    ],
+    "original_sample_id": 71
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-A-Un_X21lU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Swing music, B) Clock, C) Sawing, D) Whimper (dog)",
+    "options": [
+      "Swing music",
+      "Clock",
+      "Sawing",
+      "Whimper (dog)"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Sawing",
+    "original_labels": [
+      "Sawing",
+      "Rub",
+      "Wood"
+    ],
+    "original_sample_id": 72,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-A-Un_X21lU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rub, B) Drum, C) Cap gun, D) Psychedelic rock",
+    "options": [
+      "Rub",
+      "Drum",
+      "Cap gun",
+      "Psychedelic rock"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Rub",
+    "original_labels": [
+      "Sawing",
+      "Rub",
+      "Wood"
+    ],
+    "original_sample_id": 72,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-A-Un_X21lU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Single-lens reflex camera, B) Noise, C) Wood, D) Toot",
+    "options": [
+      "Single-lens reflex camera",
+      "Noise",
+      "Wood",
+      "Toot"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Wood",
+    "original_labels": [
+      "Sawing",
+      "Rub",
+      "Wood"
+    ],
+    "original_sample_id": 72,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-A1o1Egi20c.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Church bell, B) Tabla, C) Tire squeal, D) Gush",
+    "options": [
+      "Church bell",
+      "Tabla",
+      "Tire squeal",
+      "Gush"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Church bell",
+    "original_labels": [
+      "Church bell"
+    ],
+    "original_sample_id": 73
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-A3zsFeU_OI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Static, B) Sneeze, C) Toot, D) Snicker",
+    "options": [
+      "Static",
+      "Sneeze",
+      "Toot",
+      "Snicker"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Snicker",
+    "original_labels": [
+      "Snicker",
+      "Speech"
+    ],
+    "original_sample_id": 74,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-A3zsFeU_OI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Shout, C) Keyboard (musical), D) Plucked string instrument",
+    "options": [
+      "Speech",
+      "Shout",
+      "Keyboard (musical)",
+      "Plucked string instrument"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Snicker",
+      "Speech"
+    ],
+    "original_sample_id": 74,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ABOfhcXwt8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Choir, B) Children playing, C) Car, D) Run",
+    "options": [
+      "Choir",
+      "Children playing",
+      "Car",
+      "Run"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Run",
+    "original_labels": [
+      "Run",
+      "Speech"
+    ],
+    "original_sample_id": 75,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ABOfhcXwt8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Shofar, B) Speech, C) Busy signal, D) Cymbal",
+    "options": [
+      "Shofar",
+      "Speech",
+      "Busy signal",
+      "Cymbal"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Run",
+      "Speech"
+    ],
+    "original_sample_id": 75,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ANxUxvGASw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Strum, B) Sad music, C) Squawk, D) Subway, metro, underground",
+    "options": [
+      "Strum",
+      "Sad music",
+      "Squawk",
+      "Subway, metro, underground"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Subway, metro, underground",
+    "original_labels": [
+      "Subway, metro, underground",
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Clickety-clack",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 76,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ANxUxvGASw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Clatter, B) Zipper (clothing), C) Railroad car, train wagon, D) Rustle",
+    "options": [
+      "Clatter",
+      "Zipper (clothing)",
+      "Railroad car, train wagon",
+      "Rustle"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Railroad car, train wagon",
+    "original_labels": [
+      "Subway, metro, underground",
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Clickety-clack",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 76,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ANxUxvGASw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rumble, B) Harpsichord, C) Rail transport, D) Cluck",
+    "options": [
+      "Rumble",
+      "Harpsichord",
+      "Rail transport",
+      "Cluck"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Rail transport",
+    "original_labels": [
+      "Subway, metro, underground",
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Clickety-clack",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 76,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ANxUxvGASw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Heart sounds, heartbeat, B) Bark, C) Train, D) Tap",
+    "options": [
+      "Heart sounds, heartbeat",
+      "Bark",
+      "Train",
+      "Tap"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Train",
+    "original_labels": [
+      "Subway, metro, underground",
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Clickety-clack",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 76,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ANxUxvGASw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Mechanisms, B) Rhythm and blues, C) Clickety-clack, D) Pink noise",
+    "options": [
+      "Mechanisms",
+      "Rhythm and blues",
+      "Clickety-clack",
+      "Pink noise"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Clickety-clack",
+    "original_labels": [
+      "Subway, metro, underground",
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Clickety-clack",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 76,
+    "label_index_in_original": 4
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ANxUxvGASw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Carnatic music, B) Train wheels squealing, C) Sonar, D) Double bass",
+    "options": [
+      "Carnatic music",
+      "Train wheels squealing",
+      "Sonar",
+      "Double bass"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Train wheels squealing",
+    "original_labels": [
+      "Subway, metro, underground",
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Clickety-clack",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 76,
+    "label_index_in_original": 5
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-AeiYb4vDK0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Chewing, mastication, B) Hammer, C) Chorus effect, D) Sine wave",
+    "options": [
+      "Chewing, mastication",
+      "Hammer",
+      "Chorus effect",
+      "Sine wave"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Chewing, mastication",
+    "original_labels": [
+      "Chewing, mastication",
+      "Biting",
+      "Speech",
+      "Animal",
+      "Outside, rural or natural"
+    ],
+    "original_sample_id": 77,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-AeiYb4vDK0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Electronic dance music, B) Biting, C) Pour, D) Shofar",
+    "options": [
+      "Electronic dance music",
+      "Biting",
+      "Pour",
+      "Shofar"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Biting",
+    "original_labels": [
+      "Chewing, mastication",
+      "Biting",
+      "Speech",
+      "Animal",
+      "Outside, rural or natural"
+    ],
+    "original_sample_id": 77,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-AeiYb4vDK0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Brass instrument, B) Electronic dance music, C) Electric shaver, electric razor, D) Speech",
+    "options": [
+      "Brass instrument",
+      "Electronic dance music",
+      "Electric shaver, electric razor",
+      "Speech"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Chewing, mastication",
+      "Biting",
+      "Speech",
+      "Animal",
+      "Outside, rural or natural"
+    ],
+    "original_sample_id": 77,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-AeiYb4vDK0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Animal, B) Medium engine (mid frequency), C) Thunderstorm, D) Synthesizer",
+    "options": [
+      "Animal",
+      "Medium engine (mid frequency)",
+      "Thunderstorm",
+      "Synthesizer"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Animal",
+    "original_labels": [
+      "Chewing, mastication",
+      "Biting",
+      "Speech",
+      "Animal",
+      "Outside, rural or natural"
+    ],
+    "original_sample_id": 77,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-AeiYb4vDK0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Hammer, B) Meow, C) Steam whistle, D) Outside, rural or natural",
+    "options": [
+      "Hammer",
+      "Meow",
+      "Steam whistle",
+      "Outside, rural or natural"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Outside, rural or natural",
+    "original_labels": [
+      "Chewing, mastication",
+      "Biting",
+      "Speech",
+      "Animal",
+      "Outside, rural or natural"
+    ],
+    "original_sample_id": 77,
+    "label_index_in_original": 4
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Am9MfJ6Z2o.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Computer keyboard, B) Wedding music, C) Cutlery, silverware, D) Music",
+    "options": [
+      "Computer keyboard",
+      "Wedding music",
+      "Cutlery, silverware",
+      "Music"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Cutlery, silverware",
+    "original_labels": [
+      "Cutlery, silverware"
+    ],
+    "original_sample_id": 78
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-BAF0DHMqVA.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Breathing, B) Bell, C) Air horn, truck horn, D) Smoke detector, smoke alarm",
+    "options": [
+      "Breathing",
+      "Bell",
+      "Air horn, truck horn",
+      "Smoke detector, smoke alarm"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Bell",
+    "original_labels": [
+      "Bell"
+    ],
+    "original_sample_id": 79
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-BHPu-dPmWQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Disco, B) Narration, monologue, C) Music, D) Keys jangling",
+    "options": [
+      "Disco",
+      "Narration, monologue",
+      "Music",
+      "Keys jangling"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Funny music"
+    ],
+    "original_sample_id": 80,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-BHPu-dPmWQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Tambourine, B) Funny music, C) Female speech, woman speaking, D) Whoop",
+    "options": [
+      "Tambourine",
+      "Funny music",
+      "Female speech, woman speaking",
+      "Whoop"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Funny music",
+    "original_labels": [
+      "Music",
+      "Funny music"
+    ],
+    "original_sample_id": 80,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-BWhd7Q43tE.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Wild animals, B) Toothbrush, C) Run, D) Cat",
+    "options": [
+      "Wild animals",
+      "Toothbrush",
+      "Run",
+      "Cat"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Toothbrush",
+    "original_labels": [
+      "Toothbrush"
+    ],
+    "original_sample_id": 81
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-BY64_p-vtM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Train wheels squealing, B) Babbling, C) Telephone bell ringing, D) Truck",
+    "options": [
+      "Train wheels squealing",
+      "Babbling",
+      "Telephone bell ringing",
+      "Truck"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Truck",
+    "original_labels": [
+      "Truck",
+      "Vehicle",
+      "Speech",
+      "Microwave oven"
+    ],
+    "original_sample_id": 82,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-BY64_p-vtM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Steam whistle, B) Musical instrument, C) Soul music, D) Vehicle",
+    "options": [
+      "Steam whistle",
+      "Musical instrument",
+      "Soul music",
+      "Vehicle"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Vehicle",
+    "original_labels": [
+      "Truck",
+      "Vehicle",
+      "Speech",
+      "Microwave oven"
+    ],
+    "original_sample_id": 82,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-BY64_p-vtM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Train whistle, B) Punk rock, C) Speech, D) Exciting music",
+    "options": [
+      "Train whistle",
+      "Punk rock",
+      "Speech",
+      "Exciting music"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Truck",
+      "Vehicle",
+      "Speech",
+      "Microwave oven"
+    ],
+    "original_sample_id": 82,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-BY64_p-vtM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Clicking, B) Microwave oven, C) Idling, D) Telephone bell ringing",
+    "options": [
+      "Clicking",
+      "Microwave oven",
+      "Idling",
+      "Telephone bell ringing"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Microwave oven",
+    "original_labels": [
+      "Truck",
+      "Vehicle",
+      "Speech",
+      "Microwave oven"
+    ],
+    "original_sample_id": 82,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Bu7YaslRW0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Plop, B) Background music, C) Reversing beeps, D) Snare drum",
+    "options": [
+      "Plop",
+      "Background music",
+      "Reversing beeps",
+      "Snare drum"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Background music",
+    "original_labels": [
+      "Background music",
+      "Theme music",
+      "Music"
+    ],
+    "original_sample_id": 83,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Bu7YaslRW0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Theme music, B) Zipper (clothing), C) Country, D) Change ringing (campanology)",
+    "options": [
+      "Theme music",
+      "Zipper (clothing)",
+      "Country",
+      "Change ringing (campanology)"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Theme music",
+    "original_labels": [
+      "Background music",
+      "Theme music",
+      "Music"
+    ],
+    "original_sample_id": 83,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Bu7YaslRW0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Horse, B) Music, C) Clatter, D) Drum and bass",
+    "options": [
+      "Horse",
+      "Music",
+      "Clatter",
+      "Drum and bass"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Music",
+    "original_labels": [
+      "Background music",
+      "Theme music",
+      "Music"
+    ],
+    "original_sample_id": 83,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Bx_-I7sB5k.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Cello, C) Dubstep, D) Fart",
+    "options": [
+      "Music",
+      "Cello",
+      "Dubstep",
+      "Fart"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 84,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Bx_-I7sB5k.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Punk rock, B) Tubular bells, C) Speech, D) Tire squeal",
+    "options": [
+      "Punk rock",
+      "Tubular bells",
+      "Speech",
+      "Tire squeal"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 84,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Bx_-I7sB5k.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Thump, thud, B) Hands, C) Car alarm, D) Ukulele",
+    "options": [
+      "Thump, thud",
+      "Hands",
+      "Car alarm",
+      "Ukulele"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Hands",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 84,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Bx_-I7sB5k.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Inside, small room, B) Cattle, bovinae, C) Rustle, D) Yodeling",
+    "options": [
+      "Inside, small room",
+      "Cattle, bovinae",
+      "Rustle",
+      "Yodeling"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Inside, small room",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Hands",
+      "Inside, small room"
+    ],
+    "original_sample_id": 84,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-By6I234TSs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bicycle, B) Shatter, C) Music, D) Burping, eructation",
+    "options": [
+      "Bicycle",
+      "Shatter",
+      "Music",
+      "Burping, eructation"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Pulse",
+      "Synthesizer"
+    ],
+    "original_sample_id": 85,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-By6I234TSs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Sitar, B) Trombone, C) Yip, D) Pulse",
+    "options": [
+      "Sitar",
+      "Trombone",
+      "Yip",
+      "Pulse"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Pulse",
+    "original_labels": [
+      "Music",
+      "Pulse",
+      "Synthesizer"
+    ],
+    "original_sample_id": 85,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-By6I234TSs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Video game music, B) Wind instrument, woodwind instrument, C) Synthesizer, D) Pulleys",
+    "options": [
+      "Video game music",
+      "Wind instrument, woodwind instrument",
+      "Synthesizer",
+      "Pulleys"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Synthesizer",
+    "original_labels": [
+      "Music",
+      "Pulse",
+      "Synthesizer"
+    ],
+    "original_sample_id": 85,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ByoSbgzr4M.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Child speech, kid speaking, B) Ringtone, C) Tapping (guitar technique), D) Classical music",
+    "options": [
+      "Child speech, kid speaking",
+      "Ringtone",
+      "Tapping (guitar technique)",
+      "Classical music"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Tapping (guitar technique)",
+    "original_labels": [
+      "Tapping (guitar technique)",
+      "Music"
+    ],
+    "original_sample_id": 86,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-ByoSbgzr4M.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Electric shaver, electric razor, C) Television, D) Tender music",
+    "options": [
+      "Music",
+      "Electric shaver, electric razor",
+      "Television",
+      "Tender music"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Tapping (guitar technique)",
+      "Music"
+    ],
+    "original_sample_id": 86,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-COelgvUEW4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Reverberation, B) Skateboard, C) Splash, splatter, D) Music",
+    "options": [
+      "Reverberation",
+      "Skateboard",
+      "Splash, splatter",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Female singing"
+    ],
+    "original_sample_id": 87,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-COelgvUEW4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Female singing, B) Railroad car, train wagon, C) Cap gun, D) Chorus effect",
+    "options": [
+      "Female singing",
+      "Railroad car, train wagon",
+      "Cap gun",
+      "Chorus effect"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Female singing",
+    "original_labels": [
+      "Music",
+      "Female singing"
+    ],
+    "original_sample_id": 87,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-CXICIHCb6Y.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Tap, B) Rain on surface, C) Chewing, mastication, D) Drum kit",
+    "options": [
+      "Tap",
+      "Rain on surface",
+      "Chewing, mastication",
+      "Drum kit"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Tap",
+    "original_labels": [
+      "Tap",
+      "Speech"
+    ],
+    "original_sample_id": 88,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-CXICIHCb6Y.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Slap, smack, C) Child speech, kid speaking, D) Cutlery, silverware",
+    "options": [
+      "Speech",
+      "Slap, smack",
+      "Child speech, kid speaking",
+      "Cutlery, silverware"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Tap",
+      "Speech"
+    ],
+    "original_sample_id": 88,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-CZ1LIc8aos.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Car passing by, B) Radio, C) Cupboard open or close, D) Chorus effect",
+    "options": [
+      "Car passing by",
+      "Radio",
+      "Cupboard open or close",
+      "Chorus effect"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Car passing by",
+    "original_labels": [
+      "Car passing by"
+    ],
+    "original_sample_id": 89
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Cdx8zogHI0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Scary music, B) Pink noise, C) Breaking, D) Artillery fire",
+    "options": [
+      "Scary music",
+      "Pink noise",
+      "Breaking",
+      "Artillery fire"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Breaking",
+    "original_labels": [
+      "Breaking",
+      "Shatter",
+      "Speech"
+    ],
+    "original_sample_id": 90,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Cdx8zogHI0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Heart sounds, heartbeat, B) French horn, C) Shatter, D) Whack, thwack",
+    "options": [
+      "Heart sounds, heartbeat",
+      "French horn",
+      "Shatter",
+      "Whack, thwack"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Shatter",
+    "original_labels": [
+      "Breaking",
+      "Shatter",
+      "Speech"
+    ],
+    "original_sample_id": 90,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Cdx8zogHI0.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Yip, B) Oink, C) Clarinet, D) Speech",
+    "options": [
+      "Yip",
+      "Oink",
+      "Clarinet",
+      "Speech"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Breaking",
+      "Shatter",
+      "Speech"
+    ],
+    "original_sample_id": 90,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Cr0wim-lIQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Echo, B) Sidetone, C) Change ringing (campanology), D) Dental drill, dentist's drill",
+    "options": [
+      "Echo",
+      "Sidetone",
+      "Change ringing (campanology)",
+      "Dental drill, dentist's drill"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Change ringing (campanology)",
+    "original_labels": [
+      "Change ringing (campanology)"
+    ],
+    "original_sample_id": 91
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-D--GWwca0g.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Tender music, B) Music, C) Squawk, D) Bleat",
+    "options": [
+      "Tender music",
+      "Music",
+      "Squawk",
+      "Bleat"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Eruption",
+      "Speech"
+    ],
+    "original_sample_id": 92,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-D--GWwca0g.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Timpani, B) Eruption, C) Music of Africa, D) Thunder",
+    "options": [
+      "Timpani",
+      "Eruption",
+      "Music of Africa",
+      "Thunder"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Eruption",
+    "original_labels": [
+      "Music",
+      "Eruption",
+      "Speech"
+    ],
+    "original_sample_id": 92,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-D--GWwca0g.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Pizzicato, C) Frying (food), D) Typing",
+    "options": [
+      "Speech",
+      "Pizzicato",
+      "Frying (food)",
+      "Typing"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Eruption",
+      "Speech"
+    ],
+    "original_sample_id": 92,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-DSNfC2EJhU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Train whistle, B) Motorboat, speedboat, C) Toilet flush, D) Singing bowl",
+    "options": [
+      "Train whistle",
+      "Motorboat, speedboat",
+      "Toilet flush",
+      "Singing bowl"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Toilet flush",
+    "original_labels": [
+      "Toilet flush",
+      "Water"
+    ],
+    "original_sample_id": 93,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-DSNfC2EJhU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Jazz, B) Water, C) Dishes, pots, and pans, D) Bow-wow",
+    "options": [
+      "Jazz",
+      "Water",
+      "Dishes, pots, and pans",
+      "Bow-wow"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Water",
+    "original_labels": [
+      "Toilet flush",
+      "Water"
+    ],
+    "original_sample_id": 93,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-DnZ_ZY3lgA.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Timpani, B) Music, C) Child singing, D) Crumpling, crinkling",
+    "options": [
+      "Timpani",
+      "Music",
+      "Child singing",
+      "Crumpling, crinkling"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Timpani",
+    "original_labels": [
+      "Timpani"
+    ],
+    "original_sample_id": 94
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-E35OMfL4A4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Telephone dialing, DTMF, C) Choir, D) Drip",
+    "options": [
+      "Music",
+      "Telephone dialing, DTMF",
+      "Choir",
+      "Drip"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Mouse"
+    ],
+    "original_sample_id": 95,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-E35OMfL4A4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Mouse, B) Basketball bounce, C) Squish, D) Bowed string instrument",
+    "options": [
+      "Mouse",
+      "Basketball bounce",
+      "Squish",
+      "Bowed string instrument"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Mouse",
+    "original_labels": [
+      "Music",
+      "Mouse"
+    ],
+    "original_sample_id": 95,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-EVRXQpt1-8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Hoot, B) Chewing, mastication, C) Yodeling, D) Ska",
+    "options": [
+      "Hoot",
+      "Chewing, mastication",
+      "Yodeling",
+      "Ska"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Yodeling",
+    "original_labels": [
+      "Yodeling",
+      "Music",
+      "Inside, large room or hall"
+    ],
+    "original_sample_id": 96,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-EVRXQpt1-8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rattle, B) Civil defense siren, C) Music, D) Propeller, airscrew",
+    "options": [
+      "Rattle",
+      "Civil defense siren",
+      "Music",
+      "Propeller, airscrew"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Yodeling",
+      "Music",
+      "Inside, large room or hall"
+    ],
+    "original_sample_id": 96,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-EVRXQpt1-8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Vacuum cleaner, B) Inside, large room or hall, C) Music of Bollywood, D) Distortion",
+    "options": [
+      "Vacuum cleaner",
+      "Inside, large room or hall",
+      "Music of Bollywood",
+      "Distortion"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Inside, large room or hall",
+    "original_labels": [
+      "Yodeling",
+      "Music",
+      "Inside, large room or hall"
+    ],
+    "original_sample_id": 96,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-EdnWQqlerc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Babbling, B) Keys jangling, C) Noise, D) Chatter",
+    "options": [
+      "Babbling",
+      "Keys jangling",
+      "Noise",
+      "Chatter"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Noise",
+    "original_labels": [
+      "Noise"
+    ],
+    "original_sample_id": 97
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-EgyhJoKuRU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Conversation, B) Howl, C) Bang, D) Music of Latin America",
+    "options": [
+      "Conversation",
+      "Howl",
+      "Bang",
+      "Music of Latin America"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Bang",
+    "original_labels": [
+      "Bang"
+    ],
+    "original_sample_id": 98
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-F7sBonFvVw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Steel guitar, slide guitar, B) Hubbub, speech noise, speech babble, C) Traffic noise, roadway noise, D) Boiling",
+    "options": [
+      "Steel guitar, slide guitar",
+      "Hubbub, speech noise, speech babble",
+      "Traffic noise, roadway noise",
+      "Boiling"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Boiling",
+    "original_labels": [
+      "Boiling"
+    ],
+    "original_sample_id": 99
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-FITRqeXl9Q.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Double bass, B) Snoring, C) Applause, D) Humming",
+    "options": [
+      "Double bass",
+      "Snoring",
+      "Applause",
+      "Humming"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Snoring",
+    "original_labels": [
+      "Snoring",
+      "Purr"
+    ],
+    "original_sample_id": 100,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-FITRqeXl9Q.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Steam, B) Purr, C) Hum, D) Run",
+    "options": [
+      "Steam",
+      "Purr",
+      "Hum",
+      "Run"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Purr",
+    "original_labels": [
+      "Snoring",
+      "Purr"
+    ],
+    "original_sample_id": 100,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-FKrYTj_eCU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Writing, B) Car alarm, C) Sanding, D) Screaming",
+    "options": [
+      "Writing",
+      "Car alarm",
+      "Sanding",
+      "Screaming"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Screaming",
+    "original_labels": [
+      "Screaming"
+    ],
+    "original_sample_id": 101
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-FoTxwPOz3U.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bleat, B) Gargling, C) Shuffle, D) Skateboard",
+    "options": [
+      "Bleat",
+      "Gargling",
+      "Shuffle",
+      "Skateboard"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Gargling",
+    "original_labels": [
+      "Gargling",
+      "Speech",
+      "Child speech, kid speaking"
+    ],
+    "original_sample_id": 102,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-FoTxwPOz3U.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rock and roll, B) Speech, C) Car alarm, D) Salsa music",
+    "options": [
+      "Rock and roll",
+      "Speech",
+      "Car alarm",
+      "Salsa music"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Gargling",
+      "Speech",
+      "Child speech, kid speaking"
+    ],
+    "original_sample_id": 102,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-FoTxwPOz3U.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Child speech, kid speaking, B) Raindrop, C) Blender, D) Didgeridoo",
+    "options": [
+      "Child speech, kid speaking",
+      "Raindrop",
+      "Blender",
+      "Didgeridoo"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Child speech, kid speaking",
+    "original_labels": [
+      "Gargling",
+      "Speech",
+      "Child speech, kid speaking"
+    ],
+    "original_sample_id": 102,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Fy2i3zpYdY.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Violin, fiddle, B) Trickle, dribble, C) Tuning fork, D) Female speech, woman speaking",
+    "options": [
+      "Violin, fiddle",
+      "Trickle, dribble",
+      "Tuning fork",
+      "Female speech, woman speaking"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Tuning fork",
+    "original_labels": [
+      "Tuning fork"
+    ],
+    "original_sample_id": 103
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-G04QpzSpbU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Noise, B) Belly laugh, C) Purr, D) Train",
+    "options": [
+      "Noise",
+      "Belly laugh",
+      "Purr",
+      "Train"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Purr",
+    "original_labels": [
+      "Purr",
+      "Child speech, kid speaking"
+    ],
+    "original_sample_id": 104,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-G04QpzSpbU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Child speech, kid speaking, B) Bird vocalization, bird call, bird song, C) Power tool, D) Pizzicato",
+    "options": [
+      "Child speech, kid speaking",
+      "Bird vocalization, bird call, bird song",
+      "Power tool",
+      "Pizzicato"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Child speech, kid speaking",
+    "original_labels": [
+      "Purr",
+      "Child speech, kid speaking"
+    ],
+    "original_sample_id": 104,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-G3tJhsHtKU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Folk music, B) Jingle, tinkle, C) Jingle bell, D) Belly laugh",
+    "options": [
+      "Folk music",
+      "Jingle, tinkle",
+      "Jingle bell",
+      "Belly laugh"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Jingle, tinkle",
+    "original_labels": [
+      "Jingle, tinkle"
+    ],
+    "original_sample_id": 105
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-GVRoRILVD4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Singing, B) Crumpling, crinkling, C) Rain, D) Mechanical fan",
+    "options": [
+      "Singing",
+      "Crumpling, crinkling",
+      "Rain",
+      "Mechanical fan"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Singing",
+    "original_labels": [
+      "Singing",
+      "Opera"
+    ],
+    "original_sample_id": 106,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-GVRoRILVD4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Opera, B) Ska, C) Reverberation, D) Theme music",
+    "options": [
+      "Opera",
+      "Ska",
+      "Reverberation",
+      "Theme music"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Opera",
+    "original_labels": [
+      "Singing",
+      "Opera"
+    ],
+    "original_sample_id": 106,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Gf4Ihv1zwc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Male speech, man speaking, B) Screaming, C) Music, D) Chicken, rooster",
+    "options": [
+      "Male speech, man speaking",
+      "Screaming",
+      "Music",
+      "Chicken, rooster"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Tender music"
+    ],
+    "original_sample_id": 107,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Gf4Ihv1zwc.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Noise, B) Fire, C) Psychedelic rock, D) Tender music",
+    "options": [
+      "Noise",
+      "Fire",
+      "Psychedelic rock",
+      "Tender music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Tender music",
+    "original_labels": [
+      "Music",
+      "Tender music"
+    ],
+    "original_sample_id": 107,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Gr9P8Abnlk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Piano, B) Ocean, C) Toilet flush, D) Thump, thud",
+    "options": [
+      "Piano",
+      "Ocean",
+      "Toilet flush",
+      "Thump, thud"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Toilet flush",
+    "original_labels": [
+      "Toilet flush",
+      "Water"
+    ],
+    "original_sample_id": 108,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Gr9P8Abnlk.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Water, B) Rowboat, canoe, kayak, C) Biting, D) Thunder",
+    "options": [
+      "Water",
+      "Rowboat, canoe, kayak",
+      "Biting",
+      "Thunder"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Water",
+    "original_labels": [
+      "Toilet flush",
+      "Water"
+    ],
+    "original_sample_id": 108,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-HAoExLVs6Q.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Burping, eructation, B) Railroad car, train wagon, C) Medium engine (mid frequency), D) Caw",
+    "options": [
+      "Burping, eructation",
+      "Railroad car, train wagon",
+      "Medium engine (mid frequency)",
+      "Caw"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Railroad car, train wagon",
+    "original_labels": [
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 109,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-HAoExLVs6Q.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Battle cry, B) Doorbell, C) Television, D) Rail transport",
+    "options": [
+      "Battle cry",
+      "Doorbell",
+      "Television",
+      "Rail transport"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Rail transport",
+    "original_labels": [
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 109,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-HAoExLVs6Q.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Hoot, B) Train, C) Screaming, D) Scary music",
+    "options": [
+      "Hoot",
+      "Train",
+      "Screaming",
+      "Scary music"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Train",
+    "original_labels": [
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 109,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-HAoExLVs6Q.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Ship, B) Train wheels squealing, C) Duck, D) Timpani",
+    "options": [
+      "Ship",
+      "Train wheels squealing",
+      "Duck",
+      "Timpani"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Train wheels squealing",
+    "original_labels": [
+      "Railroad car, train wagon",
+      "Rail transport",
+      "Train",
+      "Train wheels squealing"
+    ],
+    "original_sample_id": 109,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-HKAgW-vzSI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Dental drill, dentist's drill, B) Dishes, pots, and pans, C) Sneeze, D) Scratching (performance technique)",
+    "options": [
+      "Dental drill, dentist's drill",
+      "Dishes, pots, and pans",
+      "Sneeze",
+      "Scratching (performance technique)"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Dental drill, dentist's drill",
+    "original_labels": [
+      "Dental drill, dentist's drill",
+      "Speech"
+    ],
+    "original_sample_id": 110,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-HKAgW-vzSI.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Cough, C) Bark, D) Jazz",
+    "options": [
+      "Speech",
+      "Cough",
+      "Bark",
+      "Jazz"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Dental drill, dentist's drill",
+      "Speech"
+    ],
+    "original_sample_id": 110,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-HWygXWSNRA.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Lullaby, B) Creak, C) Car, D) Liquid",
+    "options": [
+      "Lullaby",
+      "Creak",
+      "Car",
+      "Liquid"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Car",
+    "original_labels": [
+      "Car",
+      "Medium engine (mid frequency)"
+    ],
+    "original_sample_id": 111,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-HWygXWSNRA.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Gears, B) Crowing, cock-a-doodle-doo, C) Medium engine (mid frequency), D) Whimper (dog)",
+    "options": [
+      "Gears",
+      "Crowing, cock-a-doodle-doo",
+      "Medium engine (mid frequency)",
+      "Whimper (dog)"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Medium engine (mid frequency)",
+    "original_labels": [
+      "Car",
+      "Medium engine (mid frequency)"
+    ],
+    "original_sample_id": 111,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IKnJa9U66I.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Explosion, C) Chime, D) Thunk",
+    "options": [
+      "Music",
+      "Explosion",
+      "Chime",
+      "Thunk"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Sewing machine",
+      "Light engine (high frequency)"
+    ],
+    "original_sample_id": 112,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IKnJa9U66I.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Owl, B) Speech, C) Neigh, whinny, D) Canidae, dogs, wolves",
+    "options": [
+      "Owl",
+      "Speech",
+      "Neigh, whinny",
+      "Canidae, dogs, wolves"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Sewing machine",
+      "Light engine (high frequency)"
+    ],
+    "original_sample_id": 112,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IKnJa9U66I.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Scary music, B) Zing, C) Harp, D) Sewing machine",
+    "options": [
+      "Scary music",
+      "Zing",
+      "Harp",
+      "Sewing machine"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Sewing machine",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Sewing machine",
+      "Light engine (high frequency)"
+    ],
+    "original_sample_id": 112,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IKnJa9U66I.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Light engine (high frequency), B) Horse, C) Bark, D) Whistling",
+    "options": [
+      "Light engine (high frequency)",
+      "Horse",
+      "Bark",
+      "Whistling"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Light engine (high frequency)",
+    "original_labels": [
+      "Music",
+      "Speech",
+      "Sewing machine",
+      "Light engine (high frequency)"
+    ],
+    "original_sample_id": 112,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IVxwkTcpp4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Children shouting, B) Cutlery, silverware, C) Tuning fork, D) Ringtone",
+    "options": [
+      "Children shouting",
+      "Cutlery, silverware",
+      "Tuning fork",
+      "Ringtone"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Ringtone",
+    "original_labels": [
+      "Ringtone",
+      "Music"
+    ],
+    "original_sample_id": 113,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IVxwkTcpp4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Spray, B) Vocal music, C) Splinter, D) Music",
+    "options": [
+      "Spray",
+      "Vocal music",
+      "Splinter",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Ringtone",
+      "Music"
+    ],
+    "original_sample_id": 113,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IZbvEO9wzU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Cattle, bovinae, B) Tuning fork, C) Music, D) Tire squeal",
+    "options": [
+      "Cattle, bovinae",
+      "Tuning fork",
+      "Music",
+      "Tire squeal"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 114,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IZbvEO9wzU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Cymbal, B) Techno, C) Wind noise (microphone), D) Female singing",
+    "options": [
+      "Cymbal",
+      "Techno",
+      "Wind noise (microphone)",
+      "Female singing"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Female singing",
+    "original_labels": [
+      "Music",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 114,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IZbvEO9wzU.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Pig, B) Child singing, C) Electronic organ, D) Emergency vehicle",
+    "options": [
+      "Pig",
+      "Child singing",
+      "Electronic organ",
+      "Emergency vehicle"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Child singing",
+    "original_labels": [
+      "Music",
+      "Female singing",
+      "Child singing"
+    ],
+    "original_sample_id": 114,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IeSZuZNhPw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Chant, B) Rock music, C) Engine, D) Music",
+    "options": [
+      "Chant",
+      "Rock music",
+      "Engine",
+      "Music"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Engine",
+    "original_labels": [
+      "Engine",
+      "Rattle",
+      "Vehicle"
+    ],
+    "original_sample_id": 115,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IeSZuZNhPw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Chopping (food), B) Rattle, C) Patter, D) Crunch",
+    "options": [
+      "Chopping (food)",
+      "Rattle",
+      "Patter",
+      "Crunch"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Rattle",
+    "original_labels": [
+      "Engine",
+      "Rattle",
+      "Vehicle"
+    ],
+    "original_sample_id": 115,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IeSZuZNhPw.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Explosion, B) Reggae, C) Bird vocalization, bird call, bird song, D) Vehicle",
+    "options": [
+      "Explosion",
+      "Reggae",
+      "Bird vocalization, bird call, bird song",
+      "Vehicle"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Vehicle",
+    "original_labels": [
+      "Engine",
+      "Rattle",
+      "Vehicle"
+    ],
+    "original_sample_id": 115,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Igq1W20Gi8.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Squish, B) Growling, C) Mains hum, D) Whistling",
+    "options": [
+      "Squish",
+      "Growling",
+      "Mains hum",
+      "Whistling"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Whistling",
+    "original_labels": [
+      "Whistling"
+    ],
+    "original_sample_id": 116
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Irh7_N5Kjs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Bellow, B) Water tap, faucet, C) Pant, D) Insect",
+    "options": [
+      "Bellow",
+      "Water tap, faucet",
+      "Pant",
+      "Insect"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Bellow",
+    "original_labels": [
+      "Bellow",
+      "Speech"
+    ],
+    "original_sample_id": 117,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-Irh7_N5Kjs.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Speech, B) Buzz, C) Cattle, bovinae, D) Electric shaver, electric razor",
+    "options": [
+      "Speech",
+      "Buzz",
+      "Cattle, bovinae",
+      "Electric shaver, electric razor"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Speech",
+    "original_labels": [
+      "Bellow",
+      "Speech"
+    ],
+    "original_sample_id": 117,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IvJaK7HLtQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Carnatic music, B) Goat, C) Rimshot, D) Tubular bells",
+    "options": [
+      "Carnatic music",
+      "Goat",
+      "Rimshot",
+      "Tubular bells"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Carnatic music",
+    "original_labels": [
+      "Carnatic music",
+      "Mantra",
+      "Music",
+      "Sitar"
+    ],
+    "original_sample_id": 118,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IvJaK7HLtQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rock music, B) Mantra, C) Dance music, D) Snort",
+    "options": [
+      "Rock music",
+      "Mantra",
+      "Dance music",
+      "Snort"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Mantra",
+    "original_labels": [
+      "Carnatic music",
+      "Mantra",
+      "Music",
+      "Sitar"
+    ],
+    "original_sample_id": 118,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IvJaK7HLtQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Turkey, B) Ice cream truck, ice cream van, C) Psychedelic rock, D) Music",
+    "options": [
+      "Turkey",
+      "Ice cream truck, ice cream van",
+      "Psychedelic rock",
+      "Music"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Music",
+    "original_labels": [
+      "Carnatic music",
+      "Mantra",
+      "Music",
+      "Sitar"
+    ],
+    "original_sample_id": 118,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-IvJaK7HLtQ.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Church bell, B) Door, C) Inside, small room, D) Sitar",
+    "options": [
+      "Church bell",
+      "Door",
+      "Inside, small room",
+      "Sitar"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Sitar",
+    "original_labels": [
+      "Carnatic music",
+      "Mantra",
+      "Music",
+      "Sitar"
+    ],
+    "original_sample_id": 118,
+    "label_index_in_original": 3
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JBH9j7-h8U.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Quack, B) Steelpan, C) Electronic music, D) Jazz",
+    "options": [
+      "Quack",
+      "Steelpan",
+      "Electronic music",
+      "Jazz"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Quack",
+    "original_labels": [
+      "Quack",
+      "Duck",
+      "Animal"
+    ],
+    "original_sample_id": 119,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JBH9j7-h8U.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Duck, B) Electronic music, C) Fowl, D) Wild animals",
+    "options": [
+      "Duck",
+      "Electronic music",
+      "Fowl",
+      "Wild animals"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Duck",
+    "original_labels": [
+      "Quack",
+      "Duck",
+      "Animal"
+    ],
+    "original_sample_id": 119,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JBH9j7-h8U.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Animal, B) Whoosh, swoosh, swish, C) Bang, D) Choir",
+    "options": [
+      "Animal",
+      "Whoosh, swoosh, swish",
+      "Bang",
+      "Choir"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Animal",
+    "original_labels": [
+      "Quack",
+      "Duck",
+      "Animal"
+    ],
+    "original_sample_id": 119,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JJmkQYZA-4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Hammer, B) Idling, C) Rustling leaves, D) Fowl",
+    "options": [
+      "Hammer",
+      "Idling",
+      "Rustling leaves",
+      "Fowl"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Fowl",
+    "original_labels": [
+      "Fowl",
+      "Crowing, cock-a-doodle-doo",
+      "Chicken, rooster"
+    ],
+    "original_sample_id": 120,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JJmkQYZA-4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Ukulele, B) Whistling, C) Music of Bollywood, D) Crowing, cock-a-doodle-doo",
+    "options": [
+      "Ukulele",
+      "Whistling",
+      "Music of Bollywood",
+      "Crowing, cock-a-doodle-doo"
+    ],
+    "correct_answer": "D",
+    "correct_answer_index": 3,
+    "correct_label": "Crowing, cock-a-doodle-doo",
+    "original_labels": [
+      "Fowl",
+      "Crowing, cock-a-doodle-doo",
+      "Chicken, rooster"
+    ],
+    "original_sample_id": 120,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JJmkQYZA-4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Male speech, man speaking, B) Chicken, rooster, C) Ding-dong, D) Screaming",
+    "options": [
+      "Male speech, man speaking",
+      "Chicken, rooster",
+      "Ding-dong",
+      "Screaming"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Chicken, rooster",
+    "original_labels": [
+      "Fowl",
+      "Crowing, cock-a-doodle-doo",
+      "Chicken, rooster"
+    ],
+    "original_sample_id": 120,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JUBdOr8Hes.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Accordion, B) Snoring, C) Funk, D) Bow-wow",
+    "options": [
+      "Accordion",
+      "Snoring",
+      "Funk",
+      "Bow-wow"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Accordion",
+    "original_labels": [
+      "Accordion"
+    ],
+    "original_sample_id": 121
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JeVsIKuMIM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Static, B) Cattle, bovinae, C) Sitar, D) Wind noise (microphone)",
+    "options": [
+      "Static",
+      "Cattle, bovinae",
+      "Sitar",
+      "Wind noise (microphone)"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Static",
+    "original_labels": [
+      "Static"
+    ],
+    "original_sample_id": 122
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JlIkV1f_g4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Wood block, B) Cupboard open or close, C) Creak, D) Chuckle, chortle",
+    "options": [
+      "Wood block",
+      "Cupboard open or close",
+      "Creak",
+      "Chuckle, chortle"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Wood block",
+    "original_labels": [
+      "Wood block",
+      "Percussion"
+    ],
+    "original_sample_id": 123,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JlIkV1f_g4.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Scratch, B) Percussion, C) Double bass, D) Gargling",
+    "options": [
+      "Scratch",
+      "Percussion",
+      "Double bass",
+      "Gargling"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Percussion",
+    "original_labels": [
+      "Wood block",
+      "Percussion"
+    ],
+    "original_sample_id": 123,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JvB5AL59fM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Music, B) Disco, C) Bluegrass, D) Bicycle bell",
+    "options": [
+      "Music",
+      "Disco",
+      "Bluegrass",
+      "Bicycle bell"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Music",
+    "original_labels": [
+      "Music",
+      "Rhythm and blues",
+      "Happy music",
+      "Exciting music"
+    ],
+    "original_sample_id": 124,
+    "label_index_in_original": 0
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JvB5AL59fM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Rail transport, B) Drum and bass, C) Rhythm and blues, D) Dog",
+    "options": [
+      "Rail transport",
+      "Drum and bass",
+      "Rhythm and blues",
+      "Dog"
+    ],
+    "correct_answer": "C",
+    "correct_answer_index": 2,
+    "correct_label": "Rhythm and blues",
+    "original_labels": [
+      "Music",
+      "Rhythm and blues",
+      "Happy music",
+      "Exciting music"
+    ],
+    "original_sample_id": 124,
+    "label_index_in_original": 1
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JvB5AL59fM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Happy music, B) Owl, C) Reggae, D) Yodeling",
+    "options": [
+      "Happy music",
+      "Owl",
+      "Reggae",
+      "Yodeling"
+    ],
+    "correct_answer": "A",
+    "correct_answer_index": 0,
+    "correct_label": "Happy music",
+    "original_labels": [
+      "Music",
+      "Rhythm and blues",
+      "Happy music",
+      "Exciting music"
+    ],
+    "original_sample_id": 124,
+    "label_index_in_original": 2
+  },
+  {
+    "wav": "/data/sls/audioset/dave_version/audio/-JvB5AL59fM.flac",
+    "question": "What audio event is present in this audio clip? Choose from: A) Video game music, B) Exciting music, C) Ship, D) Arrow",
+    "options": [
+      "Video game music",
+      "Exciting music",
+      "Ship",
+      "Arrow"
+    ],
+    "correct_answer": "B",
+    "correct_answer_index": 1,
+    "correct_label": "Exciting music",
+    "original_labels": [
+      "Music",
+      "Rhythm and blues",
+      "Happy music",
+      "Exciting music"
+    ],
+    "original_sample_id": 124,
+    "label_index_in_original": 3
+  }]

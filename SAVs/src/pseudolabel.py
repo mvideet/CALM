@@ -189,7 +189,6 @@ def generate_pseudolabels(args):
 
             # Build pseudolabel item
             pseudolabel_item = {
-                "wav": item.get("wav", ""),
                 "question": item.get("question", ""),
                 "answer": matched_answer,
                 "label": item.get("label", matched_answer),
@@ -199,6 +198,12 @@ def generate_pseudolabels(args):
                 "correct_answer": matched_answer,
                 "correct_answer_index": matched_option_idx,
             }
+
+            # Preserve media path (audio or image)
+            if "wav" in item:
+                pseudolabel_item["wav"] = item["wav"]
+            if "image" in item:
+                pseudolabel_item["image"] = item["image"]
 
             # Preserve optional fields
             for field in ["original_sample_id", "original_labels", "label_index_in_original"]:
